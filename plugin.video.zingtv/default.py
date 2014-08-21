@@ -22,11 +22,7 @@ def iI1 ( ) :
  if 73 - 73: III - oo00oOOo * Oooo000o % OOo . OOO
  IiI1ii1 = xbmc . translatePath ( xbmcaddon . Addon ( ) . getAddonInfo ( 'path' ) ) . decode ( "utf-8" )
  IiI1ii1 = xbmc . translatePath ( os . path . join ( IiI1ii1 , "temp.jpg" ) )
- #urllib . urlretrieve ( 'http://echipstore.net/images/zingtv.jpg' , IiI1ii1 )
- #oooOOooo = xbmcgui . ControlImage ( 0 , 0 , 1280 , 720 , IiI1ii1 )
- #o0oo0oo0OO00 = xbmcgui . WindowDialog ( )
- #o0oo0oo0OO00 . addControl ( oooOOooo )
- #o0oo0oo0OO00 . doModal ( )
+
  if 20 - 20: i111iII
  oOOo = xbmc . getSkinDir ( )
  if oOOo == 'skin.xeebo' :
