@@ -1,4 +1,4 @@
-﻿1.0.6- Remove Add Pic, change fanart
+﻿1.0.6- Remove Add Pic, change fanart 
 1.0.5
 - Add "Play from here" function
 - Simplify menu
