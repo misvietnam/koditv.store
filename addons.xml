@@ -2,9 +2,9 @@
 <addons>
 <addon
   id="plugin.video.zingtv"
-  version="1.0.6"
+  version="1.0.5"
   name="Zing TV"
-  provider-name="Thu Nguyen Minh">
+  provider-name="thongld">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.urlresolver" version="0.0.1"/>
@@ -13,7 +13,7 @@
         <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary>ZINGTV Thun</summary>
+    <summary>tv.zing.vn</summary>
     <description>Watch Zing TV (Vietnamese) Videos</description>
     <platform>all</platform>
   </extension>

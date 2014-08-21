@@ -1,20 +1,16 @@
-﻿1.0.6- Remove Add Pic, change fanart 
-1.0.5
-- Add "Play from here" function
+﻿1.0.5
+- Moi Add "Play from here" function
 - Simplify menu
-
 
 1.0.4
 - Add "Thiếu nhi", "Video Games"
 - Fix some minor bugs
-
 
 1.0.2
 - Change icon
 
 1.0.1
 - Fix some minor bugs
-
 
 1.0
 - Initial release

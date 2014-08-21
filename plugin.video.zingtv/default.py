@@ -21,8 +21,12 @@ def iI1 ( ) :
  i1I11i ( 'Tin tức - Sự kiện' , 'http://m.tv.zing.vn/ajax?f=genreProgram&s=new&id=IWZ9Z0CF&page=1&count=50' , 'indexprogram' , 'http://static.mp3.zdn.vn/skins/tv/images/zingtv-logo.png' )
  if 73 - 73: III - oo00oOOo * Oooo000o % OOo . OOO
  IiI1ii1 = xbmc . translatePath ( xbmcaddon . Addon ( ) . getAddonInfo ( 'path' ) ) . decode ( "utf-8" )
- IiI1ii1 = xbmc . translatePath ( os . path . join ( IiI1ii1 , "temp.jpg" ) )
-
+ ##IiI1ii1 = xbmc . translatePath ( os . path . join ( IiI1ii1 , "temp.jpg" ) )
+ ##urllib . urlretrieve ( 'http://echipstore.net/images/zingtv.jpg' , IiI1ii1 )
+ ##oooOOooo = xbmcgui . ControlImage ( 0 , 0 , 1280 , 720 , IiI1ii1 )
+ ##o0oo0oo0OO00 = xbmcgui . WindowDialog ( )
+ ##o0oo0oo0OO00 . addControl ( oooOOooo )
+ ##o0oo0oo0OO00 . doModal ( )
  if 20 - 20: i111iII
  oOOo = xbmc . getSkinDir ( )
  if oOOo == 'skin.xeebo' :
