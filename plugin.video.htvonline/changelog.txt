@@ -1,0 +1,11 @@
+1.0.3
+- Fix GA Path xem htv online
+
+1.0.2
+- Add GA
+
+1.0.1
+- Change icon
+
+1.0
+- Initial release
