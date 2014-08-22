@@ -1,5 +1,5 @@
-1.0.5
-- Add "Play from here" function
+﻿1.0.5
+- Add "Play tu day" function
 - Simplify menu
 
 1.0.4
