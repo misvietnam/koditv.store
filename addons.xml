@@ -2,7 +2,7 @@
 <addons>
 <addon
   id="plugin.video.zingtv"
-  version="1.0.5"
+  version="1.0.6"
   name="Zing TV"
   provider-name="thongld">
   <requires>
