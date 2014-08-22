@@ -2,7 +2,7 @@
 <addons>
 <addon
   id="plugin.video.zingtv"
-  version="1.0.8"
+  version="1.0.9"
   name="Zing TV"
   provider-name="Thu Nguyen Minh">
   <requires>

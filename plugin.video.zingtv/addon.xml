@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon
   id="plugin.video.zingtv"
-  version="1.0.8"
+  version="1.0.9"
   name="Zing TV"
   provider-name="Thu Nguyen Minh">
   <requires>

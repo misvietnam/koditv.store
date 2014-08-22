@@ -1,4 +1,10 @@
-﻿1.0.6
+﻿1.0.8
+- Add adv
+1.0.8
+- Change Icon
+1.0.7
+- Add farnat again
+1.0.6
 - remove farnat 
 1.0.5
 - Add "Play tu day" function
