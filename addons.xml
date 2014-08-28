@@ -55,7 +55,7 @@
 </addon>
 
 <addon
-  id="plugin.video.phim.xixam.com"
+  id="plugin.video.phim.xixam"
   version="1.0.5"
   name="Xi Xam"
   provider-name="Thu Nguyen Minh">
