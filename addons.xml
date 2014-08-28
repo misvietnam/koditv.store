@@ -1,8 +1,155 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 <addon
+  id="plugin.video.hayhaytv"
+  version="1.0.21"
+  name="HayHayTV.vn"
+  provider-name="Thu Nguyen Minh">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>hayhaytv</summary>
+    <description>Xem Phim trÃªn HayHayTV </description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon
+  id="plugin.video.hdonlinevn"
+  version="1.0.6"
+  name="HDOnline"
+  provider-name="Thu Nguyen Minh">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>hdonline.vn</summary>
+    <description>Xem phim HD Lá»“ng tiáº¿ng vÃ  Thuyáº¿t minh tiáº¿ng Viá»‡t táº¡i HDonline</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon
+  id="plugin.video.htvonline"
+  version="1.0.4"
+  name="HTV Online"
+  provider-name="Thu Nguyen Minh">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>HTV Online</summary>
+    <description>Watch free HTVOnline.com.vn (Vietnamese) Channels</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon
+  id="plugin.video.phim.xixam.com"
+  version="1.0.5"
+  name="Xi Xam"
+  provider-name="Thu Nguyen Minh">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+		<import addon="script.module.urlresolver" version="0.0.1"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>phim.xixam.com</summary>
+    <description>Watch free phim.xixam.com (Vietnamese) Videos</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon
+  id="plugin.video.phim60s"
+  version="1.0.39"
+  name="Phim60s.info"
+  provider-name="Thu Nguyen Minh">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+		<import addon="script.module.urlresolver" version="0.0.1"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>phim60s</summary>
+    <description>Watch free phim60s.info (Vietnamese) Videos</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon
+  id="plugin.video.phimclipvn"
+  version="1.0.5"
+  name="Phim ClipVN"
+  provider-name="Thu Nguyen Minh">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+		<import addon="script.module.urlresolver" version="0.0.1"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>phim60s</summary>
+    <description>Watch free phim60s.info (Vietnamese) Videos</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon
+  id="plugin.video.vtvplus"
+  version="1.0.3"
+  name="VTV Plus"
+  provider-name="Thu Nguyen Minh">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>HTV Online</summary>
+    <description>Watch vtvplus.vn (Vietnamese) Channels (VIP account required)</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon
+  id="plugin.video.xomgiaitri"
+  version="1.0.2"
+  name="XomGiaiTri.com"
+  provider-name="Thu Nguyen Minh">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>XomGiaiTri.com</summary>
+    <description>Xem phim giáº£i trÃ­ táº¡i XomGiaiTri.com</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon
   id="plugin.video.zingtv"
-  version="1.0.9"
+  version="1.0.11"
   name="Zing TV"
   provider-name="Thu Nguyen Minh">
   <requires>
@@ -14,7 +161,7 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>tv.zing.vn</summary>
-    <description>Xem Cac Clip tren trang tv.zing.vn chat luong 720p</description>
+    <description>Watch Zing TV (Vietnamese) Videos</description>
     <platform>all</platform>
   </extension>
 </addon>
