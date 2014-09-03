@@ -1,0 +1,41 @@
+1.2.2
+- Add support load balancer for viettv24 channels
+
+1.2
+- Update new mec
+
+1.1.4
+- Add GA
+
+1.1.3
+- Change icon
+
+1.1.1
+- Fix minor bugs
+
+1.1.0
+- Update new code
+
+1.0.8
+- Support jpg images
+
+1.0.6
+- Add youtube supports
+
+1.0.5
+- Change to python 2.1.0
+
+1.0.4
+- Fix viewmode
+
+1.0.3
+- Remove redundance dependencies
+
+1.0.2
+- Press Return to close splash screen
+
+1.0.1
+- Splash screen lasts 16s
+
+1.0
+- Initial release

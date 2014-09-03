@@ -76,6 +76,24 @@
 </addon>
 
 <addon
+  id="plugin.video.megafun"
+  version="1.0.14"
+  name="MegaFun.vn"
+  provider-name="thongld">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>hayhaytv</summary>
+    <description>Watch free hayhaytv.vn (Vietnamese) Videos</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon
   id="plugin.video.phim.xixam"
   version="1.0.5"
   name="Xi Xam"
@@ -133,6 +151,24 @@
 </addon>
 
 <addon
+  id="plugin.video.viettv24"
+  version="1.2.4"
+  name="VietTV24.com"
+  provider-name="thongld">
+  <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>VietTV24.com</summary>
+    <description>Watch hundreds of Vietnamesse and English channels</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon
   id="plugin.video.vtvplus"
   version="1.0.3"
   name="VTV Plus"
@@ -185,5 +221,19 @@
     <description>Watch Zing TV (Vietnamese) Videos</description>
     <platform>all</platform>
   </extension>
+</addon>
+
+<addon id="repository.superrepo.org" name="SuperRepo All" version="0.5.1" provider-name="Bart Otten">
+	<extension point="xbmc.addon.repository" name="SuperRepo.org Repository - All">
+		<info compressed="false">http://mirrors.superrepo.org/addons/gotham/.xml/all/addons.xml</info>
+		<checksum>http://mirrors.superrepo.org/addons/gotham/.xml/all/addons.xml.md5</checksum>
+		<datadir zip="true">http://mirrors.superrepo.org/addons/gotham/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install add-ons from the SuperRepo.org All Repository</summary>
+		<description>Download and install add-ons in the category "All" from the SuperRepo.org addon repository.[CR][CR]If you find a broken or not working addon or you would like to include another one, please have a look at http://superrepo.org/[CR][CR]The repository is maintained by the XBMC community using the SuperRepo Wiki and our generator fetches addons from multiple sources. Therefore SuperRepo accepts no responsibility for this service.[CR][CR]The eXtended Reposity Generator is developed by Bart Otten[CR][CR]</description>
+		<platform>all</platform>
+		<website>http://superrepo.org/</website>
+	</extension>
 </addon>
 </addons>
