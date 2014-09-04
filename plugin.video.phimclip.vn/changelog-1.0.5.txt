@@ -1,0 +1,15 @@
+1.0.4
+- Add GA
+- Fix regex
+
+1.0.3
+- Change icon
+
+1.0.2
+- Change icon
+
+1.0.1
+- Fix some minor bug
+
+1.0.0
+- Initial release

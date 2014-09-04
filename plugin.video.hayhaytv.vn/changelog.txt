@@ -1,0 +1,59 @@
+1.0.21
+- remove stream 2
+1.0.20
+- Update Mec
+
+1.0.19
+- Update Proxy
+
+1.0.17
+- Add GA
+
+1.0.16
+- Change icon
+
+1.0.15
+- Use proxy
+
+1.0.14
+- Add m3u8 stream (Stream 1) that can play smoothly but may not work for some movies
+- rtmp stream (Stream 2) still laggy playback as before
+
+1.0.13
+- Add "Play from here" function
+
+1.0.12
+- Fix Phim bo
+
+1.0.10
+- Update 2014-04-22
+
+1.0.9
+- Change popup display
+
+1.0.8
+- Change to python v2.1.0
+
+1.0.7
+- Add icons
+- Remove redundance dependencies
+
+1.0.6
+- Press Return to close Splash screen
+
+1.0.5
+- Splash screen lasts 10s
+- Make use of RTMPE
+
+1.0.4
+- Splash screen lasts 16s
+
+1.0.2
+- Change logo
+- Add Mirrors and Quality Selection
+
+1.0.1
+Fix Sub sync. Add Viddeo Title to Player.
+
+1.0
+- Initial release

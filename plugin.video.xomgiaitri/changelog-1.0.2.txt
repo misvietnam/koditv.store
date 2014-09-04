@@ -1,8 +1,0 @@
-1.0.2
-- Update Mec
-
-1.0.1
-- Change icon
-
-1.0
-- Initial release
