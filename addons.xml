@@ -234,7 +234,7 @@ XBMC HUB: j.mp/xbmctorrent]]></description>
 
 <addon
   id="plugin.video.zingtv.vn"
-  version="1.0.11"
+  version="1.0.5"
   name="ZingTV"
   provider-name="ThuNM">
   <requires>

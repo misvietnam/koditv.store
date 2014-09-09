@@ -1,19 +1,4 @@
-1.0.11
-- Update proxy
-
-1.0.9
-- Add GA
-
-1.0.8
-- Change icon
-
-1.0.7
-- Update 06-11-2014
-
-1.0.6
-- Add proxy
-
-1.0.5
+﻿1.0.5
 - Add "Play from here" function
 - Simplify menu
 
