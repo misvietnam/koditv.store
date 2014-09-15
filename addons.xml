@@ -216,7 +216,7 @@ XBMC HUB: j.mp/xbmctorrent]]></description>
 
 <addon
   id="plugin.video.xomgiaitri.com"
-  version="1.0.2"
+  version="1.0.3"
   name="Phim-XomGiaiTri"
   provider-name="ThuNM">
   <requires>
