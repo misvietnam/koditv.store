@@ -1,4 +1,55 @@
 ﻿#EXTM3U
+
+#EXTM3U
+
+#EXTINF:0, STARMOVIE HD
+http://htqjrpsv.cdnviet.com/htjzzsg/_definst_/starmovies.720p.stream/playlist.m3u8?t=101d55186e560bb411b814733ac4967b&e=1411025980
+#EXTINF:0, HBO HD
+http://123.29.73.99/ilive.m3u8?c=vstv036&token=-q3liG79ZNfa8GxrqzbctA&time=1402989866&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+#EXTINF:0, N+ HD
+rtmp://123.30.134.108/live playpath=nctlive swfUrl=http://stc.lala.nixcdn.com/tv/flash/lala_tv_6.swf pageUrl=http://lala.nhaccuatui.com/tv
+#EXTINF:0, HTV2 HD
+http://htqjrpsv.cdnviet.com/htjzzsg/_definst_/htv7.720p.stream/playlist.m3u8?t=126e3fcbe81872c7162e67352106c1fd&e=1411035022
+#EXTINF:0, HTV7 HD
+http://htqjrpsv.cdnviet.com/htjzzsg/_definst_/htv2.720p.stream/playlist.m3u8?t=2b7eecc860833a813e4682097bab3cd3&e=1411035006
+#EXTINF:0, HTV9 HD
+http://htqjrpsv.cdnviet.com/htjzzsg/_definst_/htv9.720p.stream/playlist.m3u8?t=b9087ca276e141b7f26c98cef2e7e4e1&e=1411035134
+#EXTINF:0, HTVC PHIM HD
+http://htqjrpsv.cdnviet.com/htjzzsg/_definst_/htvc_movies.720p.stream/playlist.m3u8?t=b5a75714815575f147371df88f999523&e=1411035240
+#EXTINF:0, HTVC THUAN VIET HD
+http://htqjrpsv.cdnviet.com/htjzzsg/_definst_/thuan_viet.720p.stream/playlist.m3u8?t=11b35ae20b32fa078c5ff3881eff7ac9&e=1411035290
+#EXTINF:0, THETHAO TV HD
+http://htqjrpsv.cdnviet.com/htjzzsg/_definst_/thethaotv.720p.stream/playlist.m3u8?t=6dde2d0598be1cd92099c6410093f4ab&e=1411035343
+#EXTINF:0, BONGDA TV HD
+http://htqjrpsv.cdnviet.com/htjzzsg/_definst_/bongdatv.720p.stream/playlist.m3u8?t=b0ec007e33a18bb634817a59e095b7b0&e=1411035393
+#EXTINF:0, VTV3 HD
+http://htqjrpsv.cdnviet.com/htjzzsg/_definst_/vtv3.720p.stream/playlist.m3u8?t=2394c23ed147afe1844723cdd17bfcf8&e=1411035432
+#EXTINF:0, VTV6 HD
+http://htqjrpsv.cdnviet.com/htjzzsg/_definst_/vtv6.720p.stream/playlist.m3u8?t=c362031a151ef9ade188b18022599f3b&e=1411035476
+#EXTINF:0, VTC3 HD
+http://htqjrpsv.cdnviet.com/htjzzsg/_definst_/vtc3.720p.stream/playlist.m3u8?t=ce6af07b3d76dd6188a0f4da6badb121&e=1411035508
+#EXTINF:0, FOX HD
+http://htqjrpsv.cdnviet.com/htjzzsg/_definst_/espn.720p.stream/playlist.m3u8?t=ecda2e0651b312f95205f3f16b6c85f4&e=1411035584
+#EXTINF:0, STARWORLD HD
+http://htqjrpsv.cdnviet.com/htjzzsg/_definst_/starworld.720p.stream/playlist.m3u8?t=384ab47e8f022810aac0e089184974cf&e=1411035618
+#EXTINF:0, NATIONAL GEOGRAPHIC HD
+http://htqjrpsv.cdnviet.com/htjzzsg/_definst_/natgeo.720p.stream/playlist.m3u8?t=14be1cb2aeb6d3ca198e9737b411a0b0&e=1411035665
+#EXTINF:0, DICOVERY HD
+http://htqjrpsv.cdnviet.com/htjzzsg/_definst_/discovery.720p.stream/playlist.m3u8?t=bf6c17f993dc4b1603d9cd73406501b1&e=1411035703
+#EXTINF:0, TOM&JERRY SD
+rtmp://66.90.111.66/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html
+#EXTINF:0, CINEMAX SD
+http://m26.megafun.vn/ilive.m3u8?c=vstv037&token=2HfiAc7tDDPaC2Hgrdg87A&time=1410758301&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+#EXTINF:0, AXN SD
+http://m26.megafun.vn/ilive.m3u8?c=vstv077&token=wEtaLWM4hcpwg7_2oMj4uQ&time=1402837677&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+#EXTINF:0, CARTOON NETWORK HD
+http://m26.megafun.vn/ilive.m3u8?c=vstv031&token=JCGu-6nRbHWYX49vin6CAw&time=1410758347&q=medium&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+#EXTINF:0, MTV HD
+http://htqjrpsv.cdnviet.com/htjzzsg/_definst_/mtv.360p.stream/playlist.m3u8?t=5eae9c0bb04cbf07c68c0e862a52f877&e=1411045000
+#EXTINF:0, YEAH1TV HD
+http://htqjrpsv.cdnviet.com/htjzzsg/_definst_/yeah1.720p.stream/chunklist_w1436865462.m3u8?t=b8f65e7b4f7c1f7af17ceac79b63ff7c&e=1411045131
+
+
 #EXTINF:0, SCTV1
 rtmpe://112.197.2.154:1935/live//sctv1_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
 #EXTINF:0, SCTV2
@@ -53,9 +104,6 @@ http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=livez&c=vtv9_2500
 #EXTINF:0, TTXVN
 http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=livez&c=vnews_2500
 
-##EXTINF:0, ANTV
-#http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=live&c=antv_2500
-
 #EXTINF:0, QPVN HD
 http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=livez&c=quocphongHD_2500
 #EXTINF:0, HN1
@@ -101,9 +149,6 @@ http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=live&c=htvcdulich_2500
 #EXTINF:0, HTVC SHOPPING
 http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=live&c=htvcshopping_2500
 
-##EXTINF:0, HTVC THE THAO
-#http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=livez&c=htvcthethao_2500
-
 #EXTINF:0, HTVC THUAN VIET HD
 http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=live&c=htvcthuanvietHD_2500
 #EXTINF:0, HTVC GIA DINH
@@ -145,11 +190,15 @@ http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=livez&c=vinhlong2_2500
 #EXTINF:0, ONETV
 http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=livez&c=onetv_2500
 
-#EXTINF:0, N+ HD
-rtmp://123.30.134.108/live playpath=nctlive swfUrl=http://stc.lala.gonct.info/public/flash/rtmp-3.swf pageUrl=http://www.123tivi.com/2013/03/xem-kenh-nhac-cua-tui-nct-online.html
 #EXTINF:0, VTV CAB 2
 http://live.accessasia.tv:1935/vnptg_channels/vctv2.480p/playlist.m3u8
 #EXTINF:0, VTV CAB 4
 http://live.accessasia.tv:1935/vnptg_channels/vctv4.480p/playlist.m3u8
 #EXTINF:0, VTV CAB 10
 http://live.accessasia.tv:1935/vnptg_channels/mp4:vctv10.480p/playlist.m3u8
+
+##EXTINF:0, ANTV
+#http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=live&c=antv_2500
+
+##EXTINF:0, HTVC THE THAO
+#http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=livez&c=htvcthethao_2500
