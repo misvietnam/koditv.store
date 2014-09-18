@@ -1,16 +1,13 @@
 ﻿#EXTM3U
-
-#EXTM3U
-
 #EXTINF:0, STARMOVIE HD
 http://htqjrpsv.cdnviet.com/htjzzsg/_definst_/starmovies.720p.stream/playlist.m3u8?t=fcdbb9f0fba5339c15f31c14f0c4e829&e=1411045818
 #EXTINF:0, HBO HD
 http://123.29.73.99/ilive.m3u8?c=vstv036&token=-q3liG79ZNfa8GxrqzbctA&time=1402989866&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:0, N+ HD
 rtmp://123.30.134.108/live playpath=nctlive swfUrl=http://stc.lala.nixcdn.com/tv/flash/lala_tv_6.swf pageUrl=http://lala.nhaccuatui.com/tv
-#EXTINF:0, HTV2 HD
-http://htqjrpsv.cdnviet.com/htjzzsg/_definst_/htv7.720p.stream/playlist.m3u8?t=126e3fcbe81872c7162e67352106c1fd&e=1411035022
 #EXTINF:0, HTV7 HD
+http://htqjrpsv.cdnviet.com/htjzzsg/_definst_/htv7.720p.stream/playlist.m3u8?t=126e3fcbe81872c7162e67352106c1fd&e=1411035022
+#EXTINF:0, HTV2 HD
 http://htqjrpsv.cdnviet.com/htjzzsg/_definst_/htv2.720p.stream/playlist.m3u8?t=2b7eecc860833a813e4682097bab3cd3&e=1411035006
 #EXTINF:0, HTV9 HD
 http://htqjrpsv.cdnviet.com/htjzzsg/_definst_/htv9.720p.stream/playlist.m3u8?t=b9087ca276e141b7f26c98cef2e7e4e1&e=1411035134
