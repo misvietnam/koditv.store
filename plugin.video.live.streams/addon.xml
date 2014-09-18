@@ -15,8 +15,7 @@
   <extension point="xbmc.addon.metadata">
     <summary>livestreams</summary>
     <description>
-      It's up to you ;-) As an alternative to .strm files this add-on lets you add streams by adding items to an xml file.
-      Thus giving you a nice list with thumbnails, fanart, and media info if you like.
+      Addon LiveStreams allow user use custom .xml items for streaming contents.  User must configure xml location Ex: "http://smarturl.it/fptplay"
     </description>
     <platform>all</platform>
   </extension>
