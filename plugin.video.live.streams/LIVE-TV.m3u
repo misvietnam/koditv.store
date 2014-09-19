@@ -3,8 +3,6 @@
 http://m26.megafun.vn/ilive.m3u8?c=vstv036&token=-q3liG79ZNfa8GxrqzbctA&time=1402989866&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:0, STARMOVIE 
 http://m26.megafun.vn/ilive.m3u8?c=vstv038&token=TR_UGM7ToNbc94EMDT_V-Q&time=1404578928&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
-#EXTINF:0, BONGDA 
-http://vyhjcdkn.cdnviet.com/hlyzcbv/_definst_/VTVCab16.smil/playlist.m3u8?t=7370ab1bf26a053873262340b37252d2&e=1411097149
 #EXTINF:0, TOM&JERRY 
 rtmp://66.90.111.66/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html
 #EXTINF:0, CINEMAX 
