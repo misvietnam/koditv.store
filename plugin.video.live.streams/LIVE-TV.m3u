@@ -1,16 +1,23 @@
 ﻿#EXTM3U
-#EXTINF:0, HBO HD
-http://123.29.73.99/ilive.m3u8?c=vstv036&token=-q3liG79ZNfa8GxrqzbctA&time=1402989866&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
-#EXTINF:0, N+ HD
-rtmp://123.30.134.108/live playpath=nctlive swfUrl=http://stc.lala.nixcdn.com/tv/flash/lala_tv_6.swf pageUrl=http://lala.nhaccuatui.com/tv
-#EXTINF:0, TOM&JERRY SD
+#EXTINF:0, HBO 
+http://m26.megafun.vn/ilive.m3u8?c=vstv036&token=-q3liG79ZNfa8GxrqzbctA&time=1402989866&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+#EXTINF:0, STARMOVIE 
+http://m26.megafun.vn/ilive.m3u8?c=vstv038&token=TR_UGM7ToNbc94EMDT_V-Q&time=1404578928&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+#EXTINF:0, BONGDA 
+http://vyhjcdkn.cdnviet.com/hlyzcbv/_definst_/VTVCab16.smil/playlist.m3u8?t=7370ab1bf26a053873262340b37252d2&e=1411097149
+#EXTINF:0, TOM&JERRY 
 rtmp://66.90.111.66/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html
-#EXTINF:0, CINEMAX SD
+#EXTINF:0, CINEMAX 
 http://m26.megafun.vn/ilive.m3u8?c=vstv037&token=2HfiAc7tDDPaC2Hgrdg87A&time=1410758301&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
-#EXTINF:0, AXN SD
+#EXTINF:0, AXN 
 http://m26.megafun.vn/ilive.m3u8?c=vstv077&token=wEtaLWM4hcpwg7_2oMj4uQ&time=1402837677&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:0, CARTOON NETWORK HD
 http://m26.megafun.vn/ilive.m3u8?c=vstv031&token=JCGu-6nRbHWYX49vin6CAw&time=1410758347&q=medium&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+
+#EXTINF:0, N+ HD
+rtmp://123.30.134.108/live playpath=nctlive swfUrl=http://stc.lala.nixcdn.com/tv/flash/lala_tv_6.swf pageUrl=http://lala.nhaccuatui.com/tv
+
+
 #EXTINF:0, SCTV1
 rtmpe://112.197.2.154:1935/live//sctv1_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
 #EXTINF:0, SCTV2
@@ -158,8 +165,8 @@ http://live.accessasia.tv:1935/vnptg_channels/vctv4.480p/playlist.m3u8
 #EXTINF:0, VTV CAB 10
 http://live.accessasia.tv:1935/vnptg_channels/mp4:vctv10.480p/playlist.m3u8
 
-##EXTINF:0, ANTV
-#http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=live&c=antv_2500
+#EXTINF:0, ANTV
+http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=live&c=antv_2500
 
-##EXTINF:0, HTVC THE THAO
-#http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=livez&c=htvcthethao_2500
+#EXTINF:0, HTVC THE THAO
+http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=livez&c=htvcthethao_2500
