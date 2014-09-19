@@ -72,11 +72,7 @@ http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=livez&c=vnews_2500
 
 #EXTINF:0, QPVN HD
 http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=livez&c=quocphongHD_2500
-#EXTINF:0, HN1
-http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=livez&c=hntv1_2500
-#EXTINF:0, HN2
-http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=livez&c=hntv2_2500
-#EXTINF:0, HTV2
+
 http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=live&c=htv2_2500
 #EXTINF:0, HTV3
 http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=live&c=htv3_2500
@@ -84,75 +80,7 @@ http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=live&c=htv3_2500
 http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=live&c=htv7_2500
 #EXTINF:0, HTV9
 http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=live&c=htv9_2500
-#EXTINF:0, VTC HD3
-http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=livez&c=vtcHD3_2500
-#EXTINF:0, VTC1
-http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=livez&c=vtc1_2500
-#EXTINF:0, VTC2
-http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=livez&c=vtc2_2500
-#EXTINF:0, VTC3 HD
-http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=livez&c=vtc3HD_2500
-#EXTINF:0, VTC5
-http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=livez&c=vtc5_2500
-#EXTINF:0, VTC6
-http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=livez&c=vtc6_2500
-#EXTINF:0, VTC7
-http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=livez&c=vtc7_2500
-#EXTINF:0, VTC10
-http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=livez&c=vtc10_2500
-#EXTINF:0, VTC14
-http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=livez&c=vtc14_2500
-#EXTINF:0, VTC16
-http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=livez&c=vtc16_2500
-#EXTINF:0, ITV HD
-http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=livez&c=itvHD_2500
-#EXTINF:0, V HD
-http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=live&c=htvcplusHD_2500
-#EXTINF:0, HTVC PHIM HD
-http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=live&c=htvcmovieHD_2500
-#EXTINF:0, HTVC DU LICH
-http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=live&c=htvcdulich_2500
-#EXTINF:0, HTVC SHOPPING
-http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=live&c=htvcshopping_2500
 
-#EXTINF:0, HTVC THUAN VIET HD
-http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=live&c=htvcthuanvietHD_2500
-#EXTINF:0, HTVC GIA DINH
-http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=live&c=htvcgiadinh_2500
-#EXTINF:0, THP
-http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=livez&c=haiphong_2500
-#EXTINF:0, DRT1
-http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=live&c=danang1_2500
-#EXTINF:0, DRT2
-http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=live&c=danang2_2500
-#EXTINF:0, BTV
-http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=live&c=binhdinh_2500
-#EXTINF:0, DN1
-http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=live&c=dongnai1_2500
-#EXTINF:0, DN2
-http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=live&c=dongnai2_2500
-#EXTINF:0, BTV1
-http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=live&c=btv1_2500
-#EXTINF:0, BTV2
-http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=live&c=btv2_2500
-#EXTINF:0, BTV3
-http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=live&c=btv3_2500
-#EXTINF:0, BTV4
-http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=live&c=btv4_2500
-#EXTINF:0, BTV5
-http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=live&c=btv5_2500
-#EXTINF:0, AN GIANG
-http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=live&c=angiang_2500
-#EXTINF:0, TIEN GIANG
-http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=live&c=tiengiang_2500
-#EXTINF:0, VTVCANTHO1
-http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=live&c=cvtv1_2500
-#EXTINF:0, THTPCT
-http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=live&c=cantho_2500
-#EXTINF:0, THVL1
-http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=livez&c=vinhlong1_2500
-#EXTINF:0, THVL2
-http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=livez&c=vinhlong2_2500
 #EXTINF:0, ONETV
 http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=livez&c=onetv_2500
 
