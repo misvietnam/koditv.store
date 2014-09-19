@@ -165,8 +165,5 @@ http://live.accessasia.tv:1935/vnptg_channels/vctv4.480p/playlist.m3u8
 #EXTINF:0, VTV CAB 10
 http://live.accessasia.tv:1935/vnptg_channels/mp4:vctv10.480p/playlist.m3u8
 
-#EXTINF:0, ANTV
-http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=live&c=antv_2500
-
 #EXTINF:0, HTVC THE THAO
 http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=livez&c=htvcthethao_2500
