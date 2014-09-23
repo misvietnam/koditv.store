@@ -11,14 +11,8 @@ http://m26.megafun.vn/ilive.m3u8?c=vstv037&token=2HfiAc7tDDPaC2Hgrdg87A&time=141
 http://m26.megafun.vn/ilive.m3u8?c=vstv077&token=wEtaLWM4hcpwg7_2oMj4uQ&time=1402837677&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:0, CARTOON NETWORK HD
 http://m26.megafun.vn/ilive.m3u8?c=vstv031&token=JCGu-6nRbHWYX49vin6CAw&time=1410758347&q=medium&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
-#EXTINF:0, VTC1
-rtmp://m22.megafun.vn/hctv/ playpath=vstv005 swfUrl=http://vtvplus.vn/vtv/skin/dungusd/js/jwplayer/jwplayer.flash.swf pageUrl=http://tivionline.vn/tivionline/vtc1.php
-
-
 #EXTINF:0, N+ HD
 rtmp://123.30.134.108/live playpath=nctlive swfUrl=http://stc.lala.nixcdn.com/tv/flash/lala_tv_6.swf pageUrl=http://lala.nhaccuatui.com/tv
-
-
 #EXTINF:0, SCTV1
 rtmpe://112.197.2.154:1935/live//sctv1_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
 #EXTINF:0, SCTV2
@@ -58,24 +52,37 @@ rtmpe://112.197.2.154:1935/live//sctvhdthethao_2 swfUrl=http://tv24.vn/getflash.
 #EXTINF:0, SCTV-Hài
 http://live.accessasia.tv:1935/vnptg_channels/sctvhaihd.480p/playlist.m3u8
 
-#EXTINF:0, VTV1
+#EXTINF:0, VTV1-MEGAFUN
+http://m26.megafun.vn/ilive.m3u8?c=vstv002&token=LUbcSH4EsIjB-N4fH2lRDg&time=1403538639&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+#EXTINF:0, VTV1-FPT
 http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=livez&c=vtv1_2500
+
 #EXTINF:0, VTV2
 http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=livez&c=vtv2_2500
-#EXTINF:0, VTV3 HD
+
+#EXTINF:0, VTV3-MEGAFUN
+http://m26.megafun.vn/ilive.m3u8?c=vstv004&token=78jqxDu2FE5E3KKO29kQ7g&time=1403538639&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+#EXTINF:0, VTV3 HD-FPT
 http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=livez&c=vtv3HD_2500
+
 #EXTINF:0, VTV4
 http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=livez&c=vtv4_2500
-#EXTINF:0, VTV6
+
+#EXTINF:0, VTV6-MEGAFUN
+http://m26.megafun.vn/ilive.m3u8?c=vstv014&token=cM7Ac9ew3Toy89f-K4GUDw&time=1404739483&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+#EXTINF:0, VTV6-FPT
 http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=livez&c=vtv6_2500
+
 #EXTINF:0, VTV9
 http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=livez&c=vtv9_2500
+
+
 #EXTINF:0, TTXVN
 http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=livez&c=vnews_2500
-
 #EXTINF:0, QPVN HD
 http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=livez&c=quocphongHD_2500
 
+#EXTINF:0, HTV2
 http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=live&c=htv2_2500
 #EXTINF:0, HTV3
 http://hao-tv-proxy1.appspot.com/fpt.m3u8?t=live&c=htv3_2500
