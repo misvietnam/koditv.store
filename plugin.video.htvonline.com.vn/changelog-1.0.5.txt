@@ -1,3 +1,5 @@
+1.0.5
+- Fix Channel Name
 1.0.3
 - Fix GA Path
 
