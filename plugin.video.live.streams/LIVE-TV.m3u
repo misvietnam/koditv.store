@@ -1,4 +1,7 @@
 ﻿#EXTM3U
+#EXTINF:0, Chealse-Arsenal
+
+http://42.112.24.39:1935/live/thethao247.vn-live4/playlist.m3u8?wowzasessionid=140055737
 #EXTINF:0, HBO 
 http://m26.megafun.vn/ilive.m3u8?c=vstv036&token=-q3liG79ZNfa8GxrqzbctA&time=1402989866&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:0, STARMOVIE 
