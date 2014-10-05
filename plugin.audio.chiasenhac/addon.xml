@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.audio.chiasenhac"
-       name="[COLOR 5500FF]Music - Chiasenhac[/COLOR]"
+       name="[COLOR FF00BFFF]Music - Chiasenhac[/COLOR]"
        version="1.2"
        provider-name="ThuN">
 	<requires>
