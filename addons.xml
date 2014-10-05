@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
+<addon id="plugin.audio.chiasenhac"
+       name="chiasenhac"
+       version="1.2"
+       provider-name="ThuN">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0" />
+		<import addon="script.module.simple.downloader" version="1.9.4" />
+	</requires>
+    <extension point="xbmc.python.pluginsource"
+               library="default.py">
+        <provides>audio</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <language>en</language>
+		<summary lang="en">Nghe Nhac Tu Trang Chiasenhac</summary>
+		<description lang="en">Add-on play Vietnamese Music online</description>
+    </extension>
+</addon>
+
 <addon
   id="plugin.audio.nhaccuatui"
   version="1.1.2"
@@ -378,6 +398,19 @@ CrÃ©ditos: Cristi - Atlanta (xsopcast plugin); NouisMons (acestream engine plu
 	</extension>
 </addon>
 
+<addon id="repository.thongld" name="ThongLD`s REPO" version="1.0" provider-name="ThongLD">
+	<extension point="xbmc.addon.repository" name="ThongLD`s Addon Repository">
+		<info compressed="false">http://echipstore.net/thongld/addons.xml</info>
+		<checksum>http://echipstore.net/thongld/addons.xml.md5</checksum>
+		<datadir zip="true">http://echipstore.net/thongld/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install ThongLD Addons</summary>
+		<description>Download and install addons from ThongLD`s Repo: Watch free movies from Phim60s.info and more coming soon</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
 <addon id="repository.traitravinh" name="TraiTraVinh's Testing Repo" version="1.0" provider-name="traitravinh">
 	<extension point="xbmc.addon.repository" name="TraiTraVinh's Testing Repo">
 		<info compressed="false">https://raw.github.com/traitravinh/traitravinh.repository.xbmc/master/addons.xml</info>
@@ -407,6 +440,28 @@ CrÃ©ditos: Cristi - Atlanta (xsopcast plugin); NouisMons (acestream engine plu
 		<summary lang="en">Repositories tong hop tat ca cac addon xem tivi va xem phim truc tuyen danh cho nguoi viet</summary>
 		<description lang="en"> Duy tri ma nguon (maintenance code) boi Thu Nguyen Minh</description>
 		<disclaimer>Toi khong phai la tac gia cua tat ca cac addon trong repositories nay, do do, toi se khong chiu trach nhiem ve noi dung cung nhu ban quyen duoc chia se boi cac addon - Viec duy tri ma nguon nham muc dich dam bao cac addon luon hoat dong</disclaimer>
+		<disclaimer lang="en"></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.vietmusic"
+		name="VietMusic Add-ons"
+		version="1.1.0"
+		provider-name="VietMusic">
+  <requires>
+    <import addon="xbmc.addon" version="12.0.0"/>
+  </requires>
+	<extension point="xbmc.addon.repository"
+		name="VietMusic Add-on Repository">
+		<info compressed="true">https://raw.github.com/onepas/xbmc-addons/master/addons.xml</info>
+		<checksum>https://raw.github.com/onepas/xbmc-addons/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.github.com/onepas/xbmc-addons/master</datadir>
+		<hashes>true</hashes>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Music for life</summary>
+		<description lang="en"></description>
 		<disclaimer lang="en"></disclaimer>
 		<platform>all</platform>
 	</extension>
