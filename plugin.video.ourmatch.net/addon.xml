@@ -2,7 +2,7 @@
 <addon
   id="plugin.video.ourmatch.net"
   version="1.0.4"
-  name="[COLOR FFF4A460]Football OurMatch[/COLOR]"
+  name="Football OurMatch"
   provider-name="ThuN">
   <requires>       		
   </requires>
