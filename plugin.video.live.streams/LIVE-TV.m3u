@@ -54,8 +54,9 @@ http://live.accessasia.tv:1935/vnptg_channels/sctvhaihd.480p/playlist.m3u8
 
 #EXTINF:0, VTV1-MEGAFUN
 http://m26.megafun.vn/ilive.m3u8?c=vstv002&token=LUbcSH4EsIjB-N4fH2lRDg&time=1403538639&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
-#EXTINF:0, VTV3-MEGAFUN
-http://m26.megafun.vn/ilive.m3u8?c=vstv004&token=78jqxDu2FE5E3KKO29kQ7g&time=1403538639&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+#EXTINF:0, VTV3
+rtmp://m23.megafun.vn/hctv playpath=vstv004?q=rtmp&token=5OMlobEPGmceQwO8ncCrAg&time=1413616072&gcId=1532&userId=5092615&deviceId=&deviceType=&location=NA&requestTime=1413529672547&pkg=pkg1 swfUrl=http://megafun.vn/common/player/player.swf pageUrl=http://megafun.vn/tv/vtv3/
+
 #EXTINF:0, VTV6-MEGAFUN
 http://m26.megafun.vn/ilive.m3u8?c=vstv014&token=cM7Ac9ew3Toy89f-K4GUDw&time=1404739483&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 
