@@ -5,21 +5,16 @@ http://m26.megafun.vn/ilive.m3u8?c=vstv036&token=-q3liG79ZNfa8GxrqzbctA&time=140
 http://m26.megafun.vn/ilive.m3u8?c=vstv038&token=TR_UGM7ToNbc94EMDT_V-Q&time=1404578928&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:0, TOM&JERRY 
 rtmp://66.90.111.66/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html
-
 #EXTINF:0, CARTOON NETWORK HD
 http://m26.megafun.vn/ilive.m3u8?c=vstv031&token=JCGu-6nRbHWYX49vin6CAw&time=1410758347&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
-
 #EXTINF:0, CINEMAX 
 http://m26.megafun.vn/ilive.m3u8?c=vstv037&token=2HfiAc7tDDPaC2Hgrdg87A&time=1410758301&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:0, AXN 
 http://m26.megafun.vn/ilive.m3u8?c=vstv077&token=wEtaLWM4hcpwg7_2oMj4uQ&time=1402837677&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:0, N+ HD
 rtmp://123.30.134.108/live playpath=nctlive swfUrl=http://stc.lala.nixcdn.com/tv/flash/lala_tv_6.swf pageUrl=http://lala.nhaccuatui.com/tv
-#EXTINF:0, iTV
-rtmp://live.kenhitv.vn/liveweb playpath=itv_web_500k.stream swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://tivi.com.vn/kenh/itv.php
 #EXTINF:0, iTV HD
 http://m26.megafun.vn/ilive.m3u8?c=vstv054&token=faL91MuAwiwnyHRecx6ABw&time=1403538640&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
-
 #EXTINF:0, SCTV1
 rtmpe://112.197.2.154:1935/live//sctv1_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
 #EXTINF:0, SCTV2
