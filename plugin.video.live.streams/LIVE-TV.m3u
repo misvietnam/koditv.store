@@ -7,6 +7,9 @@ http://m26.megafun.vn/ilive.m3u8?c=vstv038&token=TR_UGM7ToNbc94EMDT_V-Q&time=140
 rtmp://66.90.111.66/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html
 #EXTINF:0, CARTOON NETWORK HD
 http://m26.megafun.vn/ilive.m3u8?c=vstv031&token=JCGu-6nRbHWYX49vin6CAw&time=1410758347&q=medium&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+#EXTINF:0, DISNEY XD
+rtmp://109.200.202.124/live playpath=disney swfUrl=http://www.tv-msn.com/player5.swf pageUrl=http://tv-msn.com/disney.html
+
 #EXTINF:0, CINEMAX 
 http://m26.megafun.vn/ilive.m3u8?c=vstv037&token=2HfiAc7tDDPaC2Hgrdg87A&time=1410758301&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:0, AXN 
