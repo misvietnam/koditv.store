@@ -5,8 +5,6 @@ http://m26.megafun.vn/ilive.m3u8?c=vstv036&token=-q3liG79ZNfa8GxrqzbctA&time=140
 http://m26.megafun.vn/ilive.m3u8?c=vstv038&token=TR_UGM7ToNbc94EMDT_V-Q&time=1404578928&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:0, TOM&JERRY 
 rtmp://66.90.111.66/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html
-#EXTINF:0, MR.BEAN
-rtmp://extondemand.livestream.com/ondemand playpath=trans/dv04/mogulus-user-files/chmrbean/2008/07/13/672158d3-ad8f-4d08-bfb2-5d57180b7c6d swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?allowchat=true&time=&autoPlay=true&color=0x006ccd&iconColor=0xb5dcff&iconColorOver=0xe4f2ff&mute=false&jsEnabled=false pageUrl=http://cdn.livestream.com/embed/mrbean?layout=4&color=0x006ccd&autoPlay=true&mute=false&iconColorOver=0xe4f2ff&iconColor=0xb5dcff&allowchat=true
 
 #EXTINF:0, CARTOON NETWORK HD
 http://m26.megafun.vn/ilive.m3u8?c=vstv031&token=JCGu-6nRbHWYX49vin6CAw&time=1410758347&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
