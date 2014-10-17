@@ -10,11 +10,6 @@ rtmp://extondemand.livestream.com/ondemand playpath=trans/dv04/mogulus-user-file
 
 #EXTINF:0, CARTOON NETWORK HD
 http://m26.megafun.vn/ilive.m3u8?c=vstv031&token=JCGu-6nRbHWYX49vin6CAw&time=1410758347&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
-#EXTINF:0, DISNEY XD
-http://m26.megafun.vn/ilive.m3u8?c=vstv054&token=faL91MuAwiwnyHRecx6ABw&time=1403538640&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
-#EXTINF:0, BongdaTV
-rtmp://123.29.69.70/live/ playpath=VTVCab16_500k swfUrl=http://vtvplus.vn/vtv/skin/dungusd/js/jwplayer/jwplayer.flash.swf pageUrl=http://tv.tivi24h.com/2013/10/bongdatv.html
-
 
 #EXTINF:0, CINEMAX 
 http://m26.megafun.vn/ilive.m3u8?c=vstv037&token=2HfiAc7tDDPaC2Hgrdg87A&time=1410758301&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
