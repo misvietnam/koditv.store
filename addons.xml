@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.audio.chiasenhac"
        name="[COLOR FF00BFFF]Music - Chiasenhac[/COLOR]"
-       version="1.4"
+       version="1.6"
        provider-name="ThuN">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
@@ -22,7 +22,7 @@
 
 <addon
   id="plugin.audio.chiasenhacv2"
-  version="0.0.2"
+  version="0.0.3"
   name="[COLOR ffff0000]Music-Chiasenhac-V2[/COLOR]"
   provider-name="ThuN">
   <requires>
@@ -350,7 +350,7 @@ XBMC HUB: j.mp/xbmctorrent]]></description>
 
 <addon
   id="plugin.video.xixam.com"
-  version="1.0.7"
+  version="1.0.8"
   name="Phim-XiXam"
   provider-name="ThuNM">
   <requires>
@@ -369,7 +369,7 @@ XBMC HUB: j.mp/xbmctorrent]]></description>
 
 <addon
   id="plugin.video.xomgiaitri.com"
-  version="1.0.5"
+  version="1.0.6"
   name="Phim-XomGiaiTri"
   provider-name="ThuNM">
   <requires>

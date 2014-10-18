@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon
   id="plugin.audio.chiasenhacv2"
-  version="0.0.2"
+  version="0.0.3"
   name="[COLOR ffff0000]Music-Chiasenhac-V2[/COLOR]"
   provider-name="ThuN">
   <requires>
