@@ -1,8 +1,8 @@
 ﻿#EXTM3U
 #EXTINF:0, HBO SD
-http://m26.megafun.vn/ilive.m3u8?c=vstv036&token=-q3liG79ZNfa8GxrqzbctA&time=1402989866&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+http://m26.megafun.vn/ilive.m3u8?c=vstv036&token=T81u-Xna-jfL_wDV-cBqlQ&time=1413791540&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:0, STARMOVIE SD
-http://m26.megafun.vn/ilive.m3u8?c=vstv038&token=bFXSaaKLedwyXq60Ln71iA&time=1403447304&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+http://m26.megafun.vn/ilive.m3u8?c=vstv038&token=zrS-39ilH_2XUHllByAZcA&time=1413791540&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:0, TOM&JERRY 
 rtmp://66.90.111.66/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html
 #EXTINF:0, CARTOON NETWORK HD
