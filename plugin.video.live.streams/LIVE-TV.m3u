@@ -1,22 +1,4 @@
 ﻿#EXTM3U
-#EXTINF:0, HBO-SD
-http://m26.megafun.vn/ilive.m3u8?c=vstv036&token=T81u-Xna-jfL_wDV-cBqlQ&time=1413791540&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
-#EXTINF:0, STARMOVIE SD
-http://m26.megafun.vn/ilive.m3u8?c=vstv038&token=zrS-39ilH_2XUHllByAZcA&time=1413791540&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
-#EXTINF:0, TOM&JERRY 
-rtmp://66.90.111.66/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html
-#EXTINF:0, CARTOON NETWORK HD
-http://m26.megafun.vn/ilive.m3u8?c=vstv031&token=JCGu-6nRbHWYX49vin6CAw&time=1410758347&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
-#EXTINF:0, DISNEY CHANNEL HD
-http://m26.megafun.vn/ilive.m3u8?c=vstv032&token=lWfStDT1m1Rf216eg1xDvg&time=1402719760&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
-#EXTINF:0, CINEMAX HD
-http://m26.megafun.vn/ilive.m3u8?c=vstv037&token=2HfiAc7tDDPaC2Hgrdg87A&time=1410758301&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
-#EXTINF:0, AXN HD
-http://m26.megafun.vn/ilive.m3u8?c=vstv077&token=wEtaLWM4hcpwg7_2oMj4uQ&time=1402837677&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
-#EXTINF:0, N+ HD
-rtmp://123.30.134.108/live playpath=nctlive swfUrl=http://stc.lala.nixcdn.com/tv/flash/lala_tv_6.swf pageUrl=http://lala.nhaccuatui.com/tv
-#EXTINF:0, iTV HD
-http://m26.megafun.vn/ilive.m3u8?c=vstv054&token=faL91MuAwiwnyHRecx6ABw&time=1403538640&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:0, SCTV1
 rtmpe://112.197.2.154:1935/live//sctv1_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
 #EXTINF:0, SCTV2
@@ -55,6 +37,30 @@ rtmpe://112.197.2.154:1935/live//sctv17_2 swfUrl=http://tv24.vn/getflash.ashx pa
 rtmpe://112.197.2.154:1935/live//sctvhdthethao_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
 #EXTINF:0, SCTV-Hài
 http://live.accessasia.tv:1935/vnptg_channels/sctvhaihd.480p/playlist.m3u8
+#EXTINF:0, VTV CAB 2
+http://live.accessasia.tv:1935/vnptg_channels/vctv2.480p/playlist.m3u8
+#EXTINF:0, VTV CAB 4
+http://live.accessasia.tv:1935/vnptg_channels/vctv4.480p/playlist.m3u8
+#EXTINF:0, VTV CAB 10
+http://live.accessasia.tv:1935/vnptg_channels/mp4:vctv10.480p/playlist.m3u8
+#EXTINF:0, N+ HD
+rtmp://123.30.134.108/live playpath=nctlive swfUrl=http://stc.lala.nixcdn.com/tv/flash/lala_tv_6.swf pageUrl=http://lala.nhaccuatui.com/tv
+#EXTINF:0, TOM&JERRY 
+rtmp://66.90.111.66/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html
+#EXTINF:0, CARTOON NETWORK HD
+http://m26.megafun.vn/ilive.m3u8?c=vstv031&token=JCGu-6nRbHWYX49vin6CAw&time=1410758347&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+#EXTINF:0, DISNEY CHANNEL HD
+http://m26.megafun.vn/ilive.m3u8?c=vstv032&token=lWfStDT1m1Rf216eg1xDvg&time=1402719760&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+#EXTINF:0, HBO-SD
+http://m26.megafun.vn/ilive.m3u8?c=vstv036&token=T81u-Xna-jfL_wDV-cBqlQ&time=1413791540&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+#EXTINF:0, STARMOVIE SD
+http://m26.megafun.vn/ilive.m3u8?c=vstv038&token=zrS-39ilH_2XUHllByAZcA&time=1413791540&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+#EXTINF:0, CINEMAX HD
+http://m26.megafun.vn/ilive.m3u8?c=vstv037&token=2HfiAc7tDDPaC2Hgrdg87A&time=1410758301&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+#EXTINF:0, AXN HD
+http://m26.megafun.vn/ilive.m3u8?c=vstv077&token=wEtaLWM4hcpwg7_2oMj4uQ&time=1402837677&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+#EXTINF:0, iTV HD
+http://m26.megafun.vn/ilive.m3u8?c=vstv054&token=faL91MuAwiwnyHRecx6ABw&time=1403538640&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:0, VTV1
 http://m26.megafun.vn/ilive.m3u8?c=vstv002&token=LUbcSH4EsIjB-N4fH2lRDg&time=1403538639&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:0, VTV2
@@ -75,9 +81,4 @@ http://m26.megafun.vn/ilive.m3u8?c=vstv096&token=z4Owc2FwAwi_MIN9xWzRCQ&time=140
 http://livecdn.megatv.vn/live/ANTV_PC?fmt=x264_1000k_flv&size=720x576&cpid=152
 #EXTINF:0, TodayTV
 http://m41.megafun.vn/ilive.m3u8?c=vstv003&token=-rJityNB1DBrg1Ctgnd4aA&time=1407555799&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
-#EXTINF:0, VTV CAB 2
-http://live.accessasia.tv:1935/vnptg_channels/vctv2.480p/playlist.m3u8
-#EXTINF:0, VTV CAB 4
-http://live.accessasia.tv:1935/vnptg_channels/vctv4.480p/playlist.m3u8
-#EXTINF:0, VTV CAB 10
-http://live.accessasia.tv:1935/vnptg_channels/mp4:vctv10.480p/playlist.m3u8
+
