@@ -1,4 +1,10 @@
 ﻿#EXTM3U
+
+#EXTINF:0, N+ HD
+rtmp://123.30.134.108/live playpath=nctlive 
+#EXTINF:0, TOM&JERRY 
+rtmp://66.90.111.66/ctv playpath=tom 
+
 #EXTINF:0, SCTV1
 rtmpe://112.197.2.154:1935/live//sctv1_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
 #EXTINF:0, SCTV2
@@ -43,41 +49,15 @@ http://live.accessasia.tv:1935/vnptg_channels/vctv2.480p/playlist.m3u8
 http://live.accessasia.tv:1935/vnptg_channels/vctv4.480p/playlist.m3u8
 #EXTINF:0, VTV CAB 10
 http://live.accessasia.tv:1935/vnptg_channels/mp4:vctv10.480p/playlist.m3u8
-#EXTINF:0, N+ HD
-rtmp://123.30.134.108/live playpath=nctlive swfUrl=http://stc.lala.nixcdn.com/tv/flash/lala_tv_6.swf pageUrl=http://lala.nhaccuatui.com/tv
-#EXTINF:0, TOM&JERRY 
-rtmp://66.90.111.66/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html
-#EXTINF:0, CARTOON NETWORK HD
-http://m26.megafun.vn/ilive.m3u8?c=vstv031&token=JCGu-6nRbHWYX49vin6CAw&time=1410758347&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
-#EXTINF:0, DISNEY CHANNEL HD
-http://113.161.0.253/ilive.m3u8?c=vstv032&token=Xz8w6olx4Ey1B6uNMjBULA&time=1413912442&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
-#EXTINF:0, HBO SD
-http://123.29.73.163/ilive.m3u8?c=vstv036&token=u0oattCbLekqYqkp2KAYQw&time=1413912442&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
-#EXTINF:0, STARMOVIE SD
-http://123.29.73.227/ilive.m3u8?c=vstv038&token=YLQz7dnS5hn8iJx_gY0zew&time=1413912442&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
-#EXTINF:0, CINEMAX HD
-http://m26.megafun.vn/ilive.m3u8?c=vstv037&token=2HfiAc7tDDPaC2Hgrdg87A&time=1410758301&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
-#EXTINF:0, AXN HD
-http://m26.megafun.vn/ilive.m3u8?c=vstv077&token=wEtaLWM4hcpwg7_2oMj4uQ&time=1402837677&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
-#EXTINF:0, iTV HD
-http://m21.megafun.vn/ilive.m3u8?c=vstv054&q=medium&type=tv&token=kTW1Rubxuab2GWAhh5R-7A&time=1413912344&gcId=1376442&userId=8&deviceId=630763&deviceType=5&location=NA&requestTime=1413825944368&pkg=pkg1
+
+
 #EXTINF:0, VTV1
-http://m34.megafun.vn/ilive.m3u8?c=vstv002&q=medium&type=tv&token=pnKTsIt0uvUq5fmxncaI3w&time=1413912391&gcId=1376442&userId=8&deviceId=630763&deviceType=5&location=NA&requestTime=1413825991305&pkg=pkg1
+rtmp://m35.megafun.vn/hctv playpath=vstv002 
 #EXTINF:0, VTV2
-http://m34.megafun.vn/ilive.m3u8?c=vstv017&q=medium&type=tv&token=PT8uPwQ3pdWGVYlRfRNZww&time=1413912329&gcId=1376442&userId=8&deviceId=630763&deviceType=5&location=NA&requestTime=1413825929312&pkg=pkg1
+rtmp://m35.megafun.vn/hctv playpath=vstv017 
 #EXTINF:0, VTV3
-http://m18.megafun.vn/ilive.m3u8?c=vstv004&q=medium&type=tv&token=KEK5vsmvEQV2Xty77vcThw&time=1413912331&gcId=1376442&userId=8&deviceId=630763&deviceType=5&location=NA&requestTime=1413825931037&pkg=pkg1
+rtmp://m7.megafun.vn/hctv playpath=vstv004 
 #EXTINF:0, VTV4
 http://live.accessasia.tv:1935/vnptg_channels/mp4:vtv4.480p/playlist.m3u8
-#EXTINF:0, VTV6
-http://m10.megafun.vn/ilive.m3u8?c=vstv014&q=medium&type=tv&token=gG-Cr_8BPQC2tNw6hzWFQA&time=1413912332&gcId=1376442&userId=8&deviceId=630763&deviceType=5&location=NA&requestTime=1413825932620&pkg=pkg1
-#EXTINF:0, HTV9
-http://m28.megafun.vn/ilive.m3u8?c=vstv009&q=medium&type=tv&token=mq4UNKAKiPY4hLf_MuZ9Dg&time=1413912337&gcId=1376442&userId=8&deviceId=630763&deviceType=5&location=NA&requestTime=1413825937398&pkg=pkg1
-#EXTINF:0, HTV7
-http://m19.megafun.vn/ilive.m3u8?c=vstv015&q=medium&type=tv&token=8sYZ-00Sbk7wP6JIFLM_Wg&time=1413912335&gcId=1376442&userId=8&deviceId=630763&deviceType=5&location=NA&requestTime=1413825935780&pkg=pkg1
-#EXTINF:0, VTC3
-http://m26.megafun.vn/ilive.m3u8?c=vstv096&token=z4Owc2FwAwi_MIN9xWzRCQ&time=1403447306&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
-#EXTINF:0, ANTV
-http://123.29.70.4/ilive.m3u8?c=vstv053&q=medium&type=tv&token=gUeac0TBrPBGCZWW5eJARw&time=1413912346&gcId=1376442&userId=8&deviceId=630763&deviceType=5&location=NA&requestTime=1413825946798&pkg=pkg1
-#EXTINF:0, TodayTV
-http://m34.megafun.vn/ilive.m3u8?c=vstv003&q=medium&type=tv&token=rtRm1RJRwedtAHJNs1jfzA&time=1413912341&gcId=1376442&userId=8&deviceId=630763&deviceType=5&location=NA&requestTime=1413825941287&pkg=pkg1
+#EXTINF:0, Thuanviet
+http://live.accessasia.tv:1935/vnptg_channels/thuanviet.480p/playlist.m3u8
