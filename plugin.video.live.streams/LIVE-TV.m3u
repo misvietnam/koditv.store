@@ -4,7 +4,6 @@
 rtmp://123.30.134.108/live playpath=nctlive 
 #EXTINF:0, TOM&JERRY 
 rtmp://66.90.111.66/ctv playpath=tom 
-
 #EXTINF:0, SCTV1
 rtmpe://112.197.2.154:1935/live//sctv1_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
 #EXTINF:0, SCTV2
