@@ -1,9 +1,8 @@
 ﻿#EXTM3U
 
-#EXTINF:0, N+ HD
-rtmp://123.30.134.108/live playpath=nctlive 
+rtmp://123.30.134.108/live playpath=nctlive swfUrl=http://stc.lala.nixcdn.com/tv/flash/lala_tv_6.swf pageUrl=http://lala.nhaccuatui.com/tv
 #EXTINF:0, TOM&JERRY 
-rtmp://66.90.111.66/ctv playpath=tom 
+rtmp://66.90.111.66/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html
 #EXTINF:0, SCTV1
 rtmpe://112.197.2.154:1935/live//sctv1_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
 #EXTINF:0, SCTV2
@@ -49,7 +48,6 @@ http://live.accessasia.tv:1935/vnptg_channels/vctv4.480p/playlist.m3u8
 #EXTINF:0, VTV CAB 10
 http://live.accessasia.tv:1935/vnptg_channels/mp4:vctv10.480p/playlist.m3u8
 
-
 #EXTINF:0, VTV1
 rtmp://m35.megafun.vn/hctv playpath=vstv002 
 #EXTINF:0, VTV2
@@ -58,5 +56,23 @@ rtmp://m35.megafun.vn/hctv playpath=vstv017
 rtmp://m7.megafun.vn/hctv playpath=vstv004 
 #EXTINF:0, VTV4
 http://live.accessasia.tv:1935/vnptg_channels/mp4:vtv4.480p/playlist.m3u8
+#EXTINF:0, VTV6
+rtmp://m17.megafun.vn/hctv playpath=vstv014 
+
+#EXTINF:0, VTC1
+rtmp://m30.megafun.vn/hctv playpath=vstv005
+#EXTINF:0, VTC2
+rtmp://m30.megafun.vn/hctv playpath=vstv006
+#EXTINF:0, VTC3
+rtmp://m30.megafun.vn/hctv playpath=vstv096
+#EXTINF:0, VTC9
+rtmp://m35.megafun.vn/hctv playpath=vstv010
+#EXTINF:0, VTC14
+rtmp://117.103.224.31/live/ playpath=livestream 
+#EXTINF:0, ANTV
+http://livecdn.megatv.vn/live/ANTV_PC?fmt=x264_1000k_flv&size=720x576&cpid=152
 #EXTINF:0, Thuanviet
 http://live.accessasia.tv:1935/vnptg_channels/thuanviet.480p/playlist.m3u8
+#EXTINF:0, ITV
+http://live.kenhitv.vn:1935/liveweb/itv_web_500k.stream/playlist.m3u8
+
