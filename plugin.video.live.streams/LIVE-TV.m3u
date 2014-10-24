@@ -1,8 +1,4 @@
 ﻿#EXTM3U
-#EXTINF:0, N+
-rtmp://123.30.134.108/live playpath=nctlive swfUrl=http://stc.lala.nixcdn.com/tv/flash/lala_tv_6.swf pageUrl=http://lala.nhaccuatui.com/tv
-#EXTINF:0, TOM&JERRY 
-rtmp://66.90.111.66/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html
 #EXTINF:0, SCTV1
 rtmpe://112.197.2.154:1935/live//sctv1_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
 #EXTINF:0, SCTV2
@@ -41,6 +37,12 @@ rtmpe://112.197.2.154:1935/live//sctv17_2 swfUrl=http://tv24.vn/getflash.ashx pa
 rtmpe://112.197.2.154:1935/live//sctvhdthethao_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
 #EXTINF:0, SCTV-Hài
 http://live.accessasia.tv:1935/vnptg_channels/sctvhaihd.480p/playlist.m3u8
+#EXTINF:0, Hài 24/7
+rtmp://206.190.150.132:1935/liveStream/ playpath=hai_1 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://tvtructuyen.net/xem/hai-24-7.php
+
+#EXTINF:0, N+
+rtmp://123.30.134.108/live playpath=nctlive swfUrl=http://stc.lala.nixcdn.com/tv/flash/lala_tv_6.swf pageUrl=http://lala.nhaccuatui.com/tv
+
 #EXTINF:0, VTV CAB 2
 http://live.accessasia.tv:1935/vnptg_channels/vctv2.480p/playlist.m3u8
 #EXTINF:0, VTV CAB 4
@@ -69,8 +71,7 @@ rtmp://m30.megafun.vn/hctv playpath=vstv096
 rtmp://m35.megafun.vn/hctv playpath=vstv010
 #EXTINF:0, VTC14
 rtmp://117.103.224.31/live/ playpath=livestream 
-#EXTINF:0, ANTV
-http://livecdn.megatv.vn/live/ANTV_PC?fmt=x264_1000k_flv&size=720x576&cpid=152
+
 #EXTINF:0, Thuanviet
 http://live.accessasia.tv:1935/vnptg_channels/thuanviet.480p/playlist.m3u8
 #EXTINF:0, ITV
@@ -79,3 +80,5 @@ http://live.kenhitv.vn:1935/liveweb/itv_web_500k.stream/playlist.m3u8
 http://123.29.73.99/ilive.m3u8?c=vstv038&token=YLQz7dnS5hn8iJx_gY0zew&time=1413912442&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:0, HBO
 http://123.29.71.179/ilive.m3u8?c=vstv036&token=u0oattCbLekqYqkp2KAYQw&time=1413912442&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+#EXTINF:0, TOM&JERRY 
+rtmp://66.90.111.66/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html
