@@ -61,6 +61,9 @@ http://live.accessasia.tv:1935/vnptg_channels/mp4:vtv4.480p/playlist.m3u8
 #EXTINF:0, VTV6
 rtmp://m17.megafun.vn/hctv playpath=vstv014 
 
+#EXTINF:0, HTV1
+rtmp://m25.megafun.vn/hctv playpath=vstv075
+
 #EXTINF:0, VTC1
 rtmp://m30.megafun.vn/hctv playpath=vstv005
 #EXTINF:0, VTC2
@@ -80,5 +83,10 @@ http://live.kenhitv.vn:1935/liveweb/itv_web_500k.stream/playlist.m3u8
 http://123.29.73.99/ilive.m3u8?c=vstv038&token=YLQz7dnS5hn8iJx_gY0zew&time=1413912442&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:0, HBO
 http://123.29.71.179/ilive.m3u8?c=vstv036&token=u0oattCbLekqYqkp2KAYQw&time=1413912442&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+
+#EXTINF:0, DISNEY CHANNEL
+http://123.29.70.5/ilive.m3u8?c=vstv032&token=1fdWOuVqi6YxaADb5jJBzg&time=1414307329&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+#EXTINF:0, CARTOON NETWORK
+http://123.29.71.227/ilive.m3u8?c=vstv031&token=CLzlXBXRJAlGQbpfvNgXng&time=1414307329&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:0, TOM&JERRY 
 rtmp://66.90.111.66/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html
