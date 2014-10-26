@@ -1,4 +1,6 @@
 ﻿#EXTM3U
+#EXTINF:0, K+1 - Thu Nghiem. 
+http://live.csmtalk2.vcdn.vn/hls/9cf15f79756cc5be9e02ddf0236ce93b/544b8af5/keonhacai.com/index.m3u8
 #EXTINF:0, SCTV1
 rtmpe://112.197.2.154:1935/live//sctv1_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
 #EXTINF:0, SCTV2
@@ -61,8 +63,9 @@ http://live.accessasia.tv:1935/vnptg_channels/mp4:vtv4.480p/playlist.m3u8
 #EXTINF:0, VTV6
 rtmp://m17.megafun.vn/hctv playpath=vstv014 
 
-#EXTINF:0, HTV1
-rtmp://m25.megafun.vn/hctv playpath=vstv075
+#EXTINF:0, HTV7
+rtmp://m22.megafun.vn/hctv playpath=vstv015
+
 
 #EXTINF:0, VTC1
 rtmp://m30.megafun.vn/hctv playpath=vstv005
@@ -74,15 +77,27 @@ rtmp://m30.megafun.vn/hctv playpath=vstv096
 rtmp://m35.megafun.vn/hctv playpath=vstv010
 #EXTINF:0, VTC14
 rtmp://117.103.224.31/live/ playpath=livestream 
+#EXTINF:0, QPVN
+http://m26.megafun.vn/ilive.m3u8?c=vstv091&token=_Mqf0cyJRwfnuP2JBmhEcA&time=1405268967&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 
 #EXTINF:0, Thuanviet
 http://live.accessasia.tv:1935/vnptg_channels/thuanviet.480p/playlist.m3u8
 #EXTINF:0, ITV
 http://live.kenhitv.vn:1935/liveweb/itv_web_500k.stream/playlist.m3u8
+#EXTINF:0, MTV HD
+http://123.29.74.115/ilive.m3u8?c=vstv040&token=KB1UALzLXpyJA_Qbisp6NQ&time=1414307329&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+#EXTINF:0, V Channel HD
+http://123.29.73.131/ilive.m3u8?c=vstv043&token=5IrW10iilnIwY_NtBnlUdQ&time=1414307329&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+
 #EXTINF:0, STARMOVIE
 http://123.29.73.99/ilive.m3u8?c=vstv038&token=YLQz7dnS5hn8iJx_gY0zew&time=1413912442&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:0, HBO
 http://123.29.71.179/ilive.m3u8?c=vstv036&token=u0oattCbLekqYqkp2KAYQw&time=1413912442&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+#EXTINF:0, STARWORLD 
+http://m26.megafun.vn/ilive.m3u8?c=vstv036&token=7YjWsJKBAEz2N6eiHPTBzQ&time=1407816697&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+#EXTINF:0, DISCOVERY
+http://m26.megafun.vn/ilive.m3u8?c=vstv044&token=aY_vA9qrV4TVDVBmyRyeeA&time=1402719760&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+
 
 #EXTINF:0, DISNEY CHANNEL
 http://123.29.70.5/ilive.m3u8?c=vstv032&token=1fdWOuVqi6YxaADb5jJBzg&time=1414307329&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
