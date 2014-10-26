@@ -84,9 +84,9 @@ http://live.accessasia.tv:1935/vnptg_channels/thuanviet.480p/playlist.m3u8
 #EXTINF:0, ITV
 http://live.kenhitv.vn:1935/liveweb/itv_web_500k.stream/playlist.m3u8
 #EXTINF:0, MTV HD
-http://123.29.74.115/ilive.m3u8?c=vstv040&token=KB1UALzLXpyJA_Qbisp6NQ&time=1414307329&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+http://m26.megafun.vn/ilive.m3u8?c=vstv040&token=KB1UALzLXpyJA_Qbisp6NQ&time=1414307329&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:0, V Channel HD
-http://123.29.73.131/ilive.m3u8?c=vstv043&token=5IrW10iilnIwY_NtBnlUdQ&time=1414307329&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+http://m26.megafun.vn/ilive.m3u8?c=vstv043&token=5IrW10iilnIwY_NtBnlUdQ&time=1414307329&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 
 #EXTINF:0, STARMOVIE
 http://123.29.73.99/ilive.m3u8?c=vstv038&token=YLQz7dnS5hn8iJx_gY0zew&time=1413912442&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
