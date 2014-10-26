@@ -1,6 +1,4 @@
 ﻿#EXTM3U
-#EXTINF:0, K+1 - Thu Nghiem. 
-http://live.csmtalk2.vcdn.vn/hls/8170c1684a20a979f931ae805da997d8/544d0d59/keonhacai.com/index.m3u8
 #EXTINF:0, SCTV1
 rtmpe://112.197.2.154:1935/live//sctv1_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
 #EXTINF:0, SCTV2
