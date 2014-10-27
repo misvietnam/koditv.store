@@ -169,7 +169,7 @@
 
 <addon
   id="plugin.video.hdviet.com"
-  version="1.0.8"
+  version="1.0.0"
   name="Phim-HDviet"
   provider-name="ThuNM">
   <requires>
