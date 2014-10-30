@@ -1,94 +1,128 @@
 ﻿#EXTM3U
-
-#EXTINF:0, SCTV1
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH SCTV[/COLOR]  
 rtmpe://112.197.2.154:1935/live//sctv1_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
-#EXTINF:0, SCTV2
+#EXTINF:0, --SCTV1
+rtmpe://112.197.2.154:1935/live//sctv1_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --SCTV2
 rtmpe://112.197.2.154:1935/live//sctv2_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
-#EXTINF:0, SCTV3
+#EXTINF:0, --SCTV3
 rtmpe://112.197.2.154:1935/live//sctv3_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
-#EXTINF:0, SCTV4
+#EXTINF:0, --SCTV4
 rtmpe://112.197.2.154:1935/live//sctv4_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
-#EXTINF:0, SCTV5
+#EXTINF:0, --SCTV5
 rtmpe://112.197.2.154:1935/live//sctv5_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
-#EXTINF:0, SCTV6
+#EXTINF:0, --SCTV6
 rtmpe://112.197.2.154:1935/live//sctv6_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
-#EXTINF:0, SCTV7
+#EXTINF:0, --SCTV7
 rtmpe://112.197.2.154:1935/live//sctv7_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
-#EXTINF:0, SCTV8
+#EXTINF:0, --SCTV8
 rtmpe://112.197.2.154:1935/live//sctv8_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
-#EXTINF:0, SCTV9
+#EXTINF:0, --SCTV9
 rtmpe://112.197.2.154:1935/live//sctv9_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
-#EXTINF:0, SCTV10
+#EXTINF:0, --SCTV10
 rtmpe://112.197.2.154:1935/live//sctv10_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
-#EXTINF:0, SCTV11
+#EXTINF:0, --SCTV11
 rtmpe://112.197.2.154:1935/live//sctv11_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
-#EXTINF:0, SCTV12
+#EXTINF:0, --SCTV12
 rtmpe://112.197.2.154:1935/live//sctv12_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
-#EXTINF:0, SCTV13
+#EXTINF:0, --SCTV13
 rtmpe://112.197.2.154:1935/live//sctv13_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
-#EXTINF:0, SCTV14
+#EXTINF:0, --SCTV14
 rtmpe://112.197.2.154:1935/live//sctv14_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
-#EXTINF:0, SCTV15
+#EXTINF:0, --SCTV15
 rtmpe://112.197.2.154:1935/glive//sctv15_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
-#EXTINF:0, SCTV16
+#EXTINF:0, --SCTV16
 rtmpe://112.197.2.154:1935/live//sctv16_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
-#EXTINF:0, SCTV17
+#EXTINF:0, --SCTV17
 rtmpe://112.197.2.154:1935/live//sctv17_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
-#EXTINF:0, SCTV18
+#EXTINF:0, --SCTV18
 rtmpe://112.197.2.154:1935/live//sctvhdthethao_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
 #EXTINF:0, SCTV-Hài
 http://live.accessasia.tv:1935/vnptg_channels/sctvhaihd.480p/playlist.m3u8
-#EXTINF:0, Hài 24/7
-rtmp://206.190.150.132:1935/liveStream/ playpath=hai_1 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://tvtructuyen.net/xem/hai-24-7.php
 
-#EXTINF:0, N+
-rtmp://123.30.134.108/live playpath=nctlive swfUrl=http://stc.lala.nixcdn.com/tv/flash/lala_tv_6.swf pageUrl=http://lala.nhaccuatui.com/tv
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH SCTV HD[/COLOR]  
+http://112.197.2.154/mlive/C001_HD_1/chunklist.m3u8?us=30102014935051659641465%7C521514
+#EXTINF:0, --SCTVHD1 STARMOVIE
+http://112.197.2.154/mlive/C001_HD_1/chunklist.m3u8?us=30102014935051659641465%7C521514
+#EXTINF:0, --SCTVHD2 NATGEO PEOPLE
+http://112.197.2.154/mlive/C002_HD_1/chunklist.m3u8?us=30102014935051659641465%7C521514
+#EXTINF:0, --SCTVHD3 DISCOVERY HD
+http://112.197.2.154/mlive/C003_HD_1/chunklist.m3u8?us=30102014935051659641465%7C521514
+#EXTINF:0, --SCTVHD4 HBO HD
+http://112.197.2.154/mlive/C004_HD_1/chunklist.m3u8?us=30102014935051659641465%7C521514
+#EXTINF:0, --SCTVHD5 FOX HD
+http://112.197.2.154/mlive/C005_HD_1/chunklist.m3u8?us=30102014935051659641465%7C521514
+#EXTINF:0, --SCTVHD6 VAN HOA
+http://112.197.2.154/mlive/C006_HD_1/chunklist.m3u8?us=30102014935051659641465%7C521514
+#EXTINF:0, --SCTVHD7 DU LICH
+http://112.197.2.154/mlive/C007_HD_1/chunklist.m3u8?us=30102014945571418877071%7C521514
+#EXTINF:0, --SCTVHD8 THE THAO
+http://112.197.2.154/mlive/C008_HD_1/chunklist.m3u8?us=30102014945571418877071%7C521514
+#EXTINF:0, --SCTVHD9 PHIM VIET
+http://112.197.2.154/mlive/C009_HD_1/chunklist.m3u8?us=301020141352421670250820%7C521514
+#EXTINF:0, --SCTVHD10 PHIM HQ
+http://112.197.2.154/mlive/C010_HD_1/chunklist.m3u8?us=301020141352141376116015%7C521514
+#EXTINF:0, --SCTVHD11 HAI
+http://112.197.2.154/mlive/C011_HD_1/chunklist.m3u8?us=301020141350171627519347%7C521514
+#EXTINF:0, --SCTVHD12 SAN DIEN
+http://112.197.2.154/mlive/C012_HD_1/chunklist.m3u8?us=30102014135407455826965%7C521514
+#EXTINF:0, --SCTVHD13  PHIM TONG HOP 1
+http://112.197.2.154/mlive/C013_HD_1/chunklist.m3u8?us=301020141352141376116015%7C521514
+#EXTINF:0, --SCTVHD14 PHIM TONG HOP 2
+http://112.197.2.154/mlive/C014_HD_1/chunklist.m3u8?us=301020141352141376116015%7C521514
+#EXTINF:0, --SCTVHD15 PHIM NUOC NGOAI
+http://112.197.2.154/mlive/C015_HD_1/chunklist.m3u8?us=301020141351081628800235%7C521514
+#EXTINF:0, --SCTVHD16 THIEU NHI
+http://112.197.2.154/mlive/C016_HD_1/chunklist.m3u8?us=30102014135511558433397%7C521514
+#EXTINF:0, --SCTVHD17 PHU NU
+http://112.197.2.154/mlive/C017_HD_1/chunklist.m3u8?us=30102014135322598542731%7C521514
 
-#EXTINF:0, VTV CAB 2
-http://live.accessasia.tv:1935/vnptg_channels/vctv2.480p/playlist.m3u8
-#EXTINF:0, VTV CAB 4
-http://live.accessasia.tv:1935/vnptg_channels/vctv4.480p/playlist.m3u8
-#EXTINF:0, VTV CAB 10
-http://live.accessasia.tv:1935/vnptg_channels/mp4:vctv10.480p/playlist.m3u8
 
-#EXTINF:0, VTV1
+
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH MEGAFUN[/COLOR]  
+#EXTINF:0, --VTV1
 rtmp://m35.megafun.vn/hctv playpath=vstv002 
-#EXTINF:0, VTV2
+#EXTINF:0, --VTV2
 rtmp://m35.megafun.vn/hctv playpath=vstv017 
-#EXTINF:0, VTV3
+#EXTINF:0, --VTV3
 rtmp://m7.megafun.vn/hctv playpath=vstv004 
-#EXTINF:0, VTV4
+#EXTINF:0, --VTV4
 http://live.accessasia.tv:1935/vnptg_channels/mp4:vtv4.480p/playlist.m3u8
-#EXTINF:0, VTV6
+#EXTINF:0, --VTV6
 rtmp://m17.megafun.vn/hctv playpath=vstv014 
-
-#EXTINF:0, HTV7
+#EXTINF:0, --HTV2
+rtmp://m31.megafun.vn/hctv/ playpath=vstv001
+#EXTINF:0, --HTV7
 rtmp://m22.megafun.vn/hctv playpath=vstv015
-
-
-#EXTINF:0, VTC1
+#EXTINF:0, --VTC1
 rtmp://m30.megafun.vn/hctv playpath=vstv005
-#EXTINF:0, VTC2
+#EXTINF:0, --VTC2
 rtmp://m30.megafun.vn/hctv playpath=vstv006
-#EXTINF:0, VTC3
+#EXTINF:0, --VTC3
 rtmp://m30.megafun.vn/hctv playpath=vstv096
-#EXTINF:0, VTC9
+#EXTINF:0, --VTC9
 rtmp://m35.megafun.vn/hctv playpath=vstv010
-#EXTINF:0, VTC14
+#EXTINF:0, --VTC14
 rtmp://117.103.224.31/live/ playpath=livestream 
-
-#EXTINF:0, Thuanviet
-http://live.accessasia.tv:1935/vnptg_channels/thuanviet.480p/playlist.m3u8
-#EXTINF:0, ITV
-http://live.kenhitv.vn:1935/liveweb/itv_web_500k.stream/playlist.m3u8
-#EXTINF:0, MTV HD
-http://m26.megafun.vn/ilive.m3u8?c=vstv040&token=KB1UALzLXpyJA_Qbisp6NQ&time=1414307329&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
-#EXTINF:0, V Channel HD
-http://m26.megafun.vn/ilive.m3u8?c=vstv043&token=5IrW10iilnIwY_NtBnlUdQ&time=1414307329&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
-
-#EXTINF:0, STARMOVIE
+#EXTINF:0, --STARMOVIE SD
 http://123.29.73.99/ilive.m3u8?c=vstv038&token=YLQz7dnS5hn8iJx_gY0zew&time=1413912442&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
-#EXTINF:0, HBO
+#EXTINF:0, --HBO SD
 http://123.29.71.179/ilive.m3u8?c=vstv036&token=u0oattCbLekqYqkp2KAYQw&time=1413912442&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
-#EXTINF:0, TOM&JERRY 
+
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH TỔNG HỢP[/COLOR]  
+#EXTINF:0, --N+ Nhaccuatui
+rtmp://123.30.134.108/live playpath=nctlive swfUrl=http://stc.lala.nixcdn.com/tv/flash/lala_tv_6.swf pageUrl=http://lala.nhaccuatui.com/tv
+#EXTINF:0, --ITV
+http://live.kenhitv.vn:1935/liveweb/itv_web_500k.stream/playlist.m3u8
+#EXTINF:0, --Phimviet
+http://live.accessasia.tv:1935/vnptg_channels/vctv2.480p/playlist.m3u8
+#EXTINF:0, --Thuanviet
+http://live.accessasia.tv:1935/vnptg_channels/thuanviet.480p/playlist.m3u8
+#EXTINF:0, --Kenh17
+http://live.accessasia.tv:1935/vnptg_channels/vctv4.480p/playlist.m3u8
+#EXTINF:0, --O2 TV
+http://live.accessasia.tv:1935/vnptg_channels/mp4:vctv10.480p/playlist.m3u8
+#EXTINF:0, --Today TV
+rtmp://m35.megafun.vn/hctv playpath=vstv003
+#EXTINF:0, --TOM&JERRY 
 rtmp://66.90.111.66/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html
