@@ -42,40 +42,79 @@ http://live.accessasia.tv:1935/vnptg_channels/sctvhaihd.480p/playlist.m3u8
 
 #EXTINF:0, [COLOR yellow]NHÓM KÊNH SCTV HD[/COLOR]  
 http://112.197.2.154/mlive/C001_HD_1/chunklist.m3u8?us=30102014935051659641465%7C521514
-#EXTINF:0, --SCTVHD1 STARMOVIE
+#EXTINF:0, --HD1 STARMOVIE
 http://112.197.2.154/mlive/C001_HD_1/chunklist.m3u8?us=30102014935051659641465%7C521514
-#EXTINF:0, --SCTVHD2 NATGEO PEOPLE
+#EXTINF:0, --HD2 NATGEO PEOPLE
 http://112.197.2.154/mlive/C002_HD_1/chunklist.m3u8?us=30102014935051659641465%7C521514
-#EXTINF:0, --SCTVHD3 DISCOVERY HD
+#EXTINF:0, --HD3 DISCOVERY HD
 http://112.197.2.154/mlive/C003_HD_1/chunklist.m3u8?us=30102014935051659641465%7C521514
-#EXTINF:0, --SCTVHD4 HBO HD
+#EXTINF:0, --HD4 HBO HD
 http://112.197.2.154/mlive/C004_HD_1/chunklist.m3u8?us=30102014935051659641465%7C521514
-#EXTINF:0, --SCTVHD5 FOX HD
+#EXTINF:0, --HD5 FOX HD
 http://112.197.2.154/mlive/C005_HD_1/chunklist.m3u8?us=30102014935051659641465%7C521514
-#EXTINF:0, --SCTVHD6 VAN HOA
+#EXTINF:0, --HD6 VAN HOA
 http://112.197.2.154/mlive/C006_HD_1/chunklist.m3u8?us=30102014935051659641465%7C521514
-#EXTINF:0, --SCTVHD7 DU LICH
+#EXTINF:0, --HD7 DU LICH
 http://112.197.2.154/mlive/C007_HD_1/chunklist.m3u8?us=30102014945571418877071%7C521514
-#EXTINF:0, --SCTVHD8 THE THAO
+#EXTINF:0, --HD8 THE THAO
 http://112.197.2.154/mlive/C008_HD_1/chunklist.m3u8?us=30102014945571418877071%7C521514
-#EXTINF:0, --SCTVHD9 PHIM VIET
+#EXTINF:0, --HD9 PHIM VIET
 http://112.197.2.154/mlive/C009_HD_1/chunklist.m3u8?us=301020141352421670250820%7C521514
-#EXTINF:0, --SCTVHD10 PHIM HQ
+#EXTINF:0, --HD10 PHIM HQ
 http://112.197.2.154/mlive/C010_HD_1/chunklist.m3u8?us=301020141352141376116015%7C521514
-#EXTINF:0, --SCTVHD11 HAI
+#EXTINF:0, --HD11 HAI
 http://112.197.2.154/mlive/C011_HD_1/chunklist.m3u8?us=301020141350171627519347%7C521514
-#EXTINF:0, --SCTVHD12 SAN DIEN
+#EXTINF:0, --HD12 SAN DIEN
 http://112.197.2.154/mlive/C012_HD_1/chunklist.m3u8?us=30102014135407455826965%7C521514
-#EXTINF:0, --SCTVHD13  PHIM TONG HOP 1
+#EXTINF:0, --HD13  PHIM TONG HOP 1
 http://112.197.2.154/mlive/C013_HD_1/chunklist.m3u8?us=301020141352141376116015%7C521514
-#EXTINF:0, --SCTVHD14 PHIM TONG HOP 2
+#EXTINF:0, --HD14 PHIM TONG HOP 2
 http://112.197.2.154/mlive/C014_HD_1/chunklist.m3u8?us=301020141352141376116015%7C521514
-#EXTINF:0, --SCTVHD15 PHIM NUOC NGOAI
+#EXTINF:0, --HD15 PHIM NUOC NGOAI
 http://112.197.2.154/mlive/C015_HD_1/chunklist.m3u8?us=301020141351081628800235%7C521514
-#EXTINF:0, --SCTVHD16 THIEU NHI
+#EXTINF:0, --HD16 THIEU NHI
 http://112.197.2.154/mlive/C016_HD_1/chunklist.m3u8?us=30102014135511558433397%7C521514
-#EXTINF:0, --SCTVHD17 PHU NU
+#EXTINF:0, --HD17 PHU NU
 http://112.197.2.154/mlive/C017_HD_1/chunklist.m3u8?us=30102014135322598542731%7C521514
+
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH HTV-VTV[/COLOR]  
+http://123.30.142.203:44444/htv_online_htv/_definst_/htv2.720p.stream/playlist.m3u8
+#EXTINF:0, --HTV1
+http://123.30.142.203:44444/htv_online_htv/_definst_/htv1.360p.stream/playlist.m3u8
+#EXTINF:0, --HTV2 HD
+http://123.30.142.203:44444/htv_online_htv/_definst_/htv2.720p.stream/playlist.m3u8
+#EXTINF:0, --HTV3
+http://123.30.142.203:44444/htv_online_htv/_definst_/htv3.360p.stream/playlist.m3u8
+#EXTINF:0, --HTV4
+http://123.30.142.203:44444/htv_online_htv/_definst_/htv4.360p.stream/playlist.m3u8
+#EXTINF:0, --HTV7 HD
+http://123.30.142.203:44444/htv_online_htv/_definst_/htv7.720p.stream/playlist.m3u8
+#EXTINF:0, --HTV9 HD
+http://123.30.142.203:44444/htv_online_htv/_definst_/htv9.720p.stream/playlist.m3u8
+#EXTINF:0, --VTV1
+http://123.30.142.203:44444/htv_online_vtv/_definst_/vtv1.360p.stream/playlist.m3u8
+#EXTINF:0, --VTV2
+http://123.30.142.203:44444/htv_online_vtv/_definst_/vtv2.360p.stream/playlist.m3u8
+#EXTINF:0, --VTV3 HD
+http://123.30.142.203:44444/htv_online_vtv/_definst_/vtv3.720p.stream/playlist.m3u8
+#EXTINF:0, --VTV4
+http://123.30.142.203:44444/htv_online_vtv/_definst_/vtv4.360p.stream/playlist.m3u8
+#EXTINF:0, --VTV6
+http://123.30.142.203:44444/htv_online_vtv/_definst_/vtv6.720p.stream/playlist.m3u8
+#EXTINF:0, --VTV9
+http://123.30.142.203:44444/htv_online_vtv/_definst_/vtv9.360p.stream/playlist.m3u8
+
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH BÓNG ĐÁ[/COLOR]  
+http://123.30.142.203:44444/htv_online_htv/_definst_/one.360p.stream/playlist.m3u8
+#EXTINF:0, --K+ Sport 1
+http://123.30.142.203:44444/htv_online_htv/_definst_/one.360p.stream/playlist.m3u8
+#EXTINF:0, --SCTV15
+rtmpe://112.197.2.154:1935/glive//sctv15_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --BongdaTV HD
+http://123.30.142.203:44444/htv_online_thethao/_definst_/bongdatv.720p.stream/playlist.m3u8
+#EXTINF:0, --TheThaoTV HD
+http://123.30.142.203:44444/htv_online_thethao/_definst_/thethaotv.720p.stream/playlist.m3u8
+
 
 
 #EXTINF:0, [COLOR yellow]NHÓM KÊNH TỔNG HỢP[/COLOR]  
@@ -88,21 +127,24 @@ http://123.29.71.179/ilive.m3u8?c=vstv036&token=u0oattCbLekqYqkp2KAYQw&time=1413
 http://123.29.68.76/live/vstv002/02.m3u8
 #EXTINF:0, --VTV3
 http://live.sohatv.vn/vtv3.m3u8
-#EXTINF:0, --VTV4
-http://live.accessasia.tv:1935/vnptg_channels/mp4:vtv4.480p/playlist.m3u8
+
 #EXTINF:0, --N+ Nhaccuatui
 rtmp://123.30.134.108/live playpath=nctlive swfUrl=http://stc.lala.nixcdn.com/tv/flash/lala_tv_6.swf pageUrl=http://lala.nhaccuatui.com/tv
 #EXTINF:0, --ITV
 http://live.kenhitv.vn:1935/liveweb/itv_web_500k.stream/playlist.m3u8
-#EXTINF:0, --Phimviet
+
+#EXTINF:0, --VTV4
+http://live.accessasia.tv:1935/vnptg_channels/mp4:vtv4.480p/playlist.m3u8
+#EXTINF:0, --Phim Viet
 http://live.accessasia.tv:1935/vnptg_channels/vctv2.480p/playlist.m3u8
-#EXTINF:0, --Thuanviet
+#EXTINF:0, --Thuan Viet
 http://live.accessasia.tv:1935/vnptg_channels/thuanviet.480p/playlist.m3u8
+#EXTINF:0, --Du Lich
+http://live.accessasia.tv:1935/vnptg_channels/mp4:dulichcuocsong.480p/playlist.m3u8
 #EXTINF:0, --Kenh17
 http://live.accessasia.tv:1935/vnptg_channels/vctv4.480p/playlist.m3u8
 #EXTINF:0, --O2 TV
 http://live.accessasia.tv:1935/vnptg_channels/mp4:vctv10.480p/playlist.m3u8
-#EXTINF:0, --Today TV
-rtmp://m35.megafun.vn/hctv playpath=vstv003
+
 #EXTINF:0, --TOM&JERRY 
 rtmp://66.90.111.66/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html
