@@ -1,7 +1,6 @@
 ﻿#EXTM3U
-#EXTINF:0, [COLOR yellow]Close DS kênh LiveTV [/COLOR]  
+#EXTINF:0, [COLOR yellow]HƯỚNG DẪN CẬP NHẬT DANH SÁCH KÊNH [/COLOR]  
 rtmpe://112.197.2.154:1935/live//sctv1_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
-
 #EXTINF:0, --SCTV1
 rtmpe://112.197.2.154:1935/live//sctv1_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
 #EXTINF:0, --SCTV2
