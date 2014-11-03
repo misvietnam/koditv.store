@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:0, [COLOR yellow]NHÓM KÊNH SCTV-FOR FANPAGE[/COLOR]  
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH SCTV[/COLOR]  
 rtmpe://112.197.2.154:1935/live//sctv1_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
 #EXTINF:0, --SCTV1
 rtmpe://112.197.2.154:1935/live//sctv1_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
@@ -39,7 +39,7 @@ rtmpe://112.197.2.154:1935/live//sctv17_2 swfUrl=http://tv24.vn/getflash.ashx pa
 rtmpe://112.197.2.154:1935/live//sctvhdthethao_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
 
 
-#EXTINF:0, [COLOR yellow]NHÓM KÊNH SCTV HD FOR FANPAGE[/COLOR]  
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH SCTV HD[/COLOR]  
 http://112.197.2.154/mlive/C001_HD_1/chunklist.m3u8?us=30102014935051659641465%7C521514
 #EXTINF:0, --HD1 STARMOVIE HD
 http://112.197.2.154/mlive/C001_HD_1/chunklist.m3u8?us=30102014935051659641465%7C521514
@@ -76,12 +76,66 @@ http://112.197.2.154/mlive/C016_HD_1/chunklist.m3u8?us=30102014135511558433397%7
 #EXTINF:0, --HD17 PHỤ NỮ
 http://112.197.2.154/mlive/C017_HD_1/chunklist.m3u8?us=30102014135322598542731%7C521514
 
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH HTV-VTV[/COLOR]  
+http://123.30.142.203:44444/htv_online_htv/_definst_/htv2.720p.stream/playlist.m3u8
+#EXTINF:0, --HTV1
+http://123.30.142.203:44444/htv_online_htv/_definst_/htv1.360p.stream/playlist.m3u8
+#EXTINF:0, --HTV2 HD
+http://123.30.142.203:44444/htv_online_htv/_definst_/htv2.720p.stream/playlist.m3u8
+#EXTINF:0, --HTV3
+http://123.30.142.203:44444/htv_online_htv/_definst_/htv3.360p.stream/playlist.m3u8
+#EXTINF:0, --HTV4
+http://123.30.142.203:44444/htv_online_htv/_definst_/htv4.360p.stream/playlist.m3u8
+#EXTINF:0, --HTV7 HD
+http://123.30.142.203:44444/htv_online_htv/_definst_/htv7.720p.stream/playlist.m3u8
+#EXTINF:0, --HTV9 HD
+http://123.30.142.203:44444/htv_online_htv/_definst_/htv9.720p.stream/playlist.m3u8
+#EXTINF:0, --VTV1
+http://123.30.142.203:44444/htv_online_vtv/_definst_/vtv1.360p.stream/playlist.m3u8
+#EXTINF:0, --VTV2
+http://123.30.142.203:44444/htv_online_vtv/_definst_/vtv2.360p.stream/playlist.m3u8
+#EXTINF:0, --VTV3 HD
+http://123.30.142.203:44444/htv_online_vtv/_definst_/vtv3.720p.stream/playlist.m3u8
+#EXTINF:0, --VTV6
+http://123.30.142.203:44444/htv_online_vtv/_definst_/vtv6.720p.stream/playlist.m3u8
+#EXTINF:0, --VTV9
+http://123.30.142.203:44444/htv_online_vtv/_definst_/vtv9.360p.stream/playlist.m3u8
+
+#EXTINF:0, --STARMOVIE HD
+http://123.30.142.203:44444/htv_online_phim_truyen/_definst_/starmovies.720p.stream/playlist.m3u8
+
+
+#EXTINF:0, --STARWORLD HD
+http://123.30.142.203:44444/htv_online_phim_truyen/_definst_/starworld.720p.stream/playlist.m3u8
+
+#EXTINF:0, --THUẦN VIỆT HD
+http://123.30.142.203:44444/htv_online_phim_truyen/_definst_/thuan_viet.720p.stream/playlist.m3u8
+
+
+
+#EXTINF:0, --HTVC VTC3 HD
+http://123.30.142.203:44444/htv_online_vtc/_definst_/vtc3.720p.stream/playlist.m3u8
+
+
+
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH BÓNG ĐÁ[/COLOR]  
+http://123.30.142.203:44444/htv_online_htv/_definst_/one.360p.stream/playlist.m3u8
+#EXTINF:0, --K+1
+http://123.30.142.203:44444/htv_online_htv/_definst_/one.360p.stream/playlist.m3u8
+#EXTINF:0, --BongdaTV HD
+http://123.30.142.203:44444/htv_online_thethao/_definst_/bongdatv.720p.stream/playlist.m3u8
+#EXTINF:0, --TheThaoTV HD
+http://123.30.142.203:44444/htv_online_thethao/_definst_/thethaotv.720p.stream/playlist.m3u8
+
+
+
 #EXTINF:0, [COLOR yellow]NHÓM KÊNH TỔNG HỢP[/COLOR]  
-http://123.29.74.115/ilive.m3u8?c=vstv038&token=ip52J5X8qGL7ZLWHgEidBA&time=1414938966&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+http://123.29.73.99/ilive.m3u8?c=vstv038&token=YLQz7dnS5hn8iJx_gY0zew&time=1413912442&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:0, --STARMOVIE SD
-http://123.29.73.99/ilive.m3u8?c=vstv038&token=KcJ-1TccuG1V-LsHgKyP9w&time=1415007615&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+http://123.29.73.99/ilive.m3u8?c=vstv038&token=YLQz7dnS5hn8iJx_gY0zew&time=1413912442&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:0, --HBO SD
-http://123.29.74.115/ilive.m3u8?c=vstv036&token=fMgWfWYdOScJQp_1YlMdDw&time=1415007615&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+http://123.29.71.179/ilive.m3u8?c=vstv036&token=u0oattCbLekqYqkp2KAYQw&time=1413912442&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
+
 
 #EXTINF:0, --N+ Nhaccuatui
 rtmp://123.30.134.108/live playpath=nctlive swfUrl=http://stc.lala.nixcdn.com/tv/flash/lala_tv_6.swf pageUrl=http://lala.nhaccuatui.com/tv
@@ -107,7 +161,7 @@ http://live.accessasia.tv:1935/vnptg_channels/mp4:dulichcuocsong.480p/playlist.m
 http://live.accessasia.tv:1935/vnptg_channels/vctv4.480p/playlist.m3u8
 #EXTINF:0, --O2 TV
 http://live.accessasia.tv:1935/vnptg_channels/mp4:vctv10.480p/playlist.m3u8
-#EXTINF:0, --SCTV-Hài
+#EXTINF:0, SCTV-Hài
 http://live.accessasia.tv:1935/vnptg_channels/sctvhaihd.480p/playlist.m3u8
 
 #EXTINF:0, --TOM&JERRY 

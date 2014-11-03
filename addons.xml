@@ -80,7 +80,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.cartoonhd" name="Cartoon HD" version="1.1.3" provider-name=".[COLOR blue]X[/COLOR]unity[COLOR blue]T[/COLOR]alk">
+<addon id="plugin.video.cartoonhd" name="Cartoon HD" version="1.1.6" provider-name=".[COLOR blue]X[/COLOR]unity[COLOR blue]T[/COLOR]alk">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -92,6 +92,11 @@
     <description lang="en">Watch All Your Favourite Cartoons</description>
     <platform>all</platform>
   </extension>
+  <extension point="xbmc.addon.repository" name=".[COLOR blue]X[/COLOR]unity[COLOR blue]T[/COLOR]alk Repository" version="1.0.1" provider-name=".[COLOR blue]X[/COLOR]unity[COLOR blue]T[/COLOR]alk">
+		<info compressed="false">http://pythonxbmcking.googlecode.com/svn/addons/addons.xml</info>
+		<checksum>http://pythonxbmcking.googlecode.com/svn/addons/addons.xml.md5</checksum>
+		<datadir zip="true">http://pythonxbmcking.googlecode.com/svn/addons</datadir>
+	</extension>
 </addon>
 
 <addon id="plugin.video.disneyjunior" name="Disney Junior" version="1.3.0" provider-name=".[COLOR blue]X[/COLOR]unity[COLOR blue]T[/COLOR]alk">
@@ -129,6 +134,21 @@
 		<website>https://github.com/lambda81/</website>
 		<platform>all</platform>
 	</extension>
+</addon>
+
+<addon id="plugin.video.footballreplays" name="Football-Replays" version="1.2.0" provider-name=".[COLOR blue]X[/COLOR]unity[COLOR blue]T[/COLOR]alk">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Football Replays</summary>
+    <description lang="en">Football Replays</description>
+    <disclaimer lang="en">By using This Plugin You will receive sometimes an advert which helps funds the developers developing.....we all thank you!!</disclaimer>
+    <platform>all</platform>
+  </extension>
 </addon>
 
 <addon
