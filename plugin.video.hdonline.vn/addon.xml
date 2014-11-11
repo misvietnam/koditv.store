@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon
   id="plugin.video.hdonline.vn"
-  version="1.0.8"
+  version="1.0.9"
   name="Phim-HDOnline"
-  provider-name="ThuNM">
+  provider-name="ThongLD">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
