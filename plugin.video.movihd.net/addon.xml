@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon
-  id="plugin.video.ourmatch.net"
-  version="1.0.5"
-  name="Football OurMatch"
-  provider-name="ThuN">
-  <requires>       		
+  id="plugin.video.movihd.net"
+  version="0.0.1"
+  name="Phim-MoviHD"
+  provider-name="Traitravinh">
+  <requires>        
   </requires>
   <extension point="xbmc.python.pluginsource"
             library="default.py">
         <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary>Watch Soccer Highlights</summary>
-    <description>Watch Soccer Highlights Videos</description>
+    <summary>Watch Movies</summary>
+    <description>Watch Movies on movihd.net</description>
     <platform>all</platform>
   </extension>
 </addon>

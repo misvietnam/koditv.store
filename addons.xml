@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.audio.chiasenhac"
        name="[COLOR FF00BFFF]Music - Chiasenhac[/COLOR]"
-       version="1.7"
+       version="1.8"
        provider-name="ThuN">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
@@ -258,6 +258,24 @@
   </extension>
 </addon>
 
+<addon
+  id="plugin.video.movihd.net"
+  version="0.0.1"
+  name="Phim-MoviHD"
+  provider-name="Traitravinh">
+  <requires>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Watch Movies</summary>
+    <description>Watch Movies on movihd.net</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="plugin.video.nhk" name="TV-NHK World Channel" version="0.9.8" provider-name="misty">
   <requires>
         <import addon="xbmc.python" version="2.1.0"/>
@@ -277,7 +295,7 @@
 
 <addon
   id="plugin.video.ourmatch.net"
-  version="1.0.4"
+  version="1.0.5"
   name="Football OurMatch"
   provider-name="ThuN">
   <requires>
