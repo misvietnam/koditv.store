@@ -148,7 +148,7 @@
 
 <addon
   id="plugin.video.hayhaytv.vn"
-  version="1.0.24"
+  version="1.0.25"
   name="Phim-HayHayTV"
   provider-name="ThongLD">
   <requires>
@@ -369,7 +369,7 @@
 
 <addon
 	id="plugin.video.sctv"
-	version="0.9.3"
+	version="0.9.5"
 	name="TV-SCTV"
 	provider-name="ThuNM">
 	<requires>
