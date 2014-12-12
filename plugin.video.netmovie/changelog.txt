@@ -1,0 +1,53 @@
+v 1.0.14
+Fix dangcaphd
+Fix anhtrang
+Fix phimgiaitri
+
+v 1.0.13
+Add print to search
+
+v 1.0.12
+Clean up [/COLOR]
+
+v 1.0.11
+Fix hdcaphe
+
+v 1.0.10
+Fix anhtrang
+
+v 1.0.9
+Add anhtrang
+ 
+v 1.0.8
+Add hdcaphe
+
+v 1.0.7
+Rename function
+Add fptplay
+Add zui
+
+v 1.0.6
+Rename function
+Update header
+
+v 1.0.5
+Code cleanup
+Add make_request
+
+v 1.0.4
+Play link directly
+
+v 1.0.3
+Add phimgiaitri
+Add dangcaphd
+Code cleanup
+Fix icon
+
+v 1.0.2
+Fixed Phim3s' Search
+
+v 1.0.1
+Update phim3s
+
+v 1.0.0
+Initial release

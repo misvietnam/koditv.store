@@ -1,0 +1,46 @@
+v 1.0.12
+Fix tube8
+Seperate pornhdhdporn link
+
+v 1.0.11
+Add pornhdhdporn.com
+
+v 1.0.10
+Fix YouJizz search.
+1. Do name seperately.
+2. Delete numbers at 
+end of name string.
+
+v 1.0.9
+Fix YouJizz HD
+
+v 1.0.8
+Add more HD
+
+v 1.0.7
+Add HD Search
+Fix logos
+
+v 1.0.6
+Fix timtube logo
+
+v 1.0.5
+Add youporn
+Add timtube
+
+v 1.0.4
+Add tube8
+
+v 1.0.3
+Add xvideo
+Change color
+
+v 1.0.2
+Fix youjizz
+search and random
+
+v 1.0.1
+Add youjizz.com
+
+v 1.0.0
+Initial release

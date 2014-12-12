@@ -1,0 +1,46 @@
+v 1.0.12
+Fix nhaccuatui search 
+to get video only 
+and show more pages
+
+v 1.0.11
+Fix nhacso search
+Fix CSN search
+
+v 1.0.10
+Fix nhaccuatui
+Add print to search
+
+v 1.0.9
+Add nhaccuatui
+clean up [/COLOR]
+
+v 1.0.8
+Add SCTV2
+
+v 1.0.7
+Update iTV link (zui)
+
+v 1.0.6
+Rename function
+Update header
+
+v 1.0.5
+Code cleanup
+Add make_request
+
+v 1.0.4
+Play link directly
+
+v 1.0.3
+Code cleanup
+Fix icon
+
+v 1.0.2
+Fix chiasenhac
+
+v 1.0.1
+Update nhacso
+
+v 1.0.0
+Initial release

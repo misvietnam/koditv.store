@@ -41,6 +41,27 @@
   </extension>
 </addon>
 
+<addon id="plugin.audio.netmusic"
+       name="Music-netmusic"
+       version="1.0.12"
+       provider-name="DaveLN">
+  <requires>
+        <import addon="xbmc.python" version="2.1.0" optional="true" />
+		<import addon="script.module.simplejson" />
+		<import addon="script.module.t0mm0.common" version="1.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>audio</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Music</summary>
+    <description>Internet Music</description>
+	<disclaimer lang="en">I am not responsible for the contents of these streams, which are pulled from online provider(s). The streams do not represent my views or opinions in any way.</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon
   id="plugin.audio.nhaccuatui"
   version="1.1.2"
@@ -126,6 +147,23 @@
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Stream from disney junior</summary>
     <description lang="en">Stream from disney junior</description>
+    <disclaimer lang="en">By using This Plugin You will receive sometimes an advert which helps funds the developers developing.....we all thank you!!</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.filmon" name="FilmOn" version="4.6.5" provider-name=".[COLOR blue]X[/COLOR]unity[COLOR blue]T[/COLOR]alk">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.t0mm0.common" version="0.0.1"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">FilmOn</summary>
+    <language>en de fr es it ru</language>
+    <description lang="en">FilmOn.com is an internet based television provider owned by FilmOn.TV Networks Inc. FilmOn.TV Networks was founded by Alki David in 2006.FilmOn.com subscription packages include access to over 120 streaming TV channels (mostly in English language) in addition to premium FilmOn.com Movie channels and pay-per-view channels</description>
     <disclaimer lang="en">By using This Plugin You will receive sometimes an advert which helps funds the developers developing.....we all thank you!!</disclaimer>
     <platform>all</platform>
   </extension>
@@ -294,6 +332,69 @@
   <extension point="xbmc.addon.metadata">
     <summary>Watch Movies</summary>
     <description>Watch Movies on movihd.net</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.netadult"
+       name="18+ netadult"
+       version="1.0.12"
+       provider-name="DaveLN">
+  <requires>
+        <import addon="xbmc.python" version="2.1.0" optional="true" />
+		<import addon="script.module.simplejson" />
+		<import addon="script.module.t0mm0.common" version="1.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>[COLOR red]Adult[/COLOR] TV and Movies</summary>
+    <description>Internet [COLOR red]Adult[/COLOR] TV and Movies [COLOR yellow]from Various Sources[/COLOR]</description>
+	<disclaimer lang="en">I am not responsible for the contents of these streams, which are pulled from online provider(s). The streams do not represent my views or opinions in any way.</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.netmovie"
+       name="Phim-netmovie"
+       version="1.0.14"
+       provider-name="DaveLN">
+  <requires>
+        <import addon="xbmc.python" version="2.1.0" optional="true" />
+		<import addon="script.module.simplejson" />
+		<import addon="script.module.t0mm0.common" version="1.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Movies</summary>
+    <description>Internet Movies</description>
+	<disclaimer lang="en">I am not responsible for the contents of these streams, which are pulled from online provider(s). The streams do not represent my views or opinions in any way.</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.nettivi"
+       name="TV-nettivi"
+       version="1.0.11"
+       provider-name="DaveLN">
+  <requires>
+        <import addon="xbmc.python" version="2.1.0" optional="true" />
+		<import addon="script.module.simplejson" />
+		<import addon="script.module.t0mm0.common" version="1.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>TV</summary>
+    <description>Internet TV</description>
+	<disclaimer lang="en">I am not responsible for the contents of these streams, which are pulled from online provider(s). The streams do not represent my views or opinions in any way.</disclaimer>
     <platform>all</platform>
   </extension>
 </addon>
