@@ -224,7 +224,7 @@
 
 <addon
   id="plugin.video.htvonline.com.vn"
-  version="1.0.5"
+  version="1.0.6"
   name="TV-HTVOnline"
   provider-name="ThuNM">
   <requires>
