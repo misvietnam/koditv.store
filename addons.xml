@@ -259,24 +259,6 @@
 </addon>
 
 <addon
-  id="plugin.video.hdviet.com"
-  version="1.0.0"
-  name="Phim-HDviet"
-  provider-name="ThuNM">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary>HDVIET - Ứng dụng xem phim HD từ server HDviet</summary>
-    <description>Addons này đang trong quá trình thử nghiệm. chỉ cung cấp cho các box do tvbox.store phân phối</description>
-    <platform>all</platform>
-  </extension>
-</addon>
-
-<addon
   id="plugin.video.htvonline.com.vn"
   version="1.0.6"
   name="TV-HTVOnline"
@@ -374,8 +356,8 @@
 </addon>
 
 <addon id="plugin.video.netmedia"
-       name="Phim-netmmedia"
-       version="1.0.0"
+       name="Show-Netmedia"
+       version="1.0.4"
        provider-name="Anonymous">
   <requires>
         <import addon="xbmc.python" version="2.1.0" optional="true" />
@@ -396,7 +378,7 @@
 
 <addon id="plugin.video.netmovie"
        name="Phim-netmovie"
-       version="1.0.16"
+       version="1.0.19"
        provider-name="Anonymous">
   <requires>
         <import addon="xbmc.python" version="2.1.0" optional="true" />
@@ -417,7 +399,7 @@
 
 <addon id="plugin.video.nettivi"
        name="TV-nettivi"
-       version="1.0.12"
+       version="1.0.13"
        provider-name="Anonymous">
   <requires>
         <import addon="xbmc.python" version="2.1.0" optional="true" />
