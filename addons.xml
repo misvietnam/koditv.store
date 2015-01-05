@@ -206,6 +206,22 @@
   </extension>
 </addon>
 
+<addon id="plugin.video.ftpplay" version="1.0.1" name="TV-FPTPLAY" provider-name="Anonymous">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.video.F4mProxy" version="2.1.7"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>VietTV Online</summary>
+        <description></description>
+        <disclaimer lang="en">[COLOR red]I am not responsible for the contents of these streams, which are pulled from online provider(s). The streams do not represent my views or opinions in any way.[/COLOR]</disclaimer>
+        <platform>all</platform>
+    </extension>
+</addon>
+
 <addon
   id="plugin.video.hayhaytv.vn"
   version="1.0.25"
@@ -557,7 +573,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.vietplay" name="VietPlay" version="1.0" provider-name="VietMusic">
+<addon id="plugin.video.vietplay" name="Show-FPTPlay" version="1.0" provider-name="VietMusic">
     <requires>
         <import addon="xbmc.python" version="2.1.0" optional="true" />
         <import addon="script.module.simplejson" />
@@ -570,22 +586,6 @@
         <summary>[COLOR cyan]http://fptplay.net[/COLOR]</summary>
         <description>[COLOR yellow]Watch free TV and video clips at http://fptplay.net[/COLOR]</description>
         <disclaimer lang="en">[COLOR lime][B]a[/COLOR][COLOR chocolate]Rookie[/B][/COLOR] [COLOR red]I am not responsible for the contents of these streams, which are pulled from online provider(s). The streams do not represent my views or opinions in any way.[/COLOR]</disclaimer>
-        <platform>all</platform>
-    </extension>
-</addon>
-
-<addon id="plugin.video.viettv" version="1.0.1" name="TV - VietTV" provider-name="Anonymous">
-    <requires>
-        <import addon="xbmc.python" version="2.1.0"/>
-        <import addon="script.video.F4mProxy" version="2.1.7"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <summary>VietTV Online</summary>
-        <description></description>
-        <disclaimer lang="en">[COLOR red]I am not responsible for the contents of these streams, which are pulled from online provider(s). The streams do not represent my views or opinions in any way.[/COLOR]</disclaimer>
         <platform>all</platform>
     </extension>
 </addon>
