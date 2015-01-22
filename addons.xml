@@ -335,9 +335,9 @@
 </addon>
 
 <addon id="plugin.video.netadult"
-       name="18+ netadult"
-       version="1.0.12"
-       provider-name="DaveLN">
+       name="xxx-iAdult"
+       version="1.0.13"
+       provider-name="Anonymous">
   <requires>
         <import addon="xbmc.python" version="2.1.0" optional="true" />
 		<import addon="script.module.simplejson" />
@@ -356,8 +356,8 @@
 </addon>
 
 <addon id="plugin.video.netmedia"
-       name="Show-Netmedia"
-       version="1.0.4"
+       name="Show-iMedia"
+       version="1.0.12"
        provider-name="Anonymous">
   <requires>
         <import addon="xbmc.python" version="2.1.0" optional="true" />
@@ -377,8 +377,8 @@
 </addon>
 
 <addon id="plugin.video.netmovie"
-       name="Phim-netmovie"
-       version="1.0.19"
+       name="Phim-iMovie"
+       version="1.1.2"
        provider-name="Anonymous">
   <requires>
         <import addon="xbmc.python" version="2.1.0" optional="true" />
