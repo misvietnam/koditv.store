@@ -398,8 +398,8 @@
 </addon>
 
 <addon id="plugin.video.nettivi"
-       name="TV-nettivi"
-       version="1.0.13"
+       name="TV-iTivi"
+       version="1.0.14"
        provider-name="Anonymous">
   <requires>
         <import addon="xbmc.python" version="2.1.0" optional="true" />

@@ -127,41 +127,6 @@ rtmpe://112.197.2.154:1935/live//vtv9_2 swfUrl=http://tv24.vn/getflash.ashx page
 #EXTINF:0, --ANTV
 rtmpe://112.197.2.154:1935/live//antv_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
 
-#EXTINF:0, [COLOR yellow]NHÓM KÊNH ĐỊA PHƯƠNG[/COLOR] 
-http://112.197.2.154/mlive/C049_SD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
-#EXTINF:0, --THVL
-http://112.197.2.154/mlive/C049_SD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
-EXTINF:0, --HTV2
-http://112.197.2.154/mlive/C050_SD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
-#EXTINF:0, --LA34
-http://112.197.2.154/mlive/C051_SD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
-#EXTINF:0, --HTV7
-http://112.197.2.154/mlive/C052_SD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
-#EXTINF:0, --HTV9
-http://112.197.2.154/mlive/C053_SD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
-#EXTINF:0, --O2TV
-http://112.197.2.154/mlive/C054_SD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
-#EXTINF:0, --INFO TV
-http://112.197.2.154/mlive/C055_SD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
-#EXTINF:0, --VTV9 LetViet
-http://112.197.2.154/mlive/C056_SD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
-#EXTINF:0, --HN1
-http://112.197.2.154/mlive/C057_SD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
-#EXTINF:0, --VTC7 TodayTV
-http://112.197.2.154/mlive/C058_SD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
-#EXTINF:0, --VTVcab5 Echannel
-http://112.197.2.154/mlive/C059_SD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
-#EXTINF:0, --DRT1
-http://112.197.2.154/mlive/C060_SD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
-#EXTINF:0, --VTV Huế
-http://112.197.2.154/mlive/C061_SD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
-#EXTINF:0, --BRT
-http://112.197.2.154/mlive/C062_SD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
-#EXTINF:0, --VTV Cần Thơ
-http://112.197.2.154/mlive/C063_SD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
-#EXTINF:0, --DN1
-http://112.197.2.154/mlive/C065_SD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
-
 
 #EXTINF:0, [COLOR yellow]NHÓM KÊNH AVG - TEST[/COLOR] 
 http://113.160.49.34/lives/origin03/nhacthieunhisd.isml/nhacthieunhisd.m3u8
@@ -204,6 +169,8 @@ http://live.accessasia.tv:1935/vnptg_channels/vctv4.480p/playlist.m3u8
 http://live.accessasia.tv:1935/vnptg_channels/mp4:vctv10.480p/playlist.m3u8
 #EXTINF:0, --SCTV-Hài
 http://live.accessasia.tv:1935/vnptg_channels/sctvhaihd.480p/playlist.m3u8
+#EXTINF:0, --TOM&JERRY 
+rtmp://66.90.111.66/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html
 
 #EXTINF:0, [COLOR yellow]THUYNGA-PARISBYNIGHT - IN VIETNAM ONLY[/COLOR]  
 http://113.164.28.22/thuynga/Thuy.Nga_Paris.By.Night.111.2014.720p/index.m3u8
@@ -249,6 +216,3 @@ http://113.164.28.28/thuynga/Thuy.Nga_Paris.By.Night.92.2008.480p/index.m3u8
 http://113.164.28.28/thuynga/Thuy.Nga_Paris.By.Night.91.2008.480p/index.m3u8
 #EXTINF:0, --PBN.90-2007 Chân dung người phụ nữ Việt Nam
 http://113.164.28.28/thuynga/Thuy.Nga_Paris.By.Night.90.2007.480p/index.new.m3u8
-
-#EXTINF:0, --TOM&JERRY 
-rtmp://66.90.111.66/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html
