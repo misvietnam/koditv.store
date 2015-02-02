@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.tvbox.store"
-		name="www.facebook.com/tvbox.store"
-		version="1.0.2"
-		provider-name="Thu Nguyen Minh - Phone: +84.996.988.989 - Facebook store: www.facebook.com/tvbox.store">
+		name="uPlayHD.com"
+		version="1.0.3"
+		provider-name="Anonymous">
 	<extension point="xbmc.addon.repository"
 		name="tvbox.store Add-on Repository">
 		<info compressed="true">https://raw.githubusercontent.com/thunguyenminh/tvbox.store/master/addons.xml</info>
@@ -12,8 +12,8 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Repositories tong hop tat ca cac addon xem tivi va xem phim truc tuyen danh cho nguoi viet</summary>
-		<description lang="en"> Duy tri ma nguon (maintenance code) boi Thu Nguyen Minh</description>
-		<disclaimer>Toi khong phai la tac gia cua tat ca cac addon trong repositories nay, do do, toi se khong chiu trach nhiem ve noi dung cung nhu ban quyen duoc chia se boi cac addon - Viec duy tri ma nguon nham muc dich dam bao cac addon luon hoat dong</disclaimer>
+		<description lang="en"> Duy tri ma nguon (maintenance code) boi ThuN</description>
+		<disclaimer>Toi se khong chiu trach nhiem ve noi dung cung nhu ban quyen duoc chia se boi cac addon.</disclaimer>
 		<disclaimer lang="en"></disclaimer>
 		<platform>all</platform>
 	</extension>
