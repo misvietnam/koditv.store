@@ -243,9 +243,9 @@
 
 <addon
   id="plugin.video.movihd.net"
-  version="0.0.1"
+  version="0.0.2"
   name="Phim-MoviHD"
-  provider-name="Traitravinh">
+  provider-name="TTV">
   <requires>
   </requires>
   <extension point="xbmc.python.pluginsource"
