@@ -63,160 +63,118 @@ rtmpe://112.197.2.154:1935/live//thvl_2 swfUrl=http://tv24.vn/getflash.ashx page
 
 #EXTINF:0, [COLOR yellow]NHÓM KÊNH VTVPLAY[/COLOR]  
 http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv1hd_hls.smil/playlist.m3u8
-#EXTINF:-1,VTV1 HD 
+#EXTINF:0, --VTV1 HD 
 http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv1hd_hls.smil/playlist.m3u8
-#EXTINF:-1,VTV3 HD 
+#EXTINF:0, --VTV3 HD 
 http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv3hd_hls.smil/playlist.m3u8
-#EXTINF:-1,VTV6 HD 
+#EXTINF:0, --VTV6 HD 
 http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv6hd_hls.smil/playlist.m3u8
-#EXTINF:-1,VTVCAB1 GIẢI TRÍ
+#EXTINF:0, --VTVCAB1 GIẢI TRÍ
 http://vtv.live.cdn.fptplay.net/vtvlive/smil:giaitritv_hls.smil/playlist.m3u8
-#EXTINF:-1,VTVcab2 PHIM VIET
+#EXTINF:0, --VTVcab2 PHIM VIET
 http://vtv.live.cdn.fptplay.net/vtvlive/smil:phimviet_hls.smil/playlist.m3u8
-#EXTINF:-1,VTVCAB4 KÊNH17
+#EXTINF:0, --VTVCAB4 KÊNH17
 http://vtv.live.cdn.fptplay.net/vtvlive/smil:kenh17_hls.smil/playlist.m3u8
-#EXTINF:-1,VTVCAB7 DDRAMAS
+#EXTINF:0, --VTVCAB7 DDRAMAS
 http://vtv.live.cdn.fptplay.net/vtvlive/smil:ddramas_hls.smil/playlist.m3u8
-#EXTINF:-1,VTVCAB8 BIBI 
+#EXTINF:0, --VTVCAB8 BIBI 
 http://vtv.live.cdn.fptplay.net/vtvlive/smil:bibi_hls.smil/playlist.m3u8
-#EXTINF:-1,VTVCAB9 INFOTV
+#EXTINF:0, --VTVCAB9 INFOTV
 http://vtv.live.cdn.fptplay.net/vtvlive/smil:infotv_hls.smil/playlist.m3u8
-#EXTINF:-1,VTVCAB10 O2TV
+#EXTINF:0, --VTVCAB10 O2TV
 http://vtv.live.cdn.fptplay.net/vtvlive/smil:o2tv_hls.smil/playlist.m3u8
-#EXTINF:-1,VTVCAB12 STYLETV
+#EXTINF:0, --VTVCAB12 STYLETV
 http://vtv.live.cdn.fptplay.net/vtvlive/smil:styletv_hls.smil/playlist.m3u8
-#EXTINF:-1,VTVCAB15 INVESTV
+#EXTINF:0, --VTVCAB15 INVESTV
 http://vtv.live.cdn.fptplay.net/vtvlive/smil:investtv_hls.smil/playlist.m3u8
-#EXTINF:-1,HN1 HÀ NỘI 1
+#EXTINF:0, --HN1 HÀ NỘI 1
 http://vtv.live.cdn.fptplay.net/vtvlive/smil:hanoi1_hls.smil/playlist.m3u8
-#EXTINF:-1,HTV9
+#EXTINF:0, --HTV9
 http://vtv.live.cdn.fptplay.net/vtvlive/smil:htv9_hls.smil/playlist.m3u8
-#EXTINF:-1,HTVC PHỤ NỮ
+#EXTINF:0, --HTVC PHỤ NỮ
 http://vtv.live.cdn.fptplay.net/vtvlive/smil:htvcphunu_hls.smil/playlist.m3u8
-#EXTINF:-1,VTC4 YEAH1
+#EXTINF:0, --VTC4 YEAH1
 http://vtv.live.cdn.fptplay.net/vtvlive/smil:yeah1tv_hls.smil/playlist.m3u8
-#EXTINF:-1,SCTVHD HÀI
+#EXTINF:0, --SCTVHD HÀI
 http://vtv.live.cdn.fptplay.net/vtvlive/smil:sctvhaihd_hls.smil/playlist.m3u8
-#EXTINF:-1,ARIANG
+#EXTINF:0, --ARIANG
 http://vtv.live.cdn.fptplay.net/vtvlive/smil:arirang_hls.smil/playlist.m3u8
-#EXTINF:-1,KBS
+#EXTINF:0, --KBS
 http://vtv.live.cdn.fptplay.net/vtvlive/smil:kbs_hls.smil/playlist.m3u8
 
 #EXTINF:0, [COLOR yellow]NHÓM KÊNH VP9[/COLOR]  
 http://115.146.126.226/chn/vtv1/v.m3u8
-#EXTINF:-1, VTV1   
+#EXTINF:0, --VTV1   
 http://115.146.126.226/chn/vtv1/v.m3u8
-#EXTINF:-1, VTV2     
+#EXTINF:0, --VTV2     
 http://115.146.126.226/chn/vtv2/v.m3u8
-#EXTINF:-1, VTV3 HD    
+#EXTINF:0, --VTV3 HD    
 http://115.146.126.226/chn/vtv3/v.m3u8
-#EXTINF:-1, VTV4   
+#EXTINF:0, --VTV4   
 http://115.146.126.226/chn/vtv4/v.m3u8
-#EXTINF:-1, VTV6 HD    
+#EXTINF:0, --VTV6 HD    
 http://115.146.126.226/chn/vtv6/v.m3u8
-#EXTINF:-1, ANTV    
+#EXTINF:0, --ANTV    
 http://115.146.126.226/chn/antv/v.m3u8
-#EXTINF:-1, QPVN    
+#EXTINF:0, --QPVN    
 http://115.146.126.226/chn/qpvn/v.m3u8
-#EXTINF:-1, VOVTV    
+#EXTINF:0, --VOVTV    
 http://115.146.126.226/chn/vovtv/v.m3u8
-#EXTINF:-1, VTVcab 2 - Phim Việt 
+#EXTINF:0, --VTVcab 2 - Phim Việt 
 http://115.146.126.226/chn/phimv/v.m3u8
-#EXTINF:-1, VTVCAB3 THỂ THAO TV HD 
+#EXTINF:0, --VTVCAB3 THỂ THAO TV HD 
 http://115.146.126.226/chn/tttv/v.m3u8
-#EXTINF:-1, VTV Cab 7 - Dramas    
+#EXTINF:0, --VTV Cab 7 - Dramas    
 http://115.146.126.226/chn/ddra/v.m3u8
-#EXTINF:-1, VTV Cab 8 - BiBi    
+#EXTINF:0, --VTV Cab 8 - BiBi    
 http://115.146.126.226/chn/bibi/v.m3u8
-#EXTINF:-1, VTVcab 10 - O2TV    
+#EXTINF:0, --VTVcab 10 - O2TV    
 http://115.146.126.226/chn/o2tv/v.m3u8
-#EXTINF:-1, VTVCAB16 BÓNG ĐÁ TV HD
+#EXTINF:0, --VTVCAB16 BÓNG ĐÁ TV HD
 http://115.146.126.226/chn/bdtv/v.m3u8
-#EXTINF:-1, HÀ NỘI 1    
+#EXTINF:0, --HÀ NỘI 1    
 http://115.146.126.226/chn/hn1/v.m3u8
-#EXTINF:-1, HÀ NỘI 2    
+#EXTINF:0, --HÀ NỘI 2    
 http://115.146.126.226/chn/hn2/v.m3u8
-#EXTINF:-1, HTV7    
+#EXTINF:0, --HTV7    
 http://115.146.126.226/chn/htv7/v.m3u8
-#EXTINF:-1, VTC1    
+#EXTINF:0, --VTC1    
 http://115.146.126.226/chn/vtc1/v.m3u8
-#EXTINF:-1, VTC2    
+#EXTINF:0, --VTC2    
 http://115.146.126.226/chn/vtc2/v.m3u8
-#EXTINF:-1, VTC3    
+#EXTINF:0, --VTC3    
 http://115.146.126.226/chn/vtc3/v.m3u8
-#EXTINF:-1, VTC6 - SG Channel    
+#EXTINF:0, --VTC6 - SG Channel    
 http://115.146.126.226/chn/sgc6/v.m3u8
-#EXTINF:-1, VTC7 - TODAY TV    
+#EXTINF:0, --VTC7 - TODAY TV    
 http://115.146.126.226/chn/tdayt/v.m3u8
-#EXTINF:-1, VTC9 - LET"S VIỆT    
+#EXTINF:0, --VTC9 - LET"S VIỆT    
 http://115.146.126.226/chn/letsv/v.m3u8
-#EXTINF:-1, VTC11 - Kids TV    
+#EXTINF:0, --VTC11 - Kids TV    
 http://115.146.126.226/chn/kids/v.m3u8
-#EXTINF:-1, VTC16 - 3NTV 
+#EXTINF:0, --VTC16 - 3NTV 
 http://115.146.126.226/chn/3ntv/v.m3u8
-#EXTINF:-1, ARIANG    
+#EXTINF:0, --ARIANG    
 http://115.146.126.226/chn/arirg/v.m3u8
-#EXTINF:-1, DISNEY    
+#EXTINF:0, --DISNEY    
 http://115.146.126.226/chn/disny/v.m3u8
-#EXTINF:-1, NICKELODEON    
+#EXTINF:0, --NICKELODEON    
 http://115.146.126.226/chn/nicke/v.m3u8
-#EXTINF:-1, STARWORLD    	   
+#EXTINF:0, --STARWORLD    	   
 http://115.146.126.226/chn/starw/v.m3u8
-#EXTINF:-1,  Sport    
+#EXTINF:0, -- Sport    
 http://115.146.126.226/chn/bet2/v.m3u8
-#EXTINF:-1, Euro Sport    
+#EXTINF:0, --Euro Sport    
 http://115.146.126.226/chn/euse/v.m3u8
-#EXTINF:-1, Bein1 sport
+#EXTINF:0, --Bein1 sport
 http://115.146.126.226/chn/bin01/v.m3u8
-#EXTINF:-1, Bein3 sport
+#EXTINF:0, --Bein3 sport
 http://115.146.126.226/chn/bin03/v.m3u8
-#EXTINF:-1, Bein4 sport
+#EXTINF:0, --Bein4 sport
 http://115.146.126.226/chn/bin04/v.m3u8
-#EXTINF:-1,SPORTTIME3
+#EXTINF:0, --SPORTTIME3
 http://115.146.126.226/chn/st3/v.m3u8
 
-#EXTINF:0, [COLOR yellow]NHÓM KÊNH VIETTV24[/COLOR]  
-http://hls12.las.v247tv.com:8081/live/vietv-hou1/playlist.m3u8
-#EXTINF:-1,VinaMax TV – VietV, Houston, Texas
-http://hls12.las.v247tv.com:8081/live/vietv-hou1/playlist.m3u8
-#EXTINF:-1,VAN TV
-http://206.190.150.132/liveStream/vantv_1/HasBahCa.m3u8
-#EXTINF:-1,VBSTV
-http://206.190.150.132/liveStream/vbstv_1/HasBahCa.m3u8
-#EXTINF:-1,Vietface TV
-http://206.190.150.132:1935/liveStream/vface_1/hasbahca.m3u8
-#EXTINF:-1,Viettv24
-http://206.190.150.132/liveStream/viettv24_1/HasBahCa.m3u8
-#EXTINF:-1,IBC TV
-http://206.190.150.132/liveStream/ibctv_1/HasBahCa.m3u8
-#EXTINF:-1,KVLA
-http://206.190.150.132/liveStream/kvla_1/HasBahCa.m3u8
-#EXTINF:-1,HÀI
-http://206.190.150.132:1935/liveStream/hai_1/hasbahca.m3u8
-#EXTINF:-1,ẨM THỰC
-http://206.190.150.132:1935/liveStream/vnatv_1/hasbahca.m3u8
-#EXTINF:-1,fashion-set
-http://206.190.150.132/liveStream/set_1/HasBahCa.m3u8
-#EXTINF:-1,ITV
-rtmp://live.kenhitv.vn/liveweb//itv_web_500k.stream
-#EXTINF:-1,SÂN KHẤU CUỘC ĐỜI
-http://206.190.150.132/liveStream/cailuong_1/HasBahCa.m3u8
-#EXTINF:-1,TUỎI THẦN TIÊN
-http://206.190.150.132/liveStream/ttt_1/HasBahCa.m3u8
-#EXTINF:-1,vietvshop
-http://206.190.150.132/liveStream/vietvla_1/HasBahCa.m3u8
-#EXTINF:-1,vmusic
-http://206.190.150.132/liveStream/mtv_1/HasBahCa.m3u8
-#EXTINF:-1,NGÔI NHÀ VUI VẼ
-http://206.190.130.141/liveStream/BBBG_1/playlist.m3u8 
-#EXTINF:-1,VPop
-http://83.170.111.147:1935/liveStream/vpoptv_1/HasBahCa.m3u8
-#EXTINF:-1,Viet MTV
-http://64.62.143.5:1935/live/donotstealmy-Stream1/HasBahCa.m3u8
-#EXTINF:-1,Phố Việt HD
-http://69.178.181.93:1935/phoviettv/myStream/chunklist_w1703367580.m3u8
-
- 
 
 #EXTINF:0, [COLOR yellow]NHÓM KÊNH VTC[/COLOR] 
 http://119.18.186.116:1935/live/vtc11_h/playlist.m3u8
