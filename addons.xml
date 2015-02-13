@@ -152,7 +152,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.footballreplays" name="Football-Replays" version="1.2.3" provider-name="Anonymous">
+<addon id="plugin.video.footballreplays" name="Football-Replays" version="1.2.4" provider-name="Anonymous">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -225,7 +225,7 @@
 
 <addon
   id="plugin.video.megafun.vn"
-  version="1.0.14"
+  version="1.0.16"
   name="TV-MegaFun"
   provider-name="ThuNM">
   <requires>
@@ -243,7 +243,7 @@
 
 <addon
   id="plugin.video.movihd.net"
-  version="0.0.2"
+  version="0.0.3"
   name="Phim-MoviHD"
   provider-name="TTV">
   <requires>
@@ -282,7 +282,7 @@
 
 <addon id="plugin.video.netmedia"
        name="Show-iMedia"
-       version="1.0.12"
+       version="1.0.13"
        provider-name="Anonymous">
   <requires>
         <import addon="xbmc.python" version="2.1.0" optional="true" />
@@ -303,7 +303,7 @@
 
 <addon id="plugin.video.netmovie"
        name="Phim-iMovie"
-       version="1.1.2"
+       version="1.1.4"
        provider-name="Anonymous">
   <requires>
         <import addon="xbmc.python" version="2.1.0" optional="true" />
@@ -324,7 +324,7 @@
 
 <addon id="plugin.video.nettivi"
        name="TV-iTivi"
-       version="1.0.14"
+       version="1.0.16"
        provider-name="Anonymous">
   <requires>
         <import addon="xbmc.python" version="2.1.0" optional="true" />
@@ -362,7 +362,7 @@
 
 <addon
   id="plugin.video.ourmatch.net"
-  version="1.0.5"
+  version="1.0.6"
   name="Football OurMatch"
   provider-name="ThuN">
   <requires>
@@ -374,6 +374,24 @@
   <extension point="xbmc.addon.metadata">
     <summary>Watch Soccer Highlights</summary>
     <description>Watch Soccer Highlights Videos</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon
+  id="plugin.video.phatphap"
+  version="1.0.1"
+  name="Video-PhatPhap"
+  provider-name="TTV">
+  <requires>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="phatam.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Watch KinhPhat</summary>
+    <description>A-Di-Da-Phat</description>
     <platform>all</platform>
   </extension>
 </addon>
@@ -399,7 +417,7 @@
 
 <addon
   id="plugin.video.phimclip.vn"
-  version="1.0.5"
+  version="1.0.9"
   name="Phim-ClipVN"
   provider-name="ThuNM">
   <requires>
@@ -416,9 +434,27 @@
   </extension>
 </addon>
 
+<addon
+  id="plugin.video.phimvang.org"
+  version="1.0.8"
+  name="Phim-Phimvang"
+  provider-name="ThuNM">
+  <requires>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Watch Movies</summary>
+    <description>Watch Movies on phimvang.org</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="plugin.video.phstreams"
 	name="Phoenix"
-	version="1.1.5"
+	version="1.3.6"
 	provider-name="Blazetamer">
   <requires>
     <import addon="script.module.simplejson" version="3.3.0"/>
@@ -442,6 +478,29 @@
   </extension>
 </addon>
 
+<addon id="plugin.video.pulsar" name="Pulsar" version="0.4.5" provider-name="steeve">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="navigation.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.service" library="service.py" start="startup"/>
+    <extension point="xbmc.python.module" library="resources/site-packages" />
+    <extension point="xbmc.subtitle.module" library="navigation.py" />
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <language>en</language>
+        <website><![CDATA[https://github.com/steeve/plugin.video.pulsar]]></website>
+        <forum><![CDATA[http://forum.xbmc.org/showthread.php?tid=200957]]></forum>
+        <source><![CDATA[https://github.com/steeve/plugin.video.pulsar]]></source>
+        <language>en</language>
+        <license><![CDATA[Non commercial. See https://github.com/steeve/plugin.video.pulsar/blob/master/LICENSE]]></license>
+        <summary><![CDATA[Pulsar: Universal streaming]]></summary>
+        <description><![CDATA[Follow @pulsarhq on Twitter]]></description>
+    </extension>
+</addon>
+
 <addon
 	id="plugin.video.sctv"
 	version="0.9.5"
@@ -460,6 +519,26 @@
 		<disclaimer lang="vi">Tat ca live streams duoc tai ve tu cac nha cung cap dich vu. Tac gia phan mem nay khong chiu trach nhiem ve noi dung cua chung.</disclaimer>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
 	</extension>
+</addon>
+
+<addon id="plugin.video.vietmovie"
+       name="Phim-Megabox"
+       version="1.4"
+       provider-name="VietMusic">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0" />
+		<import addon="script.module.simple.downloader" version="1.9.4" />
+	</requires>
+    <extension point="xbmc.python.pluginsource"
+               library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <language>en</language>
+		<summary lang="en">Viet Movie online</summary>
+		<description lang="en">Add-on play Vietnamese Movie online</description>
+    </extension>
 </addon>
 
 <addon id="plugin.video.vietplay" name="Show-FPTPlay" version="1.0" provider-name="VietMusic">
@@ -498,10 +577,30 @@
 </addon>
 
 <addon
+  id="plugin.video.vkool.net"
+  version="0.0.2"
+  name="Phim-Vkool"
+  provider-name="TTV">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" optional="true"/>
+    <import addon="script.module.requests" version="2.4.3" />
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Watch Movies</summary>
+    <description>Watch Movies on vkool.net</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon
   id="plugin.video.vtvplus.vn"
-  version="1.0.4"
+  version="1.0.7"
   name="TV-VTVPlus"
-  provider-name="ThuNM">
+  provider-name="Unknown">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -600,6 +699,24 @@ XBMC HUB: j.mp/xbmctorrent]]></description>
     <description>Xem phim HD XomGiaiTri.com</description>
     <platform>all</platform>
   </extension>
+</addon>
+
+<addon id="repository.lambda" name="lambda Add-on repository" version="1.1.0" provider-name="lambda">
+	<extension point="xbmc.addon.repository" name="lambda Add-on repository">
+		<dir>
+			<info compressed="false">http://raw.github.com/lambda81/lambda-repo/master/addons.xml</info>
+			<checksum>http://raw.github.com/lambda81/lambda-repo/master/addons.xml.md5</checksum>
+			<datadir zip="true">http://raw.github.com/lambda81/lambda-repo/master/</datadir>
+		</dir>
+		<info compressed="false">https://offshoregit.com/lambda81/lambda-repo/addons.xml</info>
+		<checksum>https://offshoregit.com/lambda81/lambda-repo/addons.xml.md5</checksum>
+		<datadir zip="true">https://offshoregit.com/lambda81/lambda-repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Install Add-ons from lambda</summary>
+		<description lang="en">Download and install add-ons from lambda repository.</description>
+		<platform>all</platform>
+	</extension>
 </addon>
 
 <addon id="repository.tvbox.store"
