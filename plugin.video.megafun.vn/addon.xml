@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon
   id="plugin.video.megafun.vn"
-  version="1.0.14"
+  version="1.0.16"
   name="TV-MegaFun"
   provider-name="ThuNM">
   <requires>
