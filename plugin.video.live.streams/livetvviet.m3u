@@ -175,7 +175,6 @@ http://115.146.126.226/chn/bin04/v.m3u8
 #EXTINF:0, --SPORTTIME3
 http://115.146.126.226/chn/st3/v.m3u8
 
-
 #EXTINF:0, [COLOR yellow]NHÓM KÊNH VTC[/COLOR] 
 http://119.18.186.116:1935/live/vtc11_h/playlist.m3u8
 #EXTINF:0, --VTC1
@@ -252,6 +251,51 @@ http://live.accessasia.tv:1935/vnptg_channels/vctv4.480p/playlist.m3u8
 http://live.accessasia.tv:1935/vnptg_channels/mp4:vctv10.480p/playlist.m3u8
 #EXTINF:0, --SCTV-Hài
 http://live.accessasia.tv:1935/vnptg_channels/sctvhaihd.480p/playlist.m3u8
+
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH HẢI NGOẠI-VIETTV24[/COLOR]  
+http://hls12.las.v247tv.com:8081/live/vietv-hou1/playlist.m3u8
+#EXTINF:0, --Houston
+http://hls12.las.v247tv.com:8081/live/vietv-hou1/playlist.m3u8
+#EXTINF:0, --Dalas
+http://hls12.las.v247tv.com:8081/live/vftv-dal1/playlist.m3u8
+#EXTINF:0, --Los Angeles
+http://hls12.las.v247tv.com:8081/live/vietv-oc1/playlist.m3u8
+#EXTINF:0, --San Jose
+http://hls12.las.v247tv.com:8081/live/vietv-sjo1/playlist.m3u8
+#EXTINF:0, --Viettv24
+http://83.170.111.147/liveStream/viettv24_1/playlist.m3u8
+#EXTINF:0, --MTV Việt
+http://83.170.111.147/liveStream/mtv_1/playlist.m3u8
+#EXTINF:0, --Cải Lương
+http://83.170.111.147/liveStream/cailuong_1/playlist.m3u8
+#EXTINF:0, --Hài
+http://83.170.111.147/liveStream/hai_1/playlist.m3u8
+#EXTINF:0, --VPOP
+http://83.170.111.147/liveStream/vpoptv_1/playlist.m3u8
+#EXTINF:0, --Đồng Giao
+http://83.170.111.147/liveStream/dgtv_1/playlist.m3u8
+#EXTINF:0, --VFace
+http://83.170.111.147/liveStream/vface_1/playlist.m3u8
+#EXTINF:0, --VietSun
+http://83.170.111.147/liveStream/vietsuntv_1/playlist.m3u8
+#EXTINF:0, --Phật Từ Bi
+http://83.170.111.147/liveStream/ptb_1/playlist.m3u8
+#EXTINF:0, --Ngôi Nhà Mơ Ước
+http://83.170.111.147/liveStream/vietvla_1/playlist.m3u8
+#EXTINF:0, --Tuổi Thần Tiên
+http://83.170.111.147/liveStream/ttt_1/playlist.m3u8
+#EXTINF:0, --Ẩm Thực
+http://83.170.111.147/liveStream/vnatv_1/playlist.m3u8
+#EXTINF:0, --Ngôi Nhà Vui Vẻ
+http://83.170.111.147/liveStream/BBBG_1/playlist.m3u8
+#EXTINF:0, --DÁM TV
+http://83.170.111.147/liveStream/DAMTV_1/playlist.m3u8
+#EXTINF:0, --Luật Pháp
+http://83.170.111.147/liveStream/lstv_1/playlist.m3u8
+#EXTINF:0, --Du Lịch
+http://83.170.111.147/liveStream/kvla_1/playlist.m3u8
+#EXTINF:0, --Fashion
+http://83.170.111.147/liveStream/set_1/playlist.m3u8
 
 
 #EXTINF:0, [COLOR yellow]NHÓM KÊNH SCTVHD-NOT STABLE [/COLOR]  
