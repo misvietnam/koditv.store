@@ -323,31 +323,122 @@ http://83.170.111.147/liveStream/kvla_1/playlist.m3u8
 #EXTINF:0, --Fashion
 http://83.170.111.147/liveStream/set_1/playlist.m3u8
 
-#EXTINF:0, [COLOR yellow]NHOM KENH VTVcab[/COLOR]  
-rtmp://123.29.69.69/live//VTVCab1_600k
-#EXTINF:-1,VTVCab 01
-rtmp://123.29.69.69/live//VTVCab1_600k
-#EXTINF:-1,VTVCab 02
-rtmp://123.29.69.69/live//VTVCab2_600k
-#EXTINF:-1,VTVCab 03
-rtmp://123.29.69.69/live//VTVCab3_600k
-#EXTINF:-1,VTVCab 04
-rtmp://123.29.69.69/live//VTVCab4_600k
-#EXTINF:-1,VTVCab 05
-rtmp://123.29.69.69/live//VTVCab5_600k
-#EXTINF:-1,VTVCab 06
-rtmp://123.29.69.69/live//VTVCab6_600k
-#EXTINF:-1,VTVCab 07
-rtmp://123.29.69.69/live//VTVCab7_600k
-#EXTINF:-1,VTVCab 08
-rtmp://123.29.69.69/live//VTVCab8_600k
-#EXTINF:-1,VTVCab 12
-rtmp://123.29.69.69/live//VTVCab12_600k
-#EXTINF:-1,VTVCab 16
-rtmp://123.29.69.69/live//VTVCab16_600k
-#EXTINF:-1,VTVCab 17
-rtmp://123.29.69.69/live//VTVCab17_600k
 
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH SCTVHD-NOT STABLE [/COLOR]  
+http://112.197.2.154/mlive/C001_HD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --HD1 STARMOVIE HD
+http://112.197.2.154/mlive/C001_HD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --HD2 NATGEO HD
+http://112.197.2.154/mlive/C002_HD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --HD3 DISCOVERY HD
+http://112.197.2.154/mlive/C003_HD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --HD4 HBO HD
+http://112.197.2.154/mlive/C004_HD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --HD5 FOX HD
+http://112.197.2.154/mlive/C005_HD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --HD6 VĂN HÓA
+http://112.197.2.154/mlive/C006_HD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --HD7 DU LICH
+http://112.197.2.154/mlive/C007_HD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --HD8 THE THAO
+http://112.197.2.154/mlive/C008_HD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --HD9 PHIM VIỆT
+http://112.197.2.154/mlive/C009_HD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --HD10 PHIM HQ
+http://112.197.2.154/mlive/C010_HD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --HD11 HÀI
+http://112.197.2.154/mlive/C011_HD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --HD12 SAN DIEN
+http://112.197.2.154/mlive/C012_HD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --HD13  PHIM TỔNG HỢP
+http://112.197.2.154/mlive/C013_HD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --HD14 GIẢI TRÍ TỔNG HỢP
+http://112.197.2.154/mlive/C014_HD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --HD15 PHIM NUOC NGOAI
+http://112.197.2.154/mlive/C015_HD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --HD16 THIẾU NHI
+http://112.197.2.154/mlive/C016_HD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --HD17 PHỤ NỮ
+http://112.197.2.154/mlive/C017_HD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+
+
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH SCTVSD-NOT STABLE [/COLOR]  
+http://112.197.2.154/mlive/C012_SD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --DISNEY CHANNEL
+http://112.197.2.154/mlive/C012_SD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --CARTOON NETWORK
+http://112.197.2.154/mlive/C013_SD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --HBO SD
+http://112.197.2.154/mlive/C014_SD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --START WORLD SD
+http://112.197.2.154/mlive/C015_SD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --AXN SD
+http://112.197.2.154/mlive/C016_SD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --ANIMAL PLANET
+http://112.197.2.154/mlive/C017_SD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --VCHANNEL
+http://112.197.2.154/mlive/C018_SD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --FASHTION TV
+http://112.197.2.154/mlive/C019_SD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --FOX2 
+http://112.197.2.154/mlive/C020_SD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --DISCOVERY HD
+http://112.197.2.154/mlive/C021_SD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --BBC
+http://112.197.2.154/mlive/C022_SD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --CNN 
+http://112.197.2.154/mlive/C023_SD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --CNBC
+http://112.197.2.154/mlive/C024_SD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --CHANNEL
+http://112.197.2.154/mlive/C025_SD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --YANTV
+http://112.197.2.154/mlive/C028_SD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --BONGDA TV
+http://112.197.2.154/mlive/C036_SD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH ĐỊA PHƯƠNG SCTV-NOT STABLE[/COLOR] 
+http://112.197.2.154/mlive/C049_SD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --THVL
+http://112.197.2.154/mlive/C049_SD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+EXTINF:0, --HTV2
+http://112.197.2.154/mlive/C050_SD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --LA34
+http://112.197.2.154/mlive/C051_SD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --HTV7
+http://112.197.2.154/mlive/C052_SD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --HTV9
+http://112.197.2.154/mlive/C053_SD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --O2TV
+http://112.197.2.154/mlive/C054_SD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --INFO TV
+http://112.197.2.154/mlive/C055_SD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --VTV9 LetViet
+http://112.197.2.154/mlive/C056_SD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --HN1
+http://112.197.2.154/mlive/C057_SD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --VTC7 TodayTV
+http://112.197.2.154/mlive/C058_SD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --VTVcab5 Echannel
+http://112.197.2.154/mlive/C059_SD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --DRT1
+http://112.197.2.154/mlive/C060_SD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --VTV Huế
+http://112.197.2.154/mlive/C061_SD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --BRT
+http://112.197.2.154/mlive/C062_SD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --VTV Cần Thơ
+http://112.197.2.154/mlive/C063_SD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --DN1
+http://112.197.2.154/mlive/C065_SD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --INFOTV
+http://112.197.2.154/mlive/C055_SD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --eCHANNEL
+http://112.197.2.154/mlive/C059_SD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --VTC7
+http://112.197.2.154/mlive/C058_SD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
+#EXTINF:0, --VTC9
+http://112.197.2.154/mlive/C056_SD_2/chunklist.m3u8?us=110220151505061730696636%7C1586566
 
 #EXTINF:0, [COLOR yellow]NHOM KENH TONG HOP[/COLOR]  
 rtmp://123.30.134.108/live playpath=nctlive swfUrl=http://stc.lala.nixcdn.com/tv/flash/lala_tv_6.swf pageUrl=http://lala.nhaccuatui.com/tv
@@ -355,39 +446,9 @@ rtmp://123.30.134.108/live playpath=nctlive swfUrl=http://stc.lala.nixcdn.com/tv
 rtmp://123.30.134.108/live playpath=nctlive swfUrl=http://stc.lala.nixcdn.com/tv/flash/lala_tv_6.swf pageUrl=http://lala.nhaccuatui.com/tv
 #EXTINF:0, --Bibi
 http://vtv.live.cdn.fptplay.net/vtvlive/smil:bibi_hls.smil/playlist.m3u8
+
+
 #EXTINF:0, --TOM&JERRY 
 rtmp://66.90.111.66/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html
-
-
-#EXTINF:0, [COLOR yellow]NHOM KENH THỂ THAO-VNZEE[/COLOR]  
-http://tv.vnzee.com/live/beinsports1~ztv_CND_partner.m3u8
-#EXTINF:0, --Bein1
-http://tv.vnzee.com/live/beinsports1~ztv_CND_partner.m3u8
-#EXTINF:0, --Bein2
-http://tv.vnzee.com/live/beinsports2~ztv_CND_partner.m3u8
-#EXTINF:0, --Bein2
-http://tv.vnzee.com/live/beinsports3~ztv_CND_partner.m3u8
-#EXTINF:0, --ThethaoTV HD
-http://tv.vnzee.com/live/thethaotvhd~ztv.m3u8
-#EXTINF:0, --BongdaTV HD
-http://tv.vnzee.com/live/bongdatvhd~ztv.m3u8
-#EXTINF:0, --FOX HD
-http://113.160.49.34/lives/origin03/foxhd.isml/foxhd-2096k.m3u8
-#EXTINF:0, --StarSport
-http://113.160.49.34/lives/origin03/starsportsd.isml/starsportsd.m3u8
-#EXTINF:0, --VTC3
-http://113.160.49.34/lives/origin03/vtc3hd.isml/vtc3hd.m3u8
-#EXTINF:0, --EUROSport 1
-http://tv.vnzee.com/live/eurosport~ztv_CND_partner.m3u8
-#EXTINF:0, --EUROSport 1
-http://tv.vnzee.com/live/eurosport2~ztv_CND_partner.m3u8
-#EXTINF:0, --EUROSport News
-http://tv.vnzee.com/live/eurosportnews~ztv_CND_partner.m3u8
-#EXTINF:0, --SportTime TV
-rtmp://streamer.a1.net/rtmplive/redundant/channels/Sporttime/SporttimeTV/<playpath>mp4:channel1_800 <swfUrl>http://tv.vnzee.com/zfiles/js/jwplayer.flash.swf <pageUrl>http://tv.vnzee.com/livetv~sport-time~sporttime~ztv.html
-
-
-
-
 
 
