@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon
   id="plugin.video.htvonline.com.vn"
-  version="1.0.7"
+  version="1.0.8"
   name="TV-HTVOnline"
-  provider-name="Anonymous">
+  provider-name="Traitravinh">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>

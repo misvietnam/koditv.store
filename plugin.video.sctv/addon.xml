@@ -3,7 +3,7 @@
 	id="plugin.video.sctv"
 	version="0.9.5"
 	name="TV-SCTV"
-	provider-name="ThuNM">
+	provider-name="zecoj">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 	</requires>
@@ -13,7 +13,6 @@
 	<extension point="xbmc.addon.metadata">
 		<platform>all</platform>
 		<language>en vi</language>
-		<website>Facebook store: www.facebook/tvbox.store </website>
 		<disclaimer lang="vi">Tat ca live streams duoc tai ve tu cac nha cung cap dich vu. Tac gia phan mem nay khong chiu trach nhiem ve noi dung cua chung.</disclaimer>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
 	</extension>

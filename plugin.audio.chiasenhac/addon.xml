@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.audio.chiasenhac"
        name="[COLOR FF00BFFF]Music - Chiasenhac[/COLOR]"
-       version="1.8"
-       provider-name="ThuN">
+       version="1.9"
+       provider-name="VietMusic">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="script.module.simple.downloader" version="1.9.4" />

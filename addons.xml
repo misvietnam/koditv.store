@@ -2,8 +2,8 @@
 <addons>
 <addon id="plugin.audio.chiasenhac"
        name="[COLOR FF00BFFF]Music - Chiasenhac[/COLOR]"
-       version="1.8"
-       provider-name="ThuN">
+       version="1.9"
+       provider-name="VietMusic">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="script.module.simple.downloader" version="1.9.4" />
@@ -22,7 +22,7 @@
 
 <addon id="plugin.audio.netmusic"
        name="Music-iMusic"
-       version="1.0.16"
+       version="1.0.17"
        provider-name="DaveLN">
   <requires>
         <import addon="xbmc.python" version="2.1.0" optional="true" />
@@ -43,9 +43,9 @@
 
 <addon
   id="plugin.audio.nhaccuatui"
-  version="1.1.2"
-  name="[COLOR FF00BFFF]Music - NhacCuaTui[/COLOR]"
-  provider-name="ThuN">
+  version="1.1.3"
+  name="Music - NhacCuaTui"
+  provider-name="TraiTraVinh">
   <requires>
 	<import addon="xbmc.python" version="2.1.0" />
     <import addon="script.common.plugin.cache" version="2.5.2" />
@@ -82,6 +82,24 @@
         <source></source>
         <email></email>
     </extension>
+</addon>
+
+<addon
+  id="plugin.video.anhtrang.org"
+  version="0.0.5"
+  name="Phim-AnhTrang"
+  provider-name="ThuNM">
+  <requires>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Watch movies</summary>
+    <description>Watch movies</description>
+    <platform>all</platform>
+  </extension>
 </addon>
 
 <addon id="plugin.video.cartoonhd" name="Kids-Cartoon HD" version="1.2.1" provider-name=".[COLOR blue]X[/COLOR]unity[COLOR blue]T[/COLOR]alk">
@@ -185,9 +203,9 @@
 
 <addon
   id="plugin.video.htvonline.com.vn"
-  version="1.0.7"
+  version="1.0.8"
   name="TV-HTVOnline"
-  provider-name="Anonymous">
+  provider-name="Traitravinh">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -225,9 +243,9 @@
 
 <addon
   id="plugin.video.megafun.vn"
-  version="1.0.16"
+  version="1.0.17"
   name="TV-MegaFun"
-  provider-name="ThuNM">
+  provider-name="ThongLD">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -243,9 +261,9 @@
 
 <addon
   id="plugin.video.movihd.net"
-  version="0.0.3"
+  version="0.0.6"
   name="Phim-MoviHD"
-  provider-name="TTV">
+  provider-name="Traitravinh">
   <requires>
   </requires>
   <extension point="xbmc.python.pluginsource"
@@ -259,31 +277,10 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.netadult"
-       name="xxx-iAdult"
-       version="1.0.13"
-       provider-name="Anonymous">
-  <requires>
-        <import addon="xbmc.python" version="2.1.0" optional="true" />
-		<import addon="script.module.simplejson" />
-		<import addon="script.module.t0mm0.common" version="1.1.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource"
-            library="default.py">
-        <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary>[COLOR red]Adult[/COLOR] TV and Movies</summary>
-    <description>Internet [COLOR red]Adult[/COLOR] TV and Movies [COLOR yellow]from Various Sources[/COLOR]</description>
-	<disclaimer lang="en">I am not responsible for the contents of these streams, which are pulled from online provider(s). The streams do not represent my views or opinions in any way.</disclaimer>
-    <platform>all</platform>
-  </extension>
-</addon>
-
 <addon id="plugin.video.netmedia"
        name="Show-iMedia"
-       version="1.0.13"
-       provider-name="Anonymous">
+       version="1.0.14"
+       provider-name="DaveLN">
   <requires>
         <import addon="xbmc.python" version="2.1.0" optional="true" />
 		<import addon="script.module.simplejson" />
@@ -303,8 +300,8 @@
 
 <addon id="plugin.video.netmovie"
        name="Phim-iMovie"
-       version="1.1.4"
-       provider-name="Anonymous">
+       version="1.1.6"
+       provider-name="DaveLN">
   <requires>
         <import addon="xbmc.python" version="2.1.0" optional="true" />
 		<import addon="script.module.simplejson" />
@@ -324,8 +321,8 @@
 
 <addon id="plugin.video.nettivi"
        name="TV-iTivi"
-       version="1.0.16"
-       provider-name="Anonymous">
+       version="1.0.17"
+       provider-name="DaveLN">
   <requires>
         <import addon="xbmc.python" version="2.1.0" optional="true" />
 		<import addon="script.module.simplejson" />
@@ -362,9 +359,9 @@
 
 <addon
   id="plugin.video.ourmatch.net"
-  version="1.0.6"
+  version="1.0.7"
   name="Football OurMatch"
-  provider-name="ThuN">
+  provider-name="Traitravinh">
   <requires>
   </requires>
   <extension point="xbmc.python.pluginsource"
@@ -380,9 +377,9 @@
 
 <addon
   id="plugin.video.phatphap"
-  version="1.0.1"
+  version="1.0.2"
   name="Video-PhatPhap"
-  provider-name="TTV">
+  provider-name="Traitravinh">
   <requires>
   </requires>
   <extension point="xbmc.python.pluginsource"
@@ -398,9 +395,9 @@
 
 <addon
   id="plugin.video.phim60s.info"
-  version="1.0.39"
+  version="1.0.40"
   name="Phim-Phim60s"
-  provider-name="ThuNM">
+  provider-name="ThongLD">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.urlresolver" version="0.0.1"/>
@@ -417,9 +414,9 @@
 
 <addon
   id="plugin.video.phimclip.vn"
-  version="1.0.9"
+  version="1.1.0"
   name="Phim-ClipVN"
-  provider-name="ThuNM">
+  provider-name="ThongLD">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.urlresolver" version="0.0.1"/>
@@ -436,9 +433,9 @@
 
 <addon
   id="plugin.video.phimvang.org"
-  version="1.0.8"
+  version="1.1.1"
   name="Phim-Phimvang"
-  provider-name="ThuNM">
+  provider-name="Traitravinh">
   <requires>
   </requires>
   <extension point="xbmc.python.pluginsource"
@@ -505,7 +502,7 @@
 	id="plugin.video.sctv"
 	version="0.9.5"
 	name="TV-SCTV"
-	provider-name="ThuNM">
+	provider-name="zecoj">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 	</requires>
@@ -515,7 +512,6 @@
 	<extension point="xbmc.addon.metadata">
 		<platform>all</platform>
 		<language>en vi</language>
-		<website>Facebook store: www.facebook/tvbox.store </website>
 		<disclaimer lang="vi">Tat ca live streams duoc tai ve tu cac nha cung cap dich vu. Tac gia phan mem nay khong chiu trach nhiem ve noi dung cua chung.</disclaimer>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
 	</extension>
@@ -541,7 +537,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.vietplay" name="Show-FPTPlay" version="1.0" provider-name="VietMusic">
+<addon id="plugin.video.vietplay" name="Show-FPTPlay" version="1.0.3" provider-name="VietMusic">
     <requires>
         <import addon="xbmc.python" version="2.1.0" optional="true" />
         <import addon="script.module.simplejson" />
@@ -562,7 +558,7 @@
   id="plugin.video.viettv24.com"
   version="1.2.4"
   name="TV-VietTV24"
-  provider-name="ThuNM">
+  provider-name="ThongLD">
   <requires>
         <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -578,9 +574,9 @@
 
 <addon
   id="plugin.video.vkool.net"
-  version="0.0.2"
+  version="0.0.5"
   name="Phim-Vkool"
-  provider-name="TTV">
+  provider-name="Traitravinh">
   <requires>
     <import addon="xbmc.python" version="2.1.0" optional="true"/>
     <import addon="script.module.requests" version="2.4.3" />
@@ -600,7 +596,7 @@
   id="plugin.video.vtvplus.vn"
   version="1.0.7"
   name="TV-VTVPlus"
-  provider-name="Unknown">
+  provider-name="ThongLD">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -643,32 +639,11 @@ XBMC HUB: j.mp/xbmctorrent]]></description>
     </extension>
 </addon>
 
-<addon id="plugin.video.xemphimsotv"
-       name="TV - MytvNet"
-       version="1.0.4"
-       provider-name="Unknown">
-  <requires>
-        <import addon="xbmc.python" version="2.1.0" optional="true" />
-		<import addon="script.module.simplejson" />
-		<import addon="script.module.t0mm0.common" version="1.1.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource"
-            library="default.py">
-        <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary>[COLOR yellow]Giải [COLOR cyan]trí [COLOR tan]On[COLOR coral]line[/COLOR]</summary>
-    <description>Xem miễn phí các kênh truyền hình tại http://www.xemphimso.com</description>
-	<disclaimer lang="en">Stream nội dung trên Internet nên tôi không chịu trách nhiệm về sự ổn định của các link</disclaimer>
-    <platform>all</platform>
-  </extension>
-</addon>
-
 <addon
   id="plugin.video.xixam.com"
   version="1.0.8"
   name="Phim-XiXam"
-  provider-name="ThuNM">
+  provider-name="ThongLD">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.urlresolver" version="0.0.1"/>
@@ -685,9 +660,9 @@ XBMC HUB: j.mp/xbmctorrent]]></description>
 
 <addon
   id="plugin.video.xomgiaitri.com"
-  version="1.0.6"
+  version="1.0.7"
   name="Phim-XomGiaiTri"
-  provider-name="ThuNM">
+  provider-name="ThongLD">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>

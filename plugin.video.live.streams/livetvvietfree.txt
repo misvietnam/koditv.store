@@ -1,0 +1,84 @@
+#EXTM3U
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH SCTV-ANLUONG[/COLOR]  
+rtmp://66.90.111.66/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html
+#EXTINF:0, --SCTV1
+http://sctv.live.cdn.anluong.info/live/C027_SD_3/playlist.m3u8
+#EXTINF:0, --SCTV2
+http://sctv.live.cdn.anluong.info/live/C028_SD_3/playlist.m3u8
+#EXTINF:0, --SCTV3
+http://sctv.live.cdn.anluong.info/live/C029_SD_3/playlist.m3u8
+#EXTINF:0, --SCTV4
+http://sctv.live.cdn.anluong.info/live/C030_SD_3/playlist.m3u8
+#EXTINF:0, --SCTV5
+http://sctv.live.cdn.anluong.info/live/C037_SD_3/playlist.m3u8
+#EXTINF:0, --SCTV6
+http://sctv.live.cdn.anluong.info/live/C038_SD_3/playlist.m3u8
+#EXTINF:0, --HD1 STARMOVIE HD
+http://sctv.live.cdn.anluong.info/live/C001_HD_3/playlist.m3u8
+
+
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH LIVE.ACCESSASIA [/COLOR]  
+http://live.accessasia.tv:1935/vnptg_channels/thuanviet.480p/playlist.m3u8
+#EXTINF:0, --HTVC Thuần Việt
+http://live.accessasia.tv:1935/vnptg_channels/thuanviet.480p/playlist.m3u8
+#EXTINF:0, --VTV4 Thời Sự
+http://live.accessasia.tv:1935/vnptg_channels/mp4:vtv4.480p/playlist.m3u8
+#EXTINF:0, --VTVcab2 Phim Việt
+http://live.accessasia.tv:1935/vnptg_channels/vctv2.480p/playlist.m3u8
+#EXTINF:0, --HTVC Du Lịch
+http://live.accessasia.tv:1935/vnptg_channels/mp4:dulichcuocsong.480p/playlist.m3u8
+#EXTINF:0, --SCTV14 Phim Việt
+http://live.accessasia.tv:1935/vnptg_channels/mp4:sctv14.480p/playlist.m3u8
+#EXTINF:0, --VTVcab4 Kenh17
+http://live.accessasia.tv:1935/vnptg_channels/vctv4.480p/playlist.m3u8
+#EXTINF:0, --VTVcab10 O2TV
+http://live.accessasia.tv:1935/vnptg_channels/mp4:vctv10.480p/playlist.m3u8
+#EXTINF:0, --SCTV Hài HD
+http://live.accessasia.tv:1935/vnptg_channels/sctvhaihd.480p/playlist.m3u8
+#EXTINF:0, --SCTV7 Sân Khấu
+http://live.accessasia.tv:1935/vnptg_channels/mp4:sctv7.480p/playlist.m3u8
+#EXTINF:0, --FBNC-Thông tin thương mại
+http://live.accessasia.tv:1935/vnptg_channels/mp4:htvcfbnc.480p/playlist.m3u8
+
+
+
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH HẢI NGOẠI-ONWORLDTV[/COLOR]  
+http://stream.onworldtv.com/live/sgn/index.m3u8
+#EXTINF:0,--SGN Channel
+http://stream.onworldtv.com/live/sgn/index.m3u8
+#EXTINF:0,--Vietnamese American Network Television
+http://stream.onworldtv.com/live/van/index.m3u8
+#EXTINF:0,--Little Saigon Channel
+http://stream.onworldtv.com/live/lstv/index.m3u8
+
+
+
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH HẢI NGOẠI-VIETV[/COLOR]  
+http://hls12.las.v247tv.com:8081/live/vietv-hou1/playlist.m3u8
+#EXTINF:0, --Houston
+http://hls12.las.v247tv.com:8081/live/vietv-hou1/playlist.m3u8
+#EXTINF:0, --Dalas
+http://hls12.las.v247tv.com:8081/live/vftv-dal1/playlist.m3u8
+
+
+#EXTINF:0, [COLOR yellow]NHOM KENH THỂ THAO-VNZEE[/COLOR]  
+http://tv.vnzee.com/live/beinsports1~ztv_CND_partner.m3u8
+#EXTINF:0, --Bein1
+http://tv.vnzee.com/live/beinsports1~ztv_CND_partner.m3u8
+#EXTINF:0, --Bein2
+http://tv.vnzee.com/live/beinsports2~ztv_CND_partner.m3u8
+
+
+
+#EXTINF:0, [COLOR yellow]NHOM KENH TONG HOP[/COLOR]  
+rtmp://123.30.134.108/live playpath=nctlive swfUrl=http://stc.lala.nixcdn.com/tv/flash/lala_tv_6.swf pageUrl=http://lala.nhaccuatui.com/tv
+#EXTINF:0, --N+ Nhaccuatui
+rtmp://123.30.134.108/live playpath=nctlive swfUrl=http://stc.lala.nixcdn.com/tv/flash/lala_tv_6.swf pageUrl=http://lala.nhaccuatui.com/tv
+#EXTINF:0, --ITV
+http://live.kenhitv.vn:1935/liveweb/itv_web_500k.stream/playlist.m3u8
+#EXTINF:0, --Bibi
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:bibi_hls.smil/playlist.m3u8
+#EXTINF:0, --TOM&JERRY 
+rtmp://66.90.111.66/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html
+#EXTINF:0, --CN
+http://113.160.49.34/lives/origin03/carsd.isml/carsd-1096k.m3u8
