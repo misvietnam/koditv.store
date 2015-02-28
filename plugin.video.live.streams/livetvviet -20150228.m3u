@@ -1,6 +1,76 @@
 ﻿#EXTM3U
-#EXTINF:0, [COLOR yellow]NHÓM KÊNH VTVPLAY[/COLOR]  
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH SCTV-ANLUONG[/COLOR]  
 rtmp://66.90.111.66/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html
+
+#EXTINF:0, --SCTV1
+http://sctv.live.cdn.anluong.info/live/C027_SD_3/playlist.m3u8
+#EXTINF:0, --SCTV2
+http://sctv.live.cdn.anluong.info/live/C028_SD_3/playlist.m3u8
+#EXTINF:0, --SCTV3
+http://sctv.live.cdn.anluong.info/live/C029_SD_3/playlist.m3u8
+#EXTINF:0, --SCTV4
+http://sctv.live.cdn.anluong.info/live/C030_SD_3/playlist.m3u8
+#EXTINF:0, --SCTV5
+http://sctv.live.cdn.anluong.info/live/C037_SD_3/playlist.m3u8
+#EXTINF:0, --SCTV6
+http://sctv.live.cdn.anluong.info/live/C038_SD_3/playlist.m3u8
+#EXTINF:0, --SCTV7
+http://sctv.live.cdn.anluong.info/live/C039_SD_3/playlist.m3u8
+#EXTINF:0, --SCTV8
+http://sctv.live.cdn.anluong.info/live/C040_SD_3/playlist.m3u8
+#EXTINF:0, --SCTV9 TVB VN
+http://sctv.live.cdn.anluong.info/live/C041_SD_3/playlist.m3u8
+#EXTINF:0, --SCTV10
+http://sctv.live.cdn.anluong.info/live/C064_SD_3/playlist.m3u8
+#EXTINF:0, --SCTV11
+http://sctv.live.cdn.anluong.info/live/C066_SD_3/playlist.m3u8
+#EXTINF:0, --SCTV12
+http://sctv.live.cdn.anluong.info/live/C067_SD_3/playlist.m3u8
+#EXTINF:0, --SCTV13
+http://sctv.live.cdn.anluong.info/live/C031_SD_3/playlist.m3u8
+#EXTINF:0, --SCTV14
+http://live.accessasia.tv:1935/vnptg_channels/sctv14.480p/playlist.m3u8
+#EXTINF:0, --SCTV15
+http://sctv.live.cdn.anluong.info/live/C042_SD_3/playlist.m3u8
+#EXTINF:0, --SCTV16
+http://sctv.live.cdn.anluong.info/live/C033_SD_3/playlist.m3u8
+#EXTINF:0, --SCTV17
+http://sctv.live.cdn.anluong.info/live/C034_SD_3/playlist.m3u8
+#EXTINF:0, --SCTV-Hài
+http://live.accessasia.tv:1935/vnptg_channels/sctvhaihd.480p/playlist.m3u8
+#EXTINF:0, --SCTV HD THE THAO
+http://sctv.live.cdn.anluong.info/live/C008_HD_3/playlist.m3u8
+#EXTINF:0, --SCTV HD Phim Nuoc Ngoai
+http://sctv.live.cdn.anluong.info/live/C033_SD_3/playlist.m3u8
+#EXTINF:0, --HD1 STARMOVIE HD
+http://sctv.live.cdn.anluong.info/live/C001_HD_3/playlist.m3u8
+
+
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH VTV-TV24[/COLOR]  
+rtmpe://112.197.2.154:1935/live//vtv1_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --VTV1
+rtmpe://112.197.2.154:1935/live//vtv1_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --VTV2
+rtmpe://112.197.2.154:1935/live//vtv2_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --VTV3
+rtmpe://112.197.2.154:1935/live//vtv3_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --VTV4
+rtmpe://112.197.2.154:1935/live//vtv4_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --VTV6
+rtmpe://112.197.2.154:1935/live//vtv6_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --VTV9
+rtmpe://112.197.2.154:1935/live//vtv9_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --ANTV
+rtmpe://112.197.2.154:1935/live//antv_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --HTV9
+rtmpe://112.197.2.154:1935/live//htv9_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --HN1
+rtmpe://112.197.2.154:1935/live//HN1_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --THVL
+rtmpe://112.197.2.154:1935/live//thvl_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH VTVPLAY[/COLOR]  
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv1hd_hls.smil/playlist.m3u8
 #EXTINF:0, --VTV1 HD 
 http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv1hd_hls.smil/playlist.m3u8
 #EXTINF:0, --VTV3 HD 
@@ -383,75 +453,6 @@ http://tv.vnzee.com/live/eurosport~ztv_CND_partner.m3u8
 http://tv.vnzee.com/live/eurosport2~ztv_CND_partner.m3u8
 #EXTINF:0, --EUROSport News
 http://tv.vnzee.com/live/eurosportnews~ztv_CND_partner.m3u8
-
-#EXTINF:0, [COLOR yellow]NHÓM KÊNH SCTV-ANLUONG[/COLOR]  
-http://sctv.live.cdn.anluong.info/live/C027_SD_3/playlist.m3u8
-#EXTINF:0, --SCTV1
-http://sctv.live.cdn.anluong.info/live/C027_SD_3/playlist.m3u8
-#EXTINF:0, --SCTV2
-http://sctv.live.cdn.anluong.info/live/C028_SD_3/playlist.m3u8
-#EXTINF:0, --SCTV3
-http://sctv.live.cdn.anluong.info/live/C029_SD_3/playlist.m3u8
-#EXTINF:0, --SCTV4
-http://sctv.live.cdn.anluong.info/live/C030_SD_3/playlist.m3u8
-#EXTINF:0, --SCTV5
-http://sctv.live.cdn.anluong.info/live/C037_SD_3/playlist.m3u8
-#EXTINF:0, --SCTV6
-http://sctv.live.cdn.anluong.info/live/C038_SD_3/playlist.m3u8
-#EXTINF:0, --SCTV7
-http://sctv.live.cdn.anluong.info/live/C039_SD_3/playlist.m3u8
-#EXTINF:0, --SCTV8
-http://sctv.live.cdn.anluong.info/live/C040_SD_3/playlist.m3u8
-#EXTINF:0, --SCTV9 TVB VN
-http://sctv.live.cdn.anluong.info/live/C041_SD_3/playlist.m3u8
-#EXTINF:0, --SCTV10
-http://sctv.live.cdn.anluong.info/live/C064_SD_3/playlist.m3u8
-#EXTINF:0, --SCTV11
-http://sctv.live.cdn.anluong.info/live/C066_SD_3/playlist.m3u8
-#EXTINF:0, --SCTV12
-http://sctv.live.cdn.anluong.info/live/C067_SD_3/playlist.m3u8
-#EXTINF:0, --SCTV13
-http://sctv.live.cdn.anluong.info/live/C031_SD_3/playlist.m3u8
-#EXTINF:0, --SCTV14
-http://live.accessasia.tv:1935/vnptg_channels/sctv14.480p/playlist.m3u8
-#EXTINF:0, --SCTV15
-http://sctv.live.cdn.anluong.info/live/C042_SD_3/playlist.m3u8
-#EXTINF:0, --SCTV16
-http://sctv.live.cdn.anluong.info/live/C033_SD_3/playlist.m3u8
-#EXTINF:0, --SCTV17
-http://sctv.live.cdn.anluong.info/live/C034_SD_3/playlist.m3u8
-#EXTINF:0, --SCTV-Hài
-http://live.accessasia.tv:1935/vnptg_channels/sctvhaihd.480p/playlist.m3u8
-#EXTINF:0, --SCTV HD THE THAO
-http://sctv.live.cdn.anluong.info/live/C008_HD_3/playlist.m3u8
-#EXTINF:0, --SCTV HD Phim Nuoc Ngoai
-http://sctv.live.cdn.anluong.info/live/C033_SD_3/playlist.m3u8
-#EXTINF:0, --HD1 STARMOVIE HD
-http://sctv.live.cdn.anluong.info/live/C001_HD_3/playlist.m3u8
-
-
-#EXTINF:0, [COLOR yellow]NHÓM KÊNH VTV-TV24[/COLOR]  
-rtmpe://112.197.2.154:1935/live//vtv1_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
-#EXTINF:0, --VTV1
-rtmpe://112.197.2.154:1935/live//vtv1_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
-#EXTINF:0, --VTV2
-rtmpe://112.197.2.154:1935/live//vtv2_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
-#EXTINF:0, --VTV3
-rtmpe://112.197.2.154:1935/live//vtv3_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
-#EXTINF:0, --VTV4
-rtmpe://112.197.2.154:1935/live//vtv4_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
-#EXTINF:0, --VTV6
-rtmpe://112.197.2.154:1935/live//vtv6_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
-#EXTINF:0, --VTV9
-rtmpe://112.197.2.154:1935/live//vtv9_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
-#EXTINF:0, --ANTV
-rtmpe://112.197.2.154:1935/live//antv_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
-#EXTINF:0, --HTV9
-rtmpe://112.197.2.154:1935/live//htv9_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
-#EXTINF:0, --HN1
-rtmpe://112.197.2.154:1935/live//HN1_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
-#EXTINF:0, --THVL
-rtmpe://112.197.2.154:1935/live//thvl_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
 
 #EXTINF:0, [COLOR yellow]NHOM KENH TEST[/COLOR] 
 
