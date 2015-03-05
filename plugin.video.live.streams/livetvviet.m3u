@@ -40,38 +40,66 @@ http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv1hd_hls.smil/playlist.m3u8
 http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv3hd_hls.smil/playlist.m3u8
 #EXTINF:0, --VTV6 HD 
 http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv6hd_hls.smil/playlist.m3u8
-#EXTINF:0, --VTVCAB1 GIẢI TRÍ
-http://vtv.live.cdn.fptplay.net/vtvlive/smil:giaitritv_hls.smil/playlist.m3u8
-#EXTINF:0, --VTVcab2 PHIM VIET
-http://vtv.live.cdn.fptplay.net/vtvlive/smil:phimviet_hls.smil/playlist.m3u8
-#EXTINF:0, --VTVCAB4 KÊNH17
-http://vtv.live.cdn.fptplay.net/vtvlive/smil:kenh17_hls.smil/playlist.m3u8
-#EXTINF:0, --VTVCAB7 DDRAMAS
-http://vtv.live.cdn.fptplay.net/vtvlive/smil:ddramas_hls.smil/playlist.m3u8
-#EXTINF:0, --VTVCAB8 BIBI 
+#EXTINF:0, --BIBI TV
 http://vtv.live.cdn.fptplay.net/vtvlive/smil:bibi_hls.smil/playlist.m3u8
-#EXTINF:0, --VTVCAB9 INFOTV
-http://vtv.live.cdn.fptplay.net/vtvlive/smil:infotv_hls.smil/playlist.m3u8
-#EXTINF:0, --VTVCAB10 O2TV
-http://vtv.live.cdn.fptplay.net/vtvlive/smil:o2tv_hls.smil/playlist.m3u8
-#EXTINF:0, --VTVCAB12 STYLETV
-http://vtv.live.cdn.fptplay.net/vtvlive/smil:styletv_hls.smil/playlist.m3u8
-#EXTINF:0, --VTVCAB15 INVESTV
-http://vtv.live.cdn.fptplay.net/vtvlive/smil:investtv_hls.smil/playlist.m3u8
-#EXTINF:0, --HN1 HÀ NỘI 1
-http://vtv.live.cdn.fptplay.net/vtvlive/smil:hanoi1_hls.smil/playlist.m3u8
-#EXTINF:0, --HTV9
-http://vtv.live.cdn.fptplay.net/vtvlive/smil:htv9_hls.smil/playlist.m3u8
-#EXTINF:0, --HTVC PHỤ NỮ
-http://vtv.live.cdn.fptplay.net/vtvlive/smil:htvcphunu_hls.smil/playlist.m3u8
-#EXTINF:0, --VTC4 YEAH1
-http://vtv.live.cdn.fptplay.net/vtvlive/smil:yeah1tv_hls.smil/playlist.m3u8
+#EXTINF:0, --KÊNH17
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:kenh17_hls.smil/playlist.m3u8
 #EXTINF:0, --SCTVHD HÀI
 http://vtv.live.cdn.fptplay.net/vtvlive/smil:sctvhaihd_hls.smil/playlist.m3u8
+#EXTINF:0, --HTV9
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:htv9_hls.smil/playlist.m3u8
 #EXTINF:0, --ARIANG
 http://vtv.live.cdn.fptplay.net/vtvlive/smil:arirang_hls.smil/playlist.m3u8
 #EXTINF:0, --KBS
 http://vtv.live.cdn.fptplay.net/vtvlive/smil:kbs_hls.smil/playlist.m3u8
+#EXTINF:0, --VTVcab2 PHIM VIET
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:phimviet_hls.smil/playlist.m3u8
+#EXTINF:0, --VTVCAB1 GIẢI TRÍ
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:giaitritv_hls.smil/playlist.m3u8
+#EXTINF:0, --VTVCAB10 O2TV
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:o2tv_hls.smil/playlist.m3u8
+#EXTINF:0, --VTVCAB15 INVESTV
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:investtv_hls.smil/playlist.m3u8
+#EXTINF:0, --VTVCAB9 INFOTV
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:infotv_hls.smil/playlist.m3u8
+#EXTINF:0, --BÓNG ĐÁ TV
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:bongdatvsd_hls.smil/playlist.m3u8
+#EXTINF:0, --THỂ THAO TV
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:thethaotvsd_hls.smil/playlist.m3u8
+#EXTINF:0, --HN1 HÀ NỘI 1
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:hanoi1_hls.smil/playlist.m3u8
+#EXTINF:0, --HTVC PHỤ NỮ
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:htvcphunu_hls.smil/playlist.m3u8
+
+#EXTINF:0, --VTVCAB7 DDRAMAS
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:ddramas_hls.smil/playlist.m3u8
+#EXTINF:0, --VTVCAB12 STYLETV
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:styletv_hls.smil/playlist.m3u8
+#EXTINF:0, --VTC4 YEAH1
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:yeah1tv_hls.smil/playlist.m3u8
+
+
+#EXTINF:0, [COLOR yellow]NHOM KENH THỂ THAO[/COLOR]  
+http://tv.vnzee.com/live/beinsports1~ztv_CND_partner.m3u8
+#EXTINF:0, --Bein1
+http://tv.vnzee.com/live/beinsports1~ztv_CND_partner.m3u8
+#EXTINF:0, --Bein2
+http://tv.vnzee.com/live/beinsports2~ztv_CND_partner.m3u8
+#EXTINF:0, --Bein2
+http://tv.vnzee.com/live/beinsports3~ztv_CND_partner.m3u8
+#EXTINF:0, --EUROSport 1
+http://tv.vnzee.com/live/eurosport~ztv_CND_partner.m3u8
+#EXTINF:0, --EUROSport 1
+http://tv.vnzee.com/live/eurosport2~ztv_CND_partner.m3u8
+#EXTINF:0, --EUROSport News
+http://tv.vnzee.com/live/eurosportnews~ztv_CND_partner.m3u8
+#EXTINF:0, --BÓNG ĐÁ TV
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:bongdatvsd_hls.smil/playlist.m3u8
+#EXTINF:0, --THỂ THAO TV
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:thethaotvsd_hls.smil/playlist.m3u8
+
+
+
 
 #EXTINF:0, [COLOR yellow]NHÓM KÊNH VP9[/COLOR]  
 http://115.146.126.226/chn/vtv1/v.m3u8
