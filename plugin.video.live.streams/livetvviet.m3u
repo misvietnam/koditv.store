@@ -870,4 +870,37 @@ http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8
 http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?
 
 
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH USER REQUEST[/COLOR]  
+rtmp://c.cdn.newschat.tv/edge playpath=hln_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/twoons/
+#EXTINF: -1, Twoons
+rtmp://c.cdn.newschat.tv/edge playpath=hln_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/twoons/
+#EXTINF: -1, EVENT
+rtmp://c.cdn.newschat.tv/edge playpath=special_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/special-events/
+#EXTINF: -1, EVENT Extra
+rtmp://c.cdn.newschat.tv/edge playpath=specialextra_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/special-events-xtra/
+#EXTINF: -1, TEST
+rtmp://b.cdn.newschat.tv/edge playpath=al_jazeera_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/jazzyi/
+#EXTINF: -1, BLOOG News
+rtmp://b.cdn.newschat.tv/edge playpath=bloomberg_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/bloombug/
+#EXTINF: -1, UK News
+rtmp://c.cdn.newschat.tv/edge playpath=bbcnews_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/uk/
+#EXTINF: -1, CANADA News
+rtmp://b.cdn.newschat.tv/edge playpath=cbc_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/canada/
+#EXTINF: -1, FOOD News
+rtmp://c.cdn.newschat.tv/edge playpath=food_hd swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/food/
+#EXTINF: -1, International buzz
+rtmp://b.cdn.newschat.tv/edge playpath=cnni_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/international/
+#EXTINF: -1, POLITICS News
+rtmp://b.cdn.newschat.tv/edgeplaypath=msnbc_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/politics/
+#EXTINF: -1, STOCK News
+rtmp://a.cdn.newschat.tv/edgeplaypath=cnbc_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/stocks/
+#EXTINF: -1, TOP News
+rtmp://b.cdn.newschat.tv/edgeplaypath=cnn_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/top/
+#EXTINF: -1, RT American News
+rtmp://b.cdn.newschat.tv/edgeplaypath=russiatodayhd_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/rt-america/
+#EXTINF: -1, WORLD News
+rtmp://b.cdn.newschat.tv/edgeplaypath=bbcwn_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/world/
+#EXTINF: -1, HLN
+rtmp://c.cdn.newschat.tv/edge/hln_live
+
 
