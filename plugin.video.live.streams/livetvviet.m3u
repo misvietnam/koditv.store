@@ -526,31 +526,6 @@ http://69.178.181.93:1935/phoviettv/myStream/playlist-2096k.m3u8
 #EXTINF:0,--MTV Viet
 http://64.62.143.5:1935/live/do%20not%20steal%20my-Stream1/playlist.m3u8
 
-#EXTINF:0, [COLOR yellow]NHOM KENH VTVcab[/COLOR]  
-rtmp://123.29.69.69/live//VTVCab1_600k
-#EXTINF:-1,VTVCab 01
-rtmp://123.29.69.69/live//VTVCab1_600k
-#EXTINF:-1,VTVCab 02
-rtmp://123.29.69.69/live//VTVCab2_600k
-#EXTINF:-1,VTVCab 03
-rtmp://123.29.69.69/live//VTVCab3_600k
-#EXTINF:-1,VTVCab 04
-rtmp://123.29.69.69/live//VTVCab4_600k
-#EXTINF:-1,VTVCab 05
-rtmp://123.29.69.69/live//VTVCab5_600k
-#EXTINF:-1,VTVCab 06
-rtmp://123.29.69.69/live//VTVCab6_600k
-#EXTINF:-1,VTVCab 07
-rtmp://123.29.69.69/live//VTVCab7_600k
-#EXTINF:-1,VTVCab 08
-rtmp://123.29.69.69/live//VTVCab8_600k
-#EXTINF:-1,VTVCab 12
-rtmp://123.29.69.69/live//VTVCab12_600k
-#EXTINF:-1,VTVCab 16
-rtmp://123.29.69.69/live//VTVCab16_600k
-#EXTINF:-1,VTVCab 17
-rtmp://123.29.69.69/live//VTVCab17_600k
-
 
 #EXTINF:0, [COLOR yellow]NHOM KENH TONG HOP[/COLOR]  
 rtmp://123.30.134.108/live playpath=nctlive swfUrl=http://stc.lala.nixcdn.com/tv/flash/lala_tv_6.swf pageUrl=http://lala.nhaccuatui.com/tv
@@ -581,50 +556,44 @@ http://tv.vnzee.com/live/eurosport2~ztv_CND_partner.m3u8
 #EXTINF:0, --EUROSport News
 http://tv.vnzee.com/live/eurosportnews~ztv_CND_partner.m3u8
 
-#EXTINF:0, [COLOR yellow]NHÓM KÊNH SCTV-ANLUONG[/COLOR]  
-http://sctv.live.cdn.anluong.info/live/C027_SD_3/playlist.m3u8
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH SCTV-TV24[/COLOR]  
+rtmp://66.90.111.66/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html
 #EXTINF:0, --SCTV1
-http://sctv.live.cdn.anluong.info/live/C027_SD_3/playlist.m3u8
+rtmpe://112.197.2.154:1935/live//sctv1_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
 #EXTINF:0, --SCTV2
-http://sctv.live.cdn.anluong.info/live/C028_SD_3/playlist.m3u8
+rtmpe://112.197.2.154:1935/live//sctv2_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
 #EXTINF:0, --SCTV3
-http://sctv.live.cdn.anluong.info/live/C029_SD_3/playlist.m3u8
+rtmpe://112.197.2.154:1935/live//sctv3_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
 #EXTINF:0, --SCTV4
-http://sctv.live.cdn.anluong.info/live/C030_SD_3/playlist.m3u8
+rtmpe://112.197.2.154:1935/live//sctv4_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
 #EXTINF:0, --SCTV5
-http://sctv.live.cdn.anluong.info/live/C037_SD_3/playlist.m3u8
+rtmpe://112.197.2.154:1935/live//sctv5_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
 #EXTINF:0, --SCTV6
-http://sctv.live.cdn.anluong.info/live/C038_SD_3/playlist.m3u8
+rtmpe://112.197.2.154:1935/live//sctv6_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
 #EXTINF:0, --SCTV7
-http://sctv.live.cdn.anluong.info/live/C039_SD_3/playlist.m3u8
+rtmpe://112.197.2.154:1935/live//sctv7_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
 #EXTINF:0, --SCTV8
-http://sctv.live.cdn.anluong.info/live/C040_SD_3/playlist.m3u8
-#EXTINF:0, --SCTV9 TVB VN
-http://sctv.live.cdn.anluong.info/live/C041_SD_3/playlist.m3u8
+rtmpe://112.197.2.154:1935/live//sctv8_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --SCTV9
+rtmpe://112.197.2.154:1935/live//sctv9_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
 #EXTINF:0, --SCTV10
-http://sctv.live.cdn.anluong.info/live/C064_SD_3/playlist.m3u8
+rtmpe://112.197.2.154:1935/live//sctv10_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
 #EXTINF:0, --SCTV11
-http://sctv.live.cdn.anluong.info/live/C066_SD_3/playlist.m3u8
+rtmpe://112.197.2.154:1935/live//sctv11_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
 #EXTINF:0, --SCTV12
-http://sctv.live.cdn.anluong.info/live/C067_SD_3/playlist.m3u8
+rtmpe://112.197.2.154:1935/live//sctv12_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
 #EXTINF:0, --SCTV13
-http://sctv.live.cdn.anluong.info/live/C031_SD_3/playlist.m3u8
+rtmpe://112.197.2.154:1935/live//sctv13_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
 #EXTINF:0, --SCTV14
-http://live.accessasia.tv:1935/vnptg_channels/sctv14.480p/playlist.m3u8
+rtmpe://112.197.2.154:1935/live//sctv14_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
 #EXTINF:0, --SCTV15
-http://sctv.live.cdn.anluong.info/live/C042_SD_3/playlist.m3u8
+rtmpe://112.197.2.154:1935/glive//C042_SD_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
 #EXTINF:0, --SCTV16
-http://sctv.live.cdn.anluong.info/live/C033_SD_3/playlist.m3u8
+rtmpe://112.197.2.154:1935/live//sctv16_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
 #EXTINF:0, --SCTV17
-http://sctv.live.cdn.anluong.info/live/C034_SD_3/playlist.m3u8
-#EXTINF:0, --SCTV-Hài
-http://live.accessasia.tv:1935/vnptg_channels/sctvhaihd.480p/playlist.m3u8
-#EXTINF:0, --SCTV HD THE THAO
-http://sctv.live.cdn.anluong.info/live/C008_HD_3/playlist.m3u8
-#EXTINF:0, --SCTV HD Phim Nuoc Ngoai
-http://sctv.live.cdn.anluong.info/live/C033_SD_3/playlist.m3u8
-#EXTINF:0, --HD1 STARMOVIE HD
-http://sctv.live.cdn.anluong.info/live/C001_HD_3/playlist.m3u8
+rtmpe://112.197.2.154:1935/live//sctv17_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --SCTV18
+rtmpe://112.197.2.154:1935/glive//C008_HD_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
 
 
 #EXTINF:0, [COLOR yellow]NHÓM KÊNH US[/COLOR]  
@@ -872,7 +841,7 @@ http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?
 
 #EXTINF:0, [COLOR yellow]NHÓM KÊNH USER REQUEST[/COLOR]  
 rtmp://c.cdn.newschat.tv/edge playpath=hln_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/twoons/
-#EXTINF: -1, Twoons
+#EXTINF: -1, HLN
 rtmp://c.cdn.newschat.tv/edge playpath=hln_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/twoons/
 #EXTINF: -1, EVENT
 rtmp://c.cdn.newschat.tv/edge playpath=special_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/special-events/
@@ -890,17 +859,5 @@ rtmp://b.cdn.newschat.tv/edge playpath=cbc_live swfUrl=http://msnbclive.eu/playe
 rtmp://c.cdn.newschat.tv/edge playpath=food_hd swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/food/
 #EXTINF: -1, International buzz
 rtmp://b.cdn.newschat.tv/edge playpath=cnni_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/international/
-#EXTINF: -1, POLITICS News
-rtmp://b.cdn.newschat.tv/edgeplaypath=msnbc_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/politics/
-#EXTINF: -1, STOCK News
-rtmp://a.cdn.newschat.tv/edgeplaypath=cnbc_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/stocks/
-#EXTINF: -1, TOP News
-rtmp://b.cdn.newschat.tv/edgeplaypath=cnn_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/top/
-#EXTINF: -1, RT American News
-rtmp://b.cdn.newschat.tv/edgeplaypath=russiatodayhd_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/rt-america/
-#EXTINF: -1, WORLD News
-rtmp://b.cdn.newschat.tv/edgeplaypath=bbcwn_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/world/
-#EXTINF: -1, HLN
-rtmp://c.cdn.newschat.tv/edge/hln_live
 
 
