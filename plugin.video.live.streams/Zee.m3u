@@ -72,14 +72,17 @@ http://tv.vnzee.com/live/cinemax~ztv_CND_partner.m3u8
 http://tv.vnzee.com/live/starmovies~ztv_CND_partner.m3u8
 #EXTINF:0, --Starmovie [COLOR yellow]HD[/COLOR]   
 http://tv.vnzee.com/live/starmovieshd~ztv_CND_partner.m3u8
-#EXTINF:0, --CinemaWorld [COLOR yellow]HD[/COLOR]   
-http://vtv.fpt.cdn.anluong.info/live/cinemaworldhd_1000.stream/manifest.f4m
-#EXTINF:0, --WannerTV [COLOR yellow]HD[/COLOR]   
-http://vtv.fpt.cdn.anluong.info/live/cinemaworldhd_1000.stream/playlist_b125000.abst
 
-
-
-
+#EXTINF:0, --FOX Movies [COLOR yellow]HD[/COLOR]   
+http://162.212.176.107:1935/fox_movies/globaltv-fox_movies.stream/chunklist_w648562526.m3u8
+#EXTINF:0, --2VTC [COLOR yellow]HD[/COLOR]   
+http://tv.vnzee.com/live/vtchd2~ztv_CND_partner.m3u8
+#EXTINF:0, --Discovery [COLOR yellow]HD[/COLOR]   
+http://tv.vnzee.com/live/discovery~ztv_CND_partner.m3u8
+#EXTINF:0, --HTV Thethao [COLOR yellow]HD[/COLOR]   
+http://tv.vnzee.com/live/htvthethao~ztv_CND_partner.m3u8
+#EXTINF:0, --Fox
+http://tv.vnzee.com/live/foxsports2~ztv_CND_partner.m3u8
 
 
 
