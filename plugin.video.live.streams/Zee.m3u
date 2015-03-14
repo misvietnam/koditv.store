@@ -92,11 +92,7 @@ http://117.103.206.26:1935/live/_definst_/VTC3/smil:VTC3_live.smil/playlist.m3u8
 #EXTINF:0, --DRT1
 rtmp://yqyydhnc.cdnviet.com/mnrrnlm/ playpath=drt1 swfUrl=http://tv.vnzee.com/zfiles/js/jwplayer.flash.swf pageUrl=http://tv.vnzee.com/livetv~da-nang-1~drt1~ztv.html
 #EXTINF:0, --DRT2
-rtmp://drt.danang.vn/live playpath=livestream swfUrl=http://drt.danang.vn/js/DRTplayer.swf pageUrl=http://www.123tivi.com/2011/04/ai-truyen-hinh-nang-2-truc-tuyen-kenh.html
-
-
-
-
+rtmp://drt.danang.vn/live/ playpath=livestream swfUrl=http://www.drt.danang.vn/js/DRTplayer.swf pageUrl=http://www.123tivi.com/2011/04/ai-truyen-hinh-nang-2-truc-tuyen-kenh.html
 
 
 
