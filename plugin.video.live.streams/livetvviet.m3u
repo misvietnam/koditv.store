@@ -530,6 +530,8 @@ http://83.170.111.147/liveStream/viettv24_1/playlist.m3u8
 http://83.170.111.147/liveStream/viettv24_1/playlist.m3u8
 #EXTINF:0, --MTV Việt
 http://83.170.111.147/liveStream/mtv_1/playlist.m3u8
+
+
 #EXTINF:0, --Cải Lương
 http://83.170.111.147/liveStream/cailuong_1/playlist.m3u8
 #EXTINF:0, --Hài
@@ -948,4 +950,10 @@ rtmp://c.cdn.newschat.tv/edge playpath=food_hd swfUrl=http://msnbclive.eu/player
 #EXTINF: -1, International buzz
 rtmp://b.cdn.newschat.tv/edge playpath=cnni_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/international/
 
+#EXTINF:0, --MTV VIET
+http://64.62.143.5:1935/live/donotstealmy-Stream1/playlist.m3u8?bitrate=800&q=high
+#EXTINF:0, --vPOP tv
+http://206.190.136.254:1935/liveStream/vpoptv_1/playlist.m3u8
+#EXTINF:0, --MTV
+rtmp://85.132.78.6:1935/live playpath=muztv.stream swfUrl=http://zui.vn/templates/images/jwplayer.swf
 
