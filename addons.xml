@@ -62,6 +62,24 @@
   </extension>
 </addon>
 
+<addon id="plugin.audio.ukmvjb" name="Music-Jukebox" version="1.0.0" provider-name="Gary Hall">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="plugin.video.youtube" version="4.4.10"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>audio</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">UK Music Video Jukebox</summary>
+    <description lang="en">A sensational collection of pop videos from the biggest Top 40 hits in the UK charts, from the 1970's to the present day. Travel back in time to relive those happy memories from days gone by or keep up to date with todays top hits, from all of your favourite artists.</description>
+    <disclaimer lang="en"></disclaimer>
+    <language>en</language>
+    <platform>all</platform>
+    <email>gh@874.org.uk</email>
+  </extension>
+</addon>
+
     <addon id="plugin.program.addoninstaller" version="1.2.0"
     	name="Addon Installer" provider-name="tvaddons.ag, Blazetamer, TheHighway">
     <requires>
@@ -261,7 +279,7 @@
 
 <addon
   id="plugin.video.movihd.net"
-  version="0.0.6"
+  version="0.0.7"
   name="Phim-MoviHD"
   provider-name="Traitravinh">
   <requires>
@@ -475,6 +493,31 @@
   </extension>
 </addon>
 
+<addon id="plugin.video.popcornflix"
+       name="Popcornflix"
+       version="1.0.8"
+       provider-name="t1m">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Popcornflix.com Video Addon</summary>
+    <description lang="en">Popcornflix offers a broad collection of great movies you can watch right now</description>
+    <disclaimer lang="en">Feel free to use this script. For information visit the wiki.</disclaimer>
+    <platform>all</platform>
+    <language>en</language>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <forum>http://forum.xbmc.org/showthread.php?tid=198931</forum>
+    <website>http://www.popcornflix.com</website>
+    <email></email>
+    <source>https://github.com/learningit/plugin.video.popcornflix</source>
+  </extension>
+</addon>
+
 <addon id="plugin.video.pulsar" name="Pulsar" version="0.4.5" provider-name="steeve">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
@@ -517,6 +560,56 @@
 	</extension>
 </addon>
 
+<addon id="plugin.video.snagfilms"
+       name="Snagfilms"
+       version="1.0.7"
+       provider-name="t1m">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Snagfilms Video Addon</summary>
+    <description lang="en">SnagFilms offers a broad collection of great movies you can watch right now</description>
+    <disclaimer lang="en">Feel free to use this script. For information visit the wiki.</disclaimer>
+    <platform>all</platform>
+    <language>en</language>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <forum></forum>
+    <website>http://www.snagfilms.com</website>
+    <email></email>
+    <source></source>
+  </extension>
+</addon>
+
+<addon id="plugin.video.sprout"
+       name="Sprout"
+       version="1.0.5"
+       provider-name="t1m">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Sprout for Kids Video Addon</summary>
+    <description lang="en">The 24-hour preschool channel parents and kids share together. Sprout is home to trusted favorites like Sesame Street and Barney and Friends, plus innovative Sprout Originals such as The Sunny Side Up Show and The Good Night Show.</description>
+    <disclaimer lang="en">Feel free to use this script. For information visit the wiki.</disclaimer>
+    <platform>all</platform>
+    <language>en</language>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <forum>http://forum.xbmc.org/showthread.php?tid=196085</forum>
+    <website>www.sproutonline.com</website>
+    <email></email>
+    <source>https://github.com/learningit/plugin.video.sprout/</source>
+  </extension>
+</addon>
+
 <addon id="plugin.video.vietmovie"
        name="Phim-Megabox"
        version="1.5"
@@ -537,7 +630,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.vietplay" name="Show-FPTPlay" version="1.0.3" provider-name="VietMusic">
+<addon id="plugin.video.vietplay" name="Show-FPTPlay" version="1.0.4" provider-name="VietMusic">
     <requires>
         <import addon="xbmc.python" version="2.1.0" optional="true" />
         <import addon="script.module.simplejson" />
@@ -577,9 +670,11 @@
   version="0.0.5"
   name="Phim-Vkool"
   provider-name="Traitravinh">
-  <requires>
+<requires>
     <import addon="xbmc.python" version="2.1.0" optional="true"/>
     <import addon="script.module.requests" version="2.4.3" />
+    <import addon="script.common.plugin.cache" version="2.5.2" />
+    <import addon="script.module.simple.downloader" version="1.9.4" />
   </requires>
   <extension point="xbmc.python.pluginsource"
             library="default.py">

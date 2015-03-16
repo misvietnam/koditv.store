@@ -100,7 +100,8 @@ http://206.190.136.254:1935/liveStream/vpoptv_1/playlist.m3u8
 #EXTINF:0, --MTV
 rtmp://85.132.78.6:1935/live playpath=muztv.stream swfUrl=http://zui.vn/templates/images/jwplayer.swf
 
-
+#EXTINF:0, --Thethao
+http://hplus.com.vn/vi/content/detail/the-thao-tv-hd-2133.html
 
 
 
